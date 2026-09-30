@@ -3,9 +3,7 @@ import json
 
 from dotenv import load_dotenv
 from groq import Groq
-
-from tools import prioritize_subject
-
+from tools import prioritize_subject, predict_study_time
 
 load_dotenv()
 
@@ -18,55 +16,77 @@ client = Groq(api_key=api_key)
 
 
 tools = [
-    {
+        {
         "type": "function",
         "function": {
-            "name": "prioritize_subject",
-            "description": "Calculate the study priority of a subject using credits, days remaining, and previous marks.",
+            "name": "predict_study_time",
+            "description": (
+                "Predict the recommended number of study hours "
+                "for a student based on subject difficulty, "
+                "previous score, days remaining, and completion percentage."
+            ),
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "credits": {
+                    "difficulty": {
                         "type": "integer",
-                        "description": "Number of academic credits for the subject."
+                        "description": "Difficulty of the subject from 1 to 5."
+                    },
+                    "previous_score": {
+                        "type": "number",
+                        "description": "Student's previous score."
                     },
                     "days_left": {
                         "type": "integer",
                         "description": "Number of days remaining before the exam."
                     },
-                    "previous_marks": {
+                    "completion_percent": {
                         "type": "number",
-                        "description": "Student's previous marks for the subject."
+                        "description": "Percentage of the subject already completed."
                     }
                 },
                 "required": [
-                    "credits",
+                    "difficulty",
+                    "previous_score",
                     "days_left",
-                    "previous_marks"
+                    "completion_percent"
                 ]
             }
         }
     }
+    
 ]
 
 
 messages = [
+   {
+    "role": "system",
+    "content": """
+    You are a study planning assistant.
+    Use the available tools whenever their information is needed
+    to make a study recommendation.
+    """
+},
     {
-        "role": "system",
-        "content": (
-            "You are a study planning assistant. "
-            "Use the available tool when you need to determine "
-            "a subject's study priority."
-        )
-    },
-    {
-        "role": "user",
-        "content": (
-            "I have an AI exam in 2 days. "
-            "The subject has 4 credits and I previously scored 45 marks. "
-            "Determine its priority."
-        )
-    }
+    "role": "user",
+    "content": """
+    I have an AI exam in 2 days.
+
+    Subject details:
+    - Subject: AI
+    - Credits: 4
+    - Previous score: 45
+    - Difficulty: 5 out of 5
+    - Syllabus completion: 30%
+
+    Analyze my situation and tell me:
+    1. How much priority should I give this subject?
+    2. How many hours should I study?
+    3. Give me a short study recommendation.
+
+    Use the available tools whenever needed.
+    """
+}
 ]
 
 
@@ -85,34 +105,52 @@ print(message)
 
 if message.tool_calls:
 
-    tool_call = message.tool_calls[0]
-
-    print("\n--- TOOL REQUEST ---")
-    print("Tool:", tool_call.function.name)
-    print("Arguments:", tool_call.function.arguments)
-
-    arguments = json.loads(tool_call.function.arguments)
-
-    result = prioritize_subject(
-        credits=arguments["credits"],
-        days_left=arguments["days_left"],
-        previous_marks=arguments["previous_marks"]
-    )
-
-    print("\n--- TOOL RESULT ---")
-    print(result)
-
     # Add the assistant's tool request to the conversation
     messages.append(message)
 
-    # Add the tool result to the conversation
-    messages.append({
-        "role": "tool",
-        "tool_call_id": tool_call.id,
-        "content": json.dumps(result)
-    })
+    for tool_call in message.tool_calls:
 
-    # Ask the LLM to produce the final answer
+        tool_name = tool_call.function.name
+        arguments = json.loads(tool_call.function.arguments)
+
+        print("\n--- TOOL REQUEST ---")
+        print("Tool:", tool_name)
+        print("Arguments:", arguments)
+
+        # Execute the requested tool
+        if tool_name == "prioritize_subject":
+
+            result = prioritize_subject(
+                credits=arguments["credits"],
+                days_left=arguments["days_left"],
+                previous_marks=arguments["previous_marks"]
+            )
+
+        elif tool_name == "predict_study_time":
+
+            result = predict_study_time(
+                difficulty=arguments["difficulty"],
+                previous_score=arguments["previous_score"],
+                days_left=arguments["days_left"],
+                completion_percent=arguments["completion_percent"]
+            )
+
+        else:
+            result = {
+                "error": f"Unknown tool: {tool_name}"
+            }
+
+        print("\n--- TOOL RESULT ---")
+        print(result)
+
+        # Send the tool result back to the LLM
+        messages.append({
+            "role": "tool",
+            "tool_call_id": tool_call.id,
+            "content": json.dumps(result)
+        })
+
+    # Ask the LLM to continue after receiving tool results
     final_response = client.chat.completions.create(
         model="openai/gpt-oss-20b",
         messages=messages,
