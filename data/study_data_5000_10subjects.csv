@@ -1,0 +1,5001 @@
+subject,difficulty,previous_score,days_left,completion_percent,study_hours
+Software Engineering,4,60,30,73,3.9
+DBMS,3,49,17,15,4.34
+AI,3,41,20,34,4.48
+Computer Networks,2,47,20,42,3.19
+OS,4,49,4,75,4.87
+Python,4,66,9,92,3.32
+AI,3,43,18,76,3.7
+OS,3,58,10,12,5.17
+Computer Networks,3,35,18,83,4.2
+OS,5,94,17,69,3.04
+Software Engineering,4,71,8,22,4.64
+Web Development,4,64,11,26,4.93
+Web Development,3,53,16,12,4.5
+Statistics,3,79,16,79,2.97
+Web Development,4,59,3,80,4.83
+DBMS,2,40,6,5,5.29
+Software Engineering,3,38,1,85,6.08
+Computer Networks,2,52,2,69,5.15
+AI,5,45,23,56,5.34
+Maths,5,95,13,6,4.87
+DBMS,3,55,22,74,3.44
+Statistics,4,83,29,31,3.69
+Web Development,2,59,2,85,3.97
+Statistics,3,85,10,64,3.11
+Maths,4,79,21,24,4.3
+Computer Networks,3,43,7,10,5.04
+Computer Networks,4,55,9,7,5.39
+Web Development,5,84,6,57,4.31
+DBMS,4,92,8,47,3.78
+Data Structures,4,60,7,6,5.2
+Computer Networks,4,52,17,46,5.04
+Software Engineering,2,37,29,93,2.25
+Computer Networks,4,62,29,42,4.45
+Python,1,58,24,82,2.49
+Python,2,93,27,80,2.45
+OS,2,76,10,9,3.91
+DBMS,2,59,13,6,4.08
+Maths,5,61,3,23,6.48
+DBMS,3,52,16,83,3.7
+Maths,5,68,1,67,6.63
+Software Engineering,4,84,1,38,6.45
+Data Structures,4,92,6,60,3.83
+AI,4,58,22,24,4.62
+Python,2,40,28,32,4.56
+Maths,2,90,25,74,1.96
+Computer Networks,3,67,1,15,7.23
+Software Engineering,2,41,26,54,3.79
+AI,3,47,12,54,4.23
+Python,2,43,14,77,2.8
+Python,3,79,4,94,3.24
+Statistics,3,55,25,36,3.69
+OS,4,57,9,12,5.46
+DBMS,3,71,18,44,4.03
+DBMS,5,86,24,31,4.74
+Python,3,82,10,42,3.3
+Data Structures,4,68,10,19,5.47
+OS,3,65,22,87,2.23
+Python,2,69,8,49,3.26
+Computer Networks,4,83,15,73,3.19
+Maths,4,92,18,30,4.23
+Statistics,4,59,5,66,4.07
+Maths,5,80,21,64,4.2
+Statistics,3,40,2,40,6.02
+Software Engineering,3,47,7,91,4.02
+Statistics,2,61,5,76,3.57
+Web Development,2,89,6,74,2.58
+Data Structures,2,49,5,88,3.14
+Computer Networks,3,51,18,8,4.85
+Maths,4,39,6,43,5.77
+OS,5,64,19,30,4.72
+Python,2,64,20,56,2.85
+Statistics,4,50,4,30,5.76
+Web Development,3,44,2,51,6.41
+Data Structures,5,55,21,69,3.9
+Data Structures,4,71,21,60,3.95
+Python,3,46,5,22,5.38
+Python,4,91,18,84,3.37
+Statistics,2,76,4,45,4.06
+AI,3,94,13,57,2.98
+OS,3,95,23,15,3.61
+Python,3,51,13,29,4.65
+Computer Networks,3,83,19,9,3.84
+Python,4,88,26,70,3.33
+OS,3,49,10,45,4.47
+AI,3,66,22,19,3.79
+Maths,5,71,1,49,6.91
+DBMS,3,64,20,34,4.48
+Web Development,2,65,9,29,3.96
+Python,2,39,13,94,3.28
+Maths,4,47,21,13,5.59
+Data Structures,5,59,6,46,5.45
+Python,3,77,1,49,5.72
+Python,3,60,16,52,3.69
+Data Structures,4,89,29,21,4.12
+Computer Networks,3,92,15,42,3.26
+DBMS,3,39,16,46,4.62
+DBMS,2,55,21,54,3.65
+Web Development,3,80,22,9,4.19
+Statistics,5,86,13,78,4.06
+Data Structures,2,59,9,59,3.06
+Python,4,47,25,73,4.62
+Computer Networks,2,54,13,80,2.95
+AI,3,36,16,23,5.05
+OS,3,95,6,35,3.94
+OS,3,47,1,25,7.43
+Python,2,53,16,31,3.99
+Web Development,4,94,4,92,3.47
+Python,2,66,30,50,2.99
+Software Engineering,2,70,29,73,2.97
+Python,2,72,7,58,3.17
+AI,3,71,28,59,3.25
+Computer Networks,3,85,7,8,4.02
+Web Development,2,58,26,31,3.59
+Data Structures,4,57,1,34,7.54
+Statistics,4,65,8,16,5.1
+Python,4,83,19,55,3.68
+Web Development,4,37,13,27,5.39
+AI,3,48,7,74,3.98
+AI,5,42,14,66,5.07
+Web Development,3,94,5,33,3.56
+Software Engineering,4,56,26,80,3.78
+Data Structures,4,66,9,10,5.84
+Web Development,4,61,24,42,4.24
+OS,4,44,13,86,3.93
+Web Development,4,45,24,19,4.63
+Python,2,95,9,81,1.4
+OS,3,94,4,10,4.36
+AI,4,83,3,92,4.15
+DBMS,5,56,3,81,5.05
+Statistics,5,72,15,45,4.33
+Python,2,38,21,51,3.78
+Statistics,4,76,27,46,4.35
+OS,4,44,12,19,5.25
+AI,4,80,24,27,3.78
+Maths,5,92,25,33,4.36
+OS,5,40,20,45,5.19
+Web Development,3,38,20,95,3.71
+Web Development,3,87,12,94,2.61
+Web Development,2,87,23,23,2.98
+OS,4,37,26,48,5.25
+OS,4,51,19,6,5.95
+Data Structures,5,37,20,38,5.71
+Computer Networks,5,88,1,90,5.21
+Python,3,35,4,90,4.02
+DBMS,4,55,17,9,5.4
+Web Development,4,95,24,56,3.76
+Data Structures,5,87,14,83,3.46
+Statistics,3,42,15,35,4.52
+Statistics,2,63,11,39,3.92
+Software Engineering,1,50,14,86,2.76
+Statistics,2,35,25,17,4.71
+Computer Networks,4,61,2,45,6.09
+Maths,3,70,18,67,3.22
+DBMS,4,67,3,25,5.23
+DBMS,3,48,11,60,3.98
+Statistics,5,82,27,5,5.35
+Maths,5,90,16,13,5.39
+AI,4,77,12,8,4.45
+AI,4,58,17,6,4.88
+Maths,3,83,7,5,4.78
+Statistics,1,95,10,75,1.67
+Maths,4,90,15,25,3.82
+DBMS,4,35,15,59,5.38
+Computer Networks,2,45,22,20,3.91
+AI,5,61,26,77,4.27
+Python,3,88,7,26,4.16
+AI,4,56,12,38,5.17
+AI,4,63,7,48,4.46
+OS,4,43,24,63,4.36
+AI,4,70,26,66,3.69
+Software Engineering,2,76,28,30,2.76
+Computer Networks,5,38,17,25,5.82
+Statistics,4,69,25,10,4.74
+Python,3,60,11,10,5.12
+Data Structures,3,81,2,67,4.69
+Computer Networks,2,86,10,41,2.95
+Python,4,59,6,31,5.08
+Data Structures,3,59,21,21,4.3
+Data Structures,4,63,12,45,4.06
+Software Engineering,3,63,8,11,4.66
+OS,4,93,12,36,4.22
+Statistics,4,94,9,26,4.33
+DBMS,3,77,29,85,2.75
+DBMS,2,91,2,78,3.22
+Maths,4,49,22,83,4.02
+Statistics,4,39,14,32,5.26
+Maths,5,80,29,36,4.39
+Web Development,3,56,12,9,4.93
+Data Structures,5,94,22,10,4.66
+Computer Networks,4,42,5,36,5.45
+AI,3,52,11,13,5.52
+Computer Networks,4,42,21,92,3.76
+AI,4,59,8,41,4.95
+Data Structures,3,43,4,88,3.61
+Web Development,4,48,20,77,4.57
+Statistics,3,84,8,79,2.84
+Statistics,2,71,22,57,2.36
+Maths,3,78,6,93,2.68
+Web Development,3,86,29,89,2.17
+Data Structures,4,50,22,80,3.94
+Web Development,3,61,19,63,3.44
+Software Engineering,1,42,1,70,5.18
+Python,3,61,20,56,3.59
+DBMS,4,53,23,92,4.11
+Web Development,2,45,17,83,3.1
+Computer Networks,4,59,11,77,3.65
+DBMS,3,58,22,93,2.54
+Python,2,53,15,14,4.48
+DBMS,5,95,25,7,4.59
+Web Development,4,49,17,6,5.49
+OS,5,82,24,91,3.35
+AI,5,94,10,36,4.49
+Maths,4,48,29,43,4.8
+Computer Networks,4,46,20,17,5.68
+Data Structures,4,49,28,38,5.08
+Software Engineering,4,40,18,62,4.75
+OS,5,87,7,85,3.83
+Computer Networks,3,78,22,61,3.41
+Statistics,3,43,18,26,4.78
+OS,4,42,14,92,4.11
+AI,4,36,29,9,5.4
+Computer Networks,4,43,16,42,4.94
+Computer Networks,4,73,23,60,3.68
+OS,4,46,29,7,6.32
+Data Structures,5,83,26,37,4.19
+Computer Networks,4,70,27,62,3.5
+Software Engineering,2,85,24,49,1.93
+DBMS,2,41,29,48,3.8
+Python,3,69,17,18,4.12
+Maths,4,67,14,31,4.76
+OS,3,92,28,43,3.04
+AI,5,63,23,20,5.51
+Python,3,46,5,66,3.86
+AI,5,61,14,22,5.48
+Statistics,4,76,25,56,4.0
+Data Structures,4,35,6,14,6.0
+Python,2,93,17,28,3.05
+Maths,5,62,6,58,5.15
+Statistics,4,61,20,27,4.88
+Data Structures,5,78,18,48,4.22
+Statistics,3,69,9,59,3.64
+Computer Networks,4,94,4,5,4.5
+Statistics,4,45,30,48,4.31
+Software Engineering,2,40,7,79,3.89
+Web Development,2,64,26,66,2.49
+OS,5,73,3,88,5.43
+Web Development,3,45,16,89,3.48
+OS,3,72,4,45,4.27
+Software Engineering,1,95,9,57,2.35
+OS,3,91,25,91,1.92
+AI,4,94,28,51,3.19
+DBMS,3,73,20,40,3.76
+Python,2,55,29,76,2.55
+Computer Networks,3,68,13,15,4.07
+Maths,5,46,26,16,5.77
+Software Engineering,4,53,7,36,5.51
+Maths,3,89,15,20,3.59
+Python,2,61,29,65,2.71
+OS,4,56,2,59,5.63
+Data Structures,4,84,1,20,7.09
+DBMS,4,83,28,17,4.43
+Statistics,3,46,30,13,4.72
+Statistics,2,75,4,73,3.58
+Computer Networks,3,92,18,47,3.29
+Data Structures,3,82,10,92,2.23
+Web Development,3,65,16,28,4.23
+Python,3,80,29,22,3.75
+Software Engineering,3,57,16,13,4.14
+AI,4,68,19,12,4.41
+Maths,3,93,18,13,4.42
+Python,2,82,9,88,2.36
+Computer Networks,3,85,17,39,3.59
+Web Development,3,48,28,29,4.52
+Web Development,5,40,28,42,5.54
+Statistics,3,78,26,20,3.82
+Software Engineering,4,63,18,37,4.65
+Statistics,3,50,1,55,6.32
+OS,3,35,16,71,4.01
+Computer Networks,2,67,2,5,5.62
+Computer Networks,3,92,10,60,3.22
+Computer Networks,5,73,14,29,4.73
+Computer Networks,4,54,9,68,3.66
+Data Structures,5,57,13,33,5.39
+Python,2,88,6,80,2.73
+DBMS,4,36,24,94,3.79
+DBMS,3,71,9,87,2.75
+AI,5,43,3,50,6.38
+OS,5,64,26,46,4.22
+OS,4,77,8,46,4.42
+Statistics,2,79,2,43,5.03
+Maths,5,35,15,11,5.96
+Maths,3,42,25,65,3.69
+AI,3,67,28,85,2.84
+DBMS,3,87,8,59,3.14
+Computer Networks,4,70,14,11,4.52
+OS,4,56,9,41,4.25
+Computer Networks,4,49,11,35,4.98
+DBMS,3,63,11,91,3.5
+Web Development,3,51,3,5,6.43
+Maths,5,83,23,71,3.9
+AI,5,60,23,80,3.5
+Statistics,3,63,26,50,2.98
+OS,5,50,21,41,5.3
+OS,5,80,20,36,4.28
+AI,5,90,28,53,3.76
+Data Structures,3,93,27,71,2.54
+Maths,4,54,30,50,4.63
+Maths,5,67,21,75,3.88
+Computer Networks,3,85,10,21,4.16
+Computer Networks,5,42,28,28,5.07
+DBMS,3,63,27,49,3.7
+DBMS,5,52,28,83,4.34
+Maths,3,88,7,93,2.6
+Web Development,2,80,28,82,2.18
+Maths,2,53,14,73,2.82
+Python,3,74,17,95,2.63
+DBMS,3,72,12,8,4.24
+DBMS,3,43,8,7,5.09
+Computer Networks,4,62,24,22,4.28
+Web Development,5,60,16,38,5.21
+Software Engineering,2,40,15,70,3.39
+Data Structures,5,54,28,7,5.64
+Maths,5,47,21,19,5.28
+Python,3,57,7,76,3.83
+DBMS,2,64,30,37,3.55
+Maths,3,59,19,53,3.84
+Python,3,81,17,22,4.14
+Web Development,3,90,14,46,3.16
+Maths,4,83,7,62,3.69
+OS,3,50,8,21,4.92
+AI,3,70,11,79,3.44
+AI,4,56,7,46,4.82
+Data Structures,5,77,8,78,3.33
+Statistics,4,47,24,23,5.21
+Data Structures,5,81,6,30,5.13
+AI,4,67,20,8,4.95
+Data Structures,5,91,22,32,4.67
+DBMS,3,92,9,20,3.78
+Computer Networks,4,64,22,59,3.77
+Python,2,63,22,72,2.39
+OS,3,60,8,19,4.97
+Maths,4,38,27,30,5.71
+DBMS,4,64,11,12,5.14
+OS,5,73,8,90,3.41
+Python,3,37,22,80,3.92
+Data Structures,1,41,22,86,2.31
+Computer Networks,4,38,30,64,4.49
+Statistics,2,52,27,43,2.98
+AI,5,39,27,54,5.15
+Statistics,4,36,11,68,4.29
+Data Structures,4,41,30,17,5.9
+AI,5,51,2,76,5.59
+Software Engineering,2,70,26,27,3.51
+Software Engineering,2,39,17,69,3.56
+Maths,4,50,22,31,4.82
+DBMS,4,91,12,33,3.95
+OS,4,61,12,87,3.73
+Software Engineering,3,61,29,58,3.68
+Statistics,1,35,4,51,4.65
+Maths,4,81,2,30,5.99
+Python,1,86,3,70,2.62
+Web Development,5,61,8,88,4.32
+DBMS,4,40,13,63,4.89
+Web Development,4,63,8,29,4.65
+Maths,5,51,8,19,5.8
+Software Engineering,3,73,6,58,3.94
+DBMS,3,62,8,82,3.92
+Statistics,4,66,29,68,3.83
+Web Development,4,78,12,15,4.14
+Maths,4,37,22,27,4.9
+Software Engineering,3,71,4,82,3.9
+Computer Networks,5,74,22,57,3.83
+Python,3,43,9,26,4.92
+Web Development,2,42,15,14,3.95
+Computer Networks,4,51,28,89,3.6
+AI,5,56,25,80,3.74
+Maths,3,81,5,36,4.35
+Computer Networks,5,87,17,23,4.43
+Python,3,48,10,24,4.82
+OS,4,58,14,25,5.55
+Data Structures,5,94,29,56,4.16
+DBMS,3,89,29,57,2.61
+Statistics,4,50,28,47,4.67
+Data Structures,5,46,7,74,5.38
+AI,5,75,13,46,4.61
+Python,4,81,26,36,3.69
+Web Development,2,35,23,17,4.45
+Data Structures,4,60,16,33,4.94
+Data Structures,4,95,3,90,3.93
+Computer Networks,4,95,1,47,5.93
+AI,5,72,5,57,5.1
+Python,2,93,4,35,3.98
+Python,3,60,26,36,3.09
+Statistics,4,49,6,42,5.42
+Data Structures,3,64,21,43,3.83
+DBMS,5,39,12,89,4.05
+Software Engineering,2,55,6,61,4.31
+Maths,4,69,20,22,4.81
+Statistics,1,88,18,50,2.21
+OS,5,50,7,91,4.64
+Software Engineering,2,73,27,64,2.47
+Web Development,3,61,9,65,3.96
+Web Development,4,46,22,7,5.41
+Computer Networks,2,69,10,11,3.62
+AI,5,73,14,45,4.94
+Maths,5,65,24,30,5.16
+Software Engineering,1,40,1,14,5.99
+Web Development,3,58,16,54,4.02
+Python,2,61,24,82,2.51
+Web Development,2,58,9,29,3.48
+Computer Networks,2,68,18,92,2.14
+Web Development,4,56,20,17,5.15
+Data Structures,5,82,28,89,3.52
+AI,3,88,14,95,2.92
+Python,2,49,2,25,5.61
+Maths,5,95,27,36,3.74
+Software Engineering,5,95,14,50,3.58
+Software Engineering,1,58,26,80,1.99
+Maths,3,50,16,57,3.98
+Software Engineering,2,73,25,10,3.15
+OS,3,71,15,23,4.27
+Maths,5,68,13,12,5.22
+Maths,3,73,18,44,3.52
+Data Structures,5,63,25,76,3.96
+Maths,5,79,4,38,5.05
+Maths,5,66,14,31,4.78
+Computer Networks,4,43,22,93,3.82
+Python,2,52,28,48,3.22
+Computer Networks,2,44,7,90,3.42
+AI,5,53,25,81,4.29
+AI,5,35,20,56,5.41
+Maths,5,68,24,95,3.15
+OS,4,73,13,80,3.06
+Maths,4,44,19,51,4.82
+OS,4,76,24,35,3.93
+Statistics,2,55,1,69,5.94
+Python,3,43,12,41,4.36
+Data Structures,4,52,4,60,4.9
+Web Development,1,69,22,5,3.14
+DBMS,1,71,29,74,2.09
+DBMS,3,77,6,39,3.76
+Python,1,75,27,72,1.37
+Computer Networks,1,73,7,19,3.06
+Python,1,65,6,75,3.05
+DBMS,4,76,18,42,4.6
+Computer Networks,4,93,23,7,4.26
+Statistics,4,77,5,91,3.28
+Data Structures,5,57,20,46,4.68
+Software Engineering,3,55,13,13,4.82
+Python,4,79,14,74,3.6
+Python,3,51,26,48,4.14
+OS,5,48,1,15,8.0
+Data Structures,5,38,23,25,5.82
+Data Structures,5,82,6,76,4.37
+DBMS,3,58,26,73,3.41
+Statistics,3,84,29,33,2.97
+DBMS,4,46,11,55,4.76
+Data Structures,5,48,24,59,5.12
+OS,5,47,26,61,5.12
+Software Engineering,3,90,3,77,3.93
+Computer Networks,4,46,18,29,5.11
+AI,5,91,10,84,3.98
+AI,4,63,11,91,3.28
+Maths,5,86,11,49,4.02
+Software Engineering,4,59,5,67,4.87
+Software Engineering,2,62,21,22,3.92
+Data Structures,3,56,12,27,4.55
+Data Structures,5,36,17,20,6.14
+Computer Networks,3,48,23,74,3.59
+Python,2,60,24,20,4.09
+Data Structures,4,92,11,64,3.12
+OS,4,69,26,29,4.31
+Python,3,95,3,5,4.59
+Maths,4,39,28,23,5.63
+Web Development,3,64,27,92,2.76
+Computer Networks,5,52,5,79,5.19
+Web Development,3,91,5,68,3.36
+OS,4,41,30,53,4.69
+OS,5,43,1,58,7.53
+Python,2,55,30,27,3.73
+Computer Networks,2,61,12,20,3.94
+Web Development,2,52,9,35,4.16
+AI,4,66,21,49,4.71
+Statistics,5,46,15,33,5.82
+Software Engineering,1,78,13,7,3.15
+Statistics,3,37,10,48,4.4
+Maths,3,82,1,39,5.78
+Python,1,55,15,59,3.06
+Data Structures,3,40,24,34,4.57
+DBMS,4,37,11,86,3.83
+OS,4,71,2,78,5.24
+AI,4,95,21,55,2.79
+DBMS,4,58,23,46,4.92
+Python,3,92,2,23,4.95
+OS,4,63,20,88,3.18
+AI,5,75,13,42,4.2
+Software Engineering,3,80,9,62,3.68
+DBMS,1,50,16,23,4.26
+Maths,5,80,1,88,5.94
+Maths,5,74,17,94,3.58
+Data Structures,4,67,13,8,5.17
+Statistics,3,79,7,81,2.76
+AI,3,87,22,76,2.64
+DBMS,4,72,27,72,4.05
+OS,4,65,18,24,4.73
+DBMS,4,80,1,72,5.98
+AI,2,74,12,15,3.52
+Statistics,4,59,26,83,3.02
+Maths,5,92,16,43,3.76
+Computer Networks,4,75,1,78,6.0
+Software Engineering,5,88,17,28,5.17
+Web Development,2,63,29,16,3.9
+AI,3,66,9,63,3.33
+OS,5,59,29,77,4.0
+AI,5,71,11,23,5.32
+Statistics,3,75,18,91,2.66
+Python,3,81,9,32,3.79
+Statistics,4,46,28,70,4.25
+Python,3,46,10,58,4.3
+Data Structures,5,87,3,46,4.94
+AI,5,46,24,17,5.91
+Statistics,3,77,24,43,3.3
+Software Engineering,2,87,21,69,2.2
+Data Structures,3,64,15,45,3.75
+Maths,5,92,17,60,4.0
+Python,2,56,11,14,3.9
+Python,3,43,30,78,3.34
+Web Development,3,47,15,59,3.74
+Maths,5,65,16,42,4.8
+Computer Networks,4,93,8,90,2.61
+Software Engineering,2,94,8,63,2.88
+Maths,4,62,20,40,4.65
+Web Development,4,84,1,87,5.6
+Data Structures,4,52,21,76,3.97
+Maths,4,95,6,6,5.51
+AI,5,69,5,78,4.8
+Software Engineering,4,61,27,47,3.99
+Software Engineering,4,63,19,85,3.35
+AI,3,93,3,78,2.95
+Data Structures,3,37,25,37,4.44
+AI,4,46,21,51,4.83
+AI,5,56,19,46,5.36
+AI,4,39,19,38,4.6
+Statistics,5,87,2,64,5.8
+Data Structures,5,76,27,41,4.22
+Statistics,4,76,14,11,4.66
+Web Development,3,65,26,74,2.96
+Web Development,4,90,22,75,3.13
+DBMS,4,71,4,56,5.38
+Python,2,67,5,22,4.72
+Data Structures,3,74,21,6,4.82
+Data Structures,2,71,14,57,2.95
+DBMS,3,81,16,38,3.84
+AI,3,60,29,21,4.17
+Computer Networks,3,79,7,75,2.7
+DBMS,2,83,14,40,3.05
+Statistics,4,68,26,19,4.68
+OS,2,63,24,85,1.51
+Statistics,3,44,18,38,4.47
+Python,2,92,25,71,2.1
+Python,3,84,15,21,3.14
+Web Development,3,78,11,12,4.2
+Software Engineering,3,56,17,81,3.14
+DBMS,3,53,23,52,4.15
+Python,2,42,8,74,2.89
+DBMS,3,39,5,23,5.68
+Web Development,2,78,12,55,2.85
+Computer Networks,4,55,9,16,5.63
+DBMS,5,42,7,58,5.66
+Software Engineering,3,67,20,74,2.69
+Statistics,4,62,21,91,2.72
+Software Engineering,3,72,5,15,4.05
+Software Engineering,3,70,11,19,4.43
+Web Development,3,48,30,48,3.33
+Maths,3,90,19,54,3.13
+Statistics,3,87,29,93,2.49
+OS,3,50,27,47,3.98
+Data Structures,5,56,7,47,5.89
+Web Development,2,58,12,79,2.84
+Web Development,4,77,16,16,5.43
+OS,3,66,13,5,4.67
+Python,3,44,18,21,4.23
+Python,2,61,11,52,3.18
+OS,4,44,24,16,4.66
+OS,5,39,10,21,5.87
+Statistics,3,56,8,56,4.79
+Maths,4,84,5,86,3.08
+Python,2,45,29,56,3.47
+DBMS,4,89,21,87,2.66
+Web Development,5,89,4,38,5.36
+Software Engineering,2,44,25,19,4.0
+Python,4,71,24,53,3.92
+AI,4,83,11,52,3.98
+DBMS,3,95,8,15,3.65
+Maths,4,37,25,76,4.4
+DBMS,5,78,27,76,3.42
+Maths,5,41,19,41,5.43
+Data Structures,4,56,6,41,4.98
+Data Structures,4,85,24,61,3.74
+Web Development,2,63,15,76,2.97
+Statistics,4,77,26,18,4.41
+Web Development,5,67,5,93,4.18
+Python,3,88,21,63,2.8
+OS,3,95,21,28,3.48
+Software Engineering,3,52,29,55,3.34
+AI,4,72,13,19,4.46
+Web Development,4,73,30,36,4.12
+Data Structures,3,83,27,77,2.63
+Python,3,61,7,23,4.86
+DBMS,3,57,29,36,4.07
+Maths,5,95,18,7,4.72
+OS,5,73,26,57,4.08
+AI,4,60,9,93,3.85
+Data Structures,3,49,9,41,4.18
+Data Structures,5,40,21,29,5.7
+OS,4,60,24,24,4.91
+Statistics,5,69,27,68,3.81
+Python,1,48,16,69,2.56
+AI,4,91,15,71,3.92
+AI,5,58,12,10,6.21
+OS,2,46,10,26,4.57
+DBMS,4,58,12,32,5.3
+Software Engineering,4,92,1,86,5.18
+Software Engineering,1,57,11,77,2.97
+Statistics,4,79,25,62,3.43
+Data Structures,4,36,7,53,5.43
+Python,2,87,23,33,2.8
+Software Engineering,2,68,10,55,2.83
+Computer Networks,3,81,18,5,4.15
+Software Engineering,2,70,24,66,2.89
+DBMS,3,89,17,30,3.35
+DBMS,4,82,1,23,6.91
+AI,3,76,3,38,3.88
+OS,3,69,26,65,3.01
+Web Development,3,64,7,89,3.25
+Data Structures,5,79,26,91,2.98
+Data Structures,5,35,22,7,6.59
+AI,4,86,28,90,2.95
+DBMS,4,36,18,43,5.19
+AI,3,45,1,39,6.58
+OS,4,43,28,46,5.56
+Software Engineering,1,77,30,60,1.93
+Web Development,3,48,30,34,4.28
+Software Engineering,2,65,15,60,3.24
+Maths,4,50,11,76,4.13
+OS,4,76,26,8,4.87
+Statistics,4,36,4,15,6.74
+Web Development,4,60,20,59,4.0
+Computer Networks,4,40,21,77,3.72
+Data Structures,4,39,6,8,6.02
+DBMS,4,45,29,29,5.05
+Web Development,1,58,3,9,5.04
+OS,5,60,14,7,5.66
+OS,2,54,18,93,2.67
+Web Development,4,36,23,11,5.94
+Python,3,50,1,83,6.47
+DBMS,3,61,21,73,3.67
+Software Engineering,2,36,27,88,3.06
+OS,2,80,19,92,2.55
+Software Engineering,3,47,18,82,3.49
+Python,3,73,12,56,3.14
+OS,3,93,27,59,2.51
+Software Engineering,3,55,4,36,5.39
+Software Engineering,3,44,23,23,4.65
+OS,3,83,29,48,3.03
+OS,5,58,27,59,4.55
+Data Structures,4,46,9,77,4.38
+Computer Networks,4,55,21,81,3.33
+Data Structures,5,77,6,23,5.68
+Web Development,3,65,26,91,2.73
+Software Engineering,2,58,20,24,3.59
+Python,2,64,6,39,3.58
+Software Engineering,3,42,4,63,4.86
+Software Engineering,4,63,16,7,5.06
+Statistics,4,58,18,10,5.1
+Python,2,51,5,65,4.43
+Software Engineering,3,92,25,93,2.28
+Statistics,3,36,2,57,5.02
+Statistics,5,45,3,7,7.11
+Statistics,5,77,3,6,6.08
+OS,5,37,16,27,5.56
+Statistics,4,50,12,37,4.8
+Python,2,49,9,63,3.63
+Statistics,4,73,21,79,3.17
+Software Engineering,2,40,23,15,4.78
+DBMS,4,39,13,93,4.08
+DBMS,5,36,11,66,5.76
+Computer Networks,1,63,10,60,2.93
+Maths,5,68,20,59,3.86
+Web Development,3,51,28,46,4.04
+Web Development,3,48,16,12,4.79
+Data Structures,5,93,21,68,3.37
+Web Development,2,71,19,30,3.25
+Data Structures,5,84,4,34,5.41
+Data Structures,4,45,10,51,4.66
+Maths,4,45,13,36,4.43
+Data Structures,4,44,30,72,3.76
+DBMS,3,74,19,95,2.46
+Computer Networks,4,65,19,28,4.66
+Web Development,4,43,24,5,5.82
+Web Development,2,58,11,51,3.7
+DBMS,3,63,12,81,3.11
+Web Development,3,78,15,34,3.8
+Web Development,3,47,18,66,3.52
+DBMS,3,53,18,48,3.86
+AI,2,62,18,58,3.42
+Computer Networks,4,48,6,79,4.19
+Python,4,38,25,50,5.3
+Python,2,60,18,9,4.13
+AI,4,41,5,62,5.07
+Maths,4,72,18,54,3.5
+Computer Networks,4,71,7,8,5.33
+Computer Networks,3,82,6,85,2.96
+Maths,5,60,1,95,6.37
+OS,3,85,14,25,3.84
+Python,3,68,17,65,3.4
+OS,3,82,17,12,4.35
+Maths,4,91,8,8,4.39
+OS,4,87,22,67,3.35
+Data Structures,3,51,19,18,4.32
+Data Structures,3,64,26,58,3.11
+Computer Networks,4,39,28,64,4.48
+Maths,4,59,22,19,5.02
+DBMS,2,58,8,14,4.82
+OS,2,59,15,15,3.21
+Web Development,3,55,29,44,3.47
+Software Engineering,2,50,3,94,4.13
+Web Development,3,60,19,74,3.29
+OS,1,55,10,64,3.13
+Statistics,3,38,23,37,4.36
+Data Structures,3,46,20,32,4.71
+OS,4,80,8,19,5.13
+Data Structures,5,50,29,85,3.54
+Software Engineering,3,44,24,5,4.61
+Python,1,80,9,90,1.58
+AI,5,54,1,26,8.0
+OS,5,71,7,20,5.64
+Statistics,3,41,27,10,5.29
+Python,3,37,13,49,4.43
+Maths,5,72,24,25,4.85
+Software Engineering,2,73,23,54,2.86
+OS,4,83,8,90,3.22
+OS,3,95,9,41,3.17
+AI,4,74,23,41,3.9
+Statistics,4,86,23,78,3.09
+Software Engineering,3,46,30,60,3.6
+OS,5,90,28,69,3.95
+Python,2,39,23,35,4.28
+Maths,5,61,13,47,4.61
+Statistics,4,43,2,29,6.4
+Statistics,4,93,1,56,6.47
+DBMS,2,40,15,25,3.9
+Maths,5,69,23,22,5.18
+Software Engineering,2,45,30,81,3.1
+Maths,3,45,10,77,3.93
+OS,4,84,25,76,3.51
+Software Engineering,2,38,23,18,3.75
+Maths,3,62,24,53,3.29
+Software Engineering,4,55,2,81,5.05
+Computer Networks,4,39,5,83,5.09
+DBMS,5,55,9,20,5.78
+AI,3,41,16,73,3.52
+DBMS,3,85,7,84,2.57
+Data Structures,5,67,4,78,4.97
+Statistics,3,35,29,27,4.75
+Python,3,94,25,51,3.0
+DBMS,3,89,6,34,4.33
+AI,4,87,14,42,3.6
+DBMS,2,94,19,7,3.18
+Python,2,41,27,74,3.31
+Python,5,71,16,32,4.82
+OS,4,75,9,23,4.52
+Computer Networks,5,72,23,64,3.84
+Maths,4,85,7,19,4.41
+Maths,4,42,20,49,4.74
+Statistics,4,81,25,17,4.01
+Data Structures,5,69,29,63,3.49
+Data Structures,4,51,3,63,6.2
+Data Structures,4,66,7,88,3.65
+DBMS,4,95,9,45,3.75
+Data Structures,4,63,7,30,5.35
+Web Development,1,51,15,46,2.96
+AI,3,48,16,63,3.64
+OS,3,93,1,63,5.39
+Maths,3,71,18,41,3.5
+Data Structures,5,59,22,48,5.13
+Statistics,5,68,6,87,4.65
+OS,3,59,20,81,2.99
+AI,4,45,18,29,4.92
+Computer Networks,5,79,29,94,2.81
+OS,4,61,28,72,3.34
+Computer Networks,4,75,2,38,5.99
+DBMS,4,72,23,44,3.78
+Maths,5,88,17,79,3.72
+OS,4,55,3,20,6.31
+Software Engineering,4,91,26,82,2.61
+Data Structures,3,54,7,41,4.81
+Computer Networks,4,53,18,45,4.53
+Web Development,3,52,19,91,3.54
+Computer Networks,3,50,17,41,4.03
+Software Engineering,3,90,21,47,2.96
+Maths,5,85,13,24,4.69
+Computer Networks,4,82,8,94,3.14
+Maths,5,46,18,94,4.04
+Data Structures,4,58,18,68,4.11
+OS,2,53,7,72,3.63
+Statistics,4,50,30,68,4.33
+AI,3,84,25,24,3.8
+Data Structures,4,59,4,67,4.71
+AI,5,88,25,35,4.01
+OS,2,63,10,84,2.93
+Computer Networks,4,48,27,60,4.18
+Maths,5,56,16,42,4.8
+OS,4,83,28,94,2.58
+Computer Networks,3,41,8,92,3.81
+Web Development,3,68,8,57,4.06
+Computer Networks,3,56,12,62,3.91
+AI,5,85,21,40,4.38
+OS,4,84,22,86,2.69
+Web Development,4,44,7,52,5.25
+Software Engineering,2,93,13,13,3.14
+Maths,5,41,12,64,5.37
+OS,4,62,14,77,3.81
+Software Engineering,2,86,22,83,1.86
+DBMS,5,67,7,37,5.26
+Statistics,5,61,11,27,4.82
+OS,5,59,10,22,6.3
+Computer Networks,2,43,18,24,4.32
+Python,2,61,25,94,2.51
+OS,2,82,19,69,1.98
+OS,3,37,13,86,3.92
+AI,5,89,8,80,3.81
+Statistics,5,94,11,68,3.78
+Web Development,2,81,10,45,3.74
+Statistics,3,86,20,90,3.0
+Data Structures,3,40,10,81,4.04
+Statistics,5,86,6,47,4.68
+AI,4,69,7,35,4.5
+OS,5,90,16,44,4.58
+Data Structures,3,78,18,47,3.44
+Python,3,36,25,70,3.72
+AI,3,42,7,53,4.9
+DBMS,3,56,4,44,4.53
+Python,3,93,29,20,3.55
+Software Engineering,2,66,8,57,3.38
+Computer Networks,4,48,13,20,5.45
+Maths,4,49,21,10,5.81
+Software Engineering,3,75,15,82,2.84
+Software Engineering,2,66,1,18,6.57
+Maths,5,56,26,56,4.42
+Statistics,5,66,25,40,4.56
+Maths,5,93,14,45,3.42
+Data Structures,5,80,16,16,5.19
+OS,4,65,6,8,5.26
+Web Development,2,90,4,19,4.27
+AI,3,84,5,56,3.86
+AI,4,87,23,62,3.97
+Statistics,3,36,20,57,4.18
+DBMS,4,78,13,25,4.71
+Software Engineering,3,70,13,31,4.17
+Computer Networks,2,52,16,90,2.68
+Computer Networks,3,54,26,60,4.06
+Web Development,4,36,11,58,4.95
+AI,5,73,2,6,6.7
+AI,4,58,17,61,4.17
+AI,5,58,6,71,4.36
+AI,4,52,5,16,5.95
+Statistics,3,57,25,44,4.5
+Python,3,91,12,68,2.69
+DBMS,4,63,19,63,4.03
+OS,3,92,15,80,2.89
+DBMS,4,63,22,42,4.23
+Statistics,4,68,18,24,4.64
+Web Development,3,80,11,16,4.33
+AI,4,55,15,87,3.61
+OS,4,81,7,28,4.04
+Computer Networks,2,55,22,45,3.6
+Python,5,49,15,34,5.15
+Maths,5,86,24,94,3.64
+Python,3,90,1,88,4.3
+Python,4,42,14,92,3.5
+Web Development,4,92,30,90,2.45
+Data Structures,4,66,16,90,3.07
+Python,3,74,4,63,3.74
+Computer Networks,5,41,22,95,4.07
+Software Engineering,3,95,27,28,2.65
+AI,3,41,14,81,3.29
+Python,2,46,5,56,4.56
+Web Development,4,77,15,71,3.76
+Maths,4,93,8,26,4.46
+Software Engineering,3,40,16,20,4.67
+DBMS,3,60,14,86,2.88
+AI,4,95,24,19,4.33
+Web Development,2,42,12,23,4.32
+Web Development,3,73,11,78,3.33
+Maths,2,61,29,35,3.05
+Statistics,4,42,6,36,5.78
+Computer Networks,2,83,16,17,3.12
+AI,4,76,20,33,4.41
+Computer Networks,4,71,6,14,5.3
+OS,4,55,10,45,4.14
+Statistics,4,94,28,95,2.99
+Maths,3,67,27,24,3.69
+AI,3,70,23,24,3.98
+Software Engineering,3,55,12,24,4.41
+Maths,5,77,21,47,4.35
+OS,4,45,15,7,5.48
+Computer Networks,2,84,2,63,3.8
+OS,5,88,13,66,4.29
+OS,4,76,5,72,4.21
+Python,4,95,6,41,4.43
+DBMS,4,51,27,13,4.95
+Data Structures,5,95,22,14,4.47
+Software Engineering,3,70,1,75,5.65
+Statistics,3,75,26,73,3.21
+Web Development,3,91,9,15,3.82
+Data Structures,5,51,21,38,4.62
+Maths,4,56,10,78,3.54
+Software Engineering,1,53,7,70,2.56
+AI,4,51,30,6,5.34
+Web Development,3,88,29,18,2.98
+Software Engineering,3,36,6,37,4.99
+Python,3,55,2,5,6.68
+Data Structures,5,39,10,63,5.36
+Software Engineering,1,83,6,53,3.15
+Statistics,5,46,21,91,4.29
+AI,5,38,2,47,6.93
+Data Structures,4,38,8,42,5.48
+Python,2,35,3,95,4.19
+Maths,4,65,8,85,3.85
+Software Engineering,3,42,28,26,4.95
+DBMS,3,76,30,60,3.03
+OS,3,61,28,54,3.53
+Python,2,58,22,56,3.67
+Maths,3,43,10,63,4.25
+Computer Networks,4,78,4,93,4.22
+Computer Networks,4,74,26,62,3.76
+AI,5,83,23,69,4.1
+DBMS,3,88,17,34,3.49
+OS,5,44,2,21,6.91
+Software Engineering,5,52,15,17,5.95
+Python,3,75,3,73,4.31
+Python,4,57,28,13,4.51
+Computer Networks,2,41,20,53,3.52
+Web Development,5,69,6,30,5.82
+DBMS,4,58,13,55,4.75
+Computer Networks,5,43,24,82,4.61
+Software Engineering,3,82,30,89,2.2
+Software Engineering,1,41,14,74,2.66
+OS,4,56,21,45,4.14
+Web Development,3,67,24,50,3.24
+Software Engineering,4,55,5,70,4.57
+DBMS,3,57,18,50,3.86
+Software Engineering,1,57,13,31,3.16
+Statistics,4,87,6,89,3.31
+Software Engineering,2,91,20,21,2.83
+Software Engineering,3,44,27,91,2.97
+Maths,3,75,18,45,3.47
+Python,2,86,29,37,2.74
+Software Engineering,2,75,27,45,2.54
+AI,3,79,2,95,3.77
+Maths,5,83,26,6,4.86
+Maths,4,48,7,95,4.27
+OS,3,79,20,73,2.48
+DBMS,3,86,13,11,4.25
+DBMS,3,77,14,72,2.95
+Statistics,5,45,27,6,6.33
+Python,3,72,11,29,4.39
+Software Engineering,2,82,14,62,2.68
+AI,4,48,12,67,4.43
+AI,5,68,27,86,3.47
+Statistics,4,86,28,33,4.5
+Statistics,4,65,26,12,5.14
+AI,5,42,5,60,5.28
+Maths,5,66,17,90,4.08
+Python,3,83,18,36,3.32
+Computer Networks,2,51,30,36,4.21
+Software Engineering,3,43,12,95,2.98
+AI,3,47,22,10,4.86
+DBMS,4,63,21,5,4.85
+AI,5,40,4,8,7.07
+Data Structures,4,44,5,65,4.68
+Data Structures,5,55,24,69,4.89
+Data Structures,4,81,29,37,3.77
+Maths,4,49,25,58,4.46
+Web Development,4,74,28,42,4.51
+Statistics,3,85,9,7,4.6
+Computer Networks,3,90,11,6,4.41
+Statistics,3,36,30,21,4.87
+Software Engineering,4,53,7,83,4.12
+AI,3,69,21,8,4.63
+Web Development,2,69,6,85,3.41
+Computer Networks,5,71,24,82,4.12
+Data Structures,4,49,26,89,3.6
+Maths,4,72,1,54,6.24
+OS,3,61,5,45,5.1
+OS,4,58,12,25,4.42
+DBMS,3,69,9,76,2.9
+OS,4,71,6,6,5.77
+DBMS,4,93,17,32,3.79
+Python,3,43,30,74,3.57
+Software Engineering,3,40,24,34,4.73
+Web Development,4,81,15,63,3.12
+Maths,3,55,25,53,4.24
+Data Structures,3,61,17,67,3.22
+Software Engineering,3,42,23,70,3.66
+Statistics,4,40,20,47,4.64
+OS,5,55,19,84,3.93
+OS,5,80,10,25,5.56
+AI,5,35,12,73,5.52
+Web Development,4,85,23,32,3.63
+Maths,4,44,16,56,4.7
+OS,5,65,14,45,5.31
+OS,3,94,20,87,2.03
+AI,4,85,1,61,5.41
+DBMS,3,42,5,16,5.55
+Data Structures,4,71,23,29,4.07
+Python,2,36,25,26,3.91
+OS,4,65,16,38,4.55
+Web Development,2,64,19,10,3.97
+Maths,2,59,17,80,2.27
+Python,4,89,4,65,3.94
+OS,4,95,30,25,3.46
+Python,4,61,25,41,4.32
+DBMS,3,95,22,32,2.96
+Statistics,4,89,17,24,4.42
+Maths,4,35,11,5,6.15
+Maths,4,67,18,81,3.72
+Computer Networks,3,35,21,40,4.42
+Data Structures,5,54,1,42,7.84
+Web Development,2,39,2,59,5.69
+Statistics,5,84,13,23,5.22
+Computer Networks,3,79,10,51,3.89
+Python,2,54,11,56,3.37
+OS,5,46,16,90,4.42
+Data Structures,5,37,2,28,7.79
+Statistics,4,52,8,94,3.79
+Data Structures,3,59,4,22,5.03
+Data Structures,5,41,30,71,4.42
+DBMS,3,48,28,68,4.0
+Python,3,59,8,42,5.05
+Web Development,2,40,13,95,2.82
+Software Engineering,4,71,6,48,4.71
+Statistics,4,47,12,42,5.29
+Computer Networks,5,72,14,61,4.56
+Statistics,4,40,21,19,5.43
+AI,3,53,14,15,5.03
+Data Structures,3,51,24,5,4.86
+Maths,4,72,19,27,4.29
+OS,5,68,13,74,3.81
+Statistics,4,77,18,15,4.5
+Computer Networks,3,74,29,95,2.11
+Python,2,41,11,65,3.73
+Statistics,3,90,4,36,4.23
+OS,4,53,3,72,5.51
+Statistics,4,41,14,22,4.91
+Maths,4,94,11,52,3.72
+Maths,5,50,27,12,6.23
+Computer Networks,4,73,23,62,4.11
+Statistics,3,60,18,41,3.83
+AI,4,37,2,29,6.72
+Web Development,2,91,22,39,2.63
+Python,3,47,4,89,4.25
+Software Engineering,3,51,2,50,5.51
+Web Development,2,55,11,44,3.9
+DBMS,2,64,28,28,3.47
+Computer Networks,4,43,30,47,4.3
+Statistics,4,48,1,68,6.95
+DBMS,5,37,16,27,5.48
+Web Development,2,94,24,22,2.8
+DBMS,5,70,30,6,5.2
+DBMS,4,74,8,65,4.49
+Maths,3,83,1,58,5.44
+Data Structures,3,65,10,12,4.48
+Web Development,3,55,15,95,3.32
+DBMS,3,59,9,8,4.84
+AI,3,77,3,52,4.16
+Web Development,1,89,2,8,4.38
+OS,4,40,18,18,5.79
+Data Structures,4,95,24,44,3.05
+Python,3,61,22,87,2.9
+Data Structures,4,79,4,40,4.67
+OS,3,85,20,44,3.0
+Software Engineering,3,70,16,73,3.18
+DBMS,3,39,30,93,3.68
+Web Development,4,92,29,12,4.39
+Python,2,67,13,29,3.6
+AI,4,94,18,87,2.47
+Statistics,4,40,25,83,4.41
+Web Development,4,42,13,50,5.04
+DBMS,4,40,1,6,8.0
+Data Structures,3,88,11,66,2.91
+DBMS,4,36,14,13,5.9
+DBMS,3,80,4,13,4.74
+Maths,3,63,30,40,4.65
+OS,2,83,16,63,2.28
+Statistics,5,54,10,46,5.36
+Data Structures,5,68,18,39,4.41
+Python,2,49,22,45,3.88
+Software Engineering,2,93,1,50,5.1
+AI,4,42,15,86,3.77
+Software Engineering,2,74,7,46,3.53
+AI,4,56,2,81,5.15
+DBMS,4,68,9,87,3.42
+AI,4,75,29,70,3.71
+Python,3,84,22,26,3.52
+Statistics,3,77,25,80,3.07
+Software Engineering,4,38,11,75,4.59
+AI,3,45,2,82,5.27
+Computer Networks,3,58,14,18,4.33
+Statistics,5,66,1,50,7.22
+Software Engineering,3,81,11,15,4.57
+Maths,5,52,30,28,5.37
+Data Structures,5,37,21,5,5.85
+OS,5,51,18,64,4.85
+Maths,5,51,9,40,5.31
+Software Engineering,2,38,5,71,4.0
+Data Structures,5,65,28,15,5.17
+Python,2,58,8,79,2.92
+Data Structures,3,82,1,87,4.95
+Maths,5,49,23,17,5.55
+Software Engineering,4,76,19,88,3.32
+Data Structures,5,88,11,89,3.25
+OS,4,83,26,70,3.34
+Data Structures,4,51,29,11,5.1
+Maths,4,95,18,43,3.71
+Python,3,36,9,87,4.08
+Web Development,4,72,30,27,4.63
+Software Engineering,3,66,28,25,4.52
+Python,3,74,23,90,2.41
+Web Development,4,39,17,19,4.96
+Python,4,50,18,20,5.66
+AI,5,67,9,40,5.28
+Statistics,4,87,1,90,4.9
+Software Engineering,4,58,8,94,3.77
+Computer Networks,3,35,11,87,3.61
+AI,5,37,23,20,6.29
+Computer Networks,4,75,3,49,4.97
+Maths,3,35,17,56,4.63
+Statistics,4,38,28,94,4.02
+AI,4,50,18,33,4.67
+Web Development,2,70,26,63,2.72
+OS,4,72,23,81,3.77
+Statistics,2,84,10,7,3.96
+Web Development,5,62,9,91,3.87
+Computer Networks,3,93,16,28,4.04
+Data Structures,4,57,28,39,4.58
+Data Structures,5,54,4,65,5.02
+Computer Networks,4,61,2,76,5.64
+Maths,3,80,13,67,2.81
+Data Structures,2,80,8,88,1.87
+Maths,5,38,25,56,5.03
+Maths,5,76,3,90,4.4
+Data Structures,4,86,25,31,4.5
+Computer Networks,2,79,5,44,3.65
+AI,4,92,1,82,5.29
+Statistics,4,80,29,75,3.01
+DBMS,4,89,3,13,5.23
+Data Structures,3,41,12,41,5.15
+Web Development,1,76,13,8,3.3
+Maths,4,37,9,66,5.16
+Computer Networks,4,66,13,86,3.1
+Data Structures,5,83,15,92,3.33
+AI,4,52,11,93,3.4
+Software Engineering,2,59,16,39,3.23
+DBMS,2,51,10,54,3.64
+DBMS,5,61,18,17,6.25
+Computer Networks,3,49,15,38,4.67
+DBMS,3,83,21,35,3.44
+Python,2,52,26,13,4.66
+AI,4,70,14,73,3.89
+Data Structures,4,63,12,30,5.01
+Software Engineering,2,36,10,83,3.57
+DBMS,5,81,7,76,4.81
+Data Structures,5,40,20,70,4.32
+Software Engineering,3,79,26,63,2.81
+Maths,5,86,23,23,4.58
+Maths,3,83,27,92,2.33
+Python,3,38,15,67,3.7
+OS,5,76,30,66,3.33
+AI,5,93,28,17,4.8
+Python,2,81,6,15,4.25
+Statistics,3,49,17,6,4.68
+Data Structures,2,71,19,11,3.68
+OS,4,46,3,23,5.66
+Statistics,4,52,5,95,3.93
+AI,4,36,26,68,4.28
+Maths,4,77,28,77,3.21
+Statistics,4,59,8,42,4.61
+DBMS,3,95,15,25,3.57
+Software Engineering,3,63,11,78,3.54
+DBMS,2,87,29,63,2.15
+Maths,3,82,30,29,3.58
+Web Development,2,52,16,8,3.85
+Computer Networks,3,60,16,30,3.97
+OS,4,74,18,93,3.35
+Maths,4,83,13,75,3.02
+Statistics,4,49,26,15,5.04
+Python,4,62,3,8,6.01
+AI,5,55,2,27,6.83
+Web Development,4,70,30,78,3.33
+Data Structures,4,69,1,45,6.23
+DBMS,2,88,3,10,4.72
+Web Development,1,95,20,71,1.79
+Data Structures,3,52,12,70,3.64
+Data Structures,4,92,18,95,2.65
+Software Engineering,2,56,25,91,2.49
+Python,5,35,18,27,6.03
+AI,3,61,5,51,4.29
+Software Engineering,2,88,7,26,4.09
+Maths,2,81,12,53,3.15
+Data Structures,5,93,28,51,3.66
+Python,2,45,23,35,3.51
+Statistics,2,84,18,62,2.85
+AI,4,70,20,94,2.99
+Maths,5,51,13,69,4.28
+OS,5,76,10,68,4.59
+Data Structures,4,71,25,90,2.72
+Maths,5,52,15,31,5.28
+Computer Networks,3,73,14,44,3.32
+DBMS,3,38,24,20,4.85
+Statistics,3,70,14,36,4.0
+Statistics,5,90,24,70,3.5
+AI,3,47,17,18,4.52
+Computer Networks,2,69,15,58,3.02
+Software Engineering,2,55,9,26,4.38
+OS,3,59,19,39,4.38
+Computer Networks,4,84,26,16,4.33
+Software Engineering,2,86,6,67,2.24
+Software Engineering,3,52,11,16,5.04
+Data Structures,4,80,11,55,3.99
+Computer Networks,3,46,15,68,3.84
+DBMS,4,73,23,58,3.5
+Python,2,47,29,11,4.15
+Web Development,2,46,6,25,4.94
+Web Development,4,78,20,75,3.44
+OS,4,77,4,71,4.14
+Maths,2,93,14,91,1.36
+Web Development,3,95,4,51,4.0
+AI,4,47,3,34,5.71
+Maths,5,65,17,10,5.8
+Web Development,4,62,11,62,4.03
+Computer Networks,4,38,4,66,5.18
+Software Engineering,4,52,29,6,5.49
+Web Development,4,86,6,10,4.89
+Software Engineering,4,50,18,89,3.63
+OS,3,38,17,61,4.39
+Python,3,35,5,28,5.36
+Computer Networks,2,55,15,57,2.68
+Web Development,4,89,3,50,4.87
+OS,3,51,3,13,5.89
+Web Development,2,53,20,60,2.94
+DBMS,5,63,26,22,4.85
+Maths,3,78,4,57,3.6
+Computer Networks,3,46,15,16,4.83
+Web Development,3,90,28,13,3.77
+AI,4,85,25,46,4.11
+Statistics,5,62,23,30,5.38
+Web Development,4,41,10,54,5.62
+OS,3,39,25,83,3.34
+Computer Networks,4,55,6,95,4.19
+Maths,4,92,26,83,3.07
+DBMS,3,74,16,27,3.71
+Data Structures,5,90,20,72,3.59
+Software Engineering,3,85,22,89,2.48
+Software Engineering,3,41,19,73,3.85
+AI,3,82,16,58,2.39
+Computer Networks,4,57,22,85,3.67
+AI,3,74,17,69,2.55
+Statistics,4,85,8,5,4.73
+Python,3,66,26,76,3.14
+Statistics,4,44,29,84,3.73
+Data Structures,5,78,5,75,4.81
+Web Development,3,65,8,29,4.32
+AI,4,53,6,58,5.11
+Web Development,2,70,19,89,2.23
+Data Structures,4,51,18,55,4.46
+DBMS,4,54,5,70,4.51
+Python,1,74,17,13,3.67
+OS,3,85,14,79,2.77
+AI,4,55,24,40,5.15
+Software Engineering,3,69,7,18,5.03
+Computer Networks,4,86,27,35,4.04
+Python,4,86,23,77,3.49
+OS,4,81,2,66,4.62
+Maths,5,77,13,21,4.94
+Web Development,3,87,15,32,3.22
+AI,5,60,12,10,5.8
+Data Structures,5,60,9,21,5.62
+Maths,5,44,9,36,5.36
+AI,5,44,7,73,5.28
+Data Structures,3,74,15,21,4.19
+Maths,4,53,17,92,3.89
+Statistics,5,56,18,12,5.34
+Web Development,3,62,6,45,4.12
+OS,1,64,25,72,2.19
+Statistics,5,43,5,27,6.65
+Web Development,3,42,30,16,5.26
+Python,3,38,23,40,4.88
+DBMS,4,82,2,75,4.86
+AI,3,36,6,31,5.47
+Software Engineering,3,85,19,29,4.21
+Python,2,86,10,31,3.44
+Statistics,3,94,7,65,2.78
+Python,3,53,7,55,4.41
+Data Structures,4,72,2,28,6.27
+Software Engineering,4,41,21,88,3.68
+Python,3,48,11,86,3.94
+Data Structures,4,39,5,60,5.39
+Statistics,4,90,24,31,3.53
+Maths,5,50,24,18,5.53
+Maths,5,35,23,17,5.81
+Statistics,3,60,2,55,5.42
+Statistics,4,60,7,73,5.06
+Statistics,3,90,2,50,4.54
+Statistics,5,58,4,50,6.0
+AI,5,73,17,79,3.35
+Statistics,5,68,27,86,3.55
+DBMS,3,77,20,30,3.86
+Software Engineering,3,56,14,58,4.0
+Computer Networks,5,36,11,71,5.2
+Data Structures,3,62,12,38,4.11
+Python,3,61,6,21,4.79
+Computer Networks,2,76,1,6,6.41
+Computer Networks,5,85,14,49,5.03
+Data Structures,4,67,1,49,6.84
+AI,4,57,23,77,3.96
+OS,5,35,14,83,4.99
+DBMS,3,64,2,32,5.13
+Statistics,4,44,10,75,4.29
+Software Engineering,2,41,13,22,5.11
+AI,5,36,22,70,4.43
+Computer Networks,3,82,16,73,3.24
+Maths,4,93,14,54,3.49
+Data Structures,3,65,29,86,2.81
+Statistics,4,53,13,53,5.11
+Data Structures,4,70,26,79,3.26
+Statistics,3,88,15,29,3.4
+OS,5,88,22,7,5.09
+Maths,4,67,3,39,5.74
+Software Engineering,3,50,16,68,4.03
+Statistics,5,69,3,52,5.87
+Computer Networks,3,65,30,54,3.38
+Software Engineering,2,46,11,69,3.46
+Python,2,35,13,43,4.13
+Web Development,4,40,1,44,7.43
+DBMS,3,84,11,48,3.27
+Data Structures,5,66,1,54,6.61
+Web Development,3,72,24,66,3.1
+OS,4,48,21,58,4.54
+Maths,5,77,15,12,5.41
+AI,3,94,5,91,2.93
+Python,3,64,21,34,4.44
+OS,3,80,9,25,4.17
+Computer Networks,4,87,8,21,4.64
+OS,4,41,20,53,4.6
+Web Development,4,57,9,16,5.35
+AI,4,55,23,89,3.51
+Statistics,4,88,28,46,2.67
+AI,4,78,22,36,4.04
+OS,3,69,26,32,4.08
+Maths,3,76,30,38,3.24
+Web Development,3,55,17,30,4.19
+Python,4,72,29,41,3.96
+Web Development,3,39,9,81,4.48
+Web Development,2,92,5,53,2.98
+Computer Networks,3,44,4,95,4.07
+Data Structures,4,38,28,77,4.06
+Data Structures,5,74,26,20,4.84
+Data Structures,5,88,23,78,3.46
+Web Development,3,55,16,12,5.19
+Web Development,2,70,9,17,4.08
+Python,3,61,3,85,3.74
+Software Engineering,2,84,19,86,2.13
+AI,4,36,4,42,5.97
+Python,4,39,27,25,5.29
+Computer Networks,3,73,22,33,4.4
+Computer Networks,4,42,14,95,3.6
+Python,3,67,5,80,3.6
+Statistics,5,84,12,84,3.65
+AI,4,73,20,86,2.91
+AI,3,78,28,79,2.45
+Python,2,82,18,50,2.51
+Computer Networks,4,52,6,59,5.0
+Python,3,44,28,36,4.08
+Web Development,3,59,17,84,3.36
+Computer Networks,2,59,19,50,3.14
+Python,3,82,15,22,3.75
+Maths,4,76,8,45,3.66
+Web Development,4,80,28,87,3.0
+Python,3,84,13,53,3.09
+Software Engineering,2,79,3,91,2.74
+Maths,3,85,22,47,3.57
+Web Development,3,93,29,39,2.79
+Web Development,3,92,30,86,1.98
+Data Structures,5,87,11,67,3.49
+Statistics,2,62,27,66,2.49
+Web Development,4,71,12,17,4.74
+Statistics,4,39,11,26,4.62
+Web Development,3,85,30,76,1.91
+Maths,2,56,16,72,3.0
+OS,3,81,23,27,3.53
+Software Engineering,4,67,15,93,3.62
+AI,4,70,21,93,2.84
+Statistics,4,38,18,28,5.51
+Statistics,3,45,20,33,4.95
+Software Engineering,2,90,9,32,3.28
+Python,3,74,2,62,5.16
+Computer Networks,4,56,15,47,4.56
+Maths,5,72,14,53,4.3
+DBMS,4,49,20,24,4.86
+Maths,4,46,2,59,6.47
+Software Engineering,3,77,14,17,4.52
+OS,5,83,29,69,3.99
+Web Development,4,85,10,81,3.53
+Data Structures,5,83,22,40,4.68
+Statistics,2,63,26,24,3.83
+Data Structures,2,85,15,79,2.22
+Python,4,37,1,31,8.0
+OS,4,71,2,17,6.54
+Computer Networks,1,74,29,90,1.78
+AI,5,93,13,27,4.55
+Statistics,5,41,19,47,5.37
+Statistics,4,46,1,62,6.76
+DBMS,4,54,6,89,4.15
+AI,3,91,5,40,3.63
+Software Engineering,4,37,29,7,6.54
+Statistics,5,47,1,55,7.62
+Python,5,80,16,93,2.99
+AI,4,57,4,20,6.09
+DBMS,4,75,10,65,3.57
+Data Structures,5,40,6,70,4.97
+Statistics,3,93,20,89,1.73
+Web Development,3,53,21,93,3.37
+AI,5,41,28,11,5.15
+Computer Networks,4,37,4,5,6.51
+Software Engineering,2,55,26,80,1.99
+Web Development,3,68,9,29,4.27
+Python,2,77,30,93,2.65
+AI,4,62,16,39,4.71
+Web Development,4,52,3,11,6.47
+Software Engineering,2,71,22,31,3.39
+Data Structures,3,68,12,54,3.66
+Computer Networks,3,81,11,73,2.79
+DBMS,2,55,25,38,3.16
+Statistics,4,45,23,77,4.46
+OS,2,56,26,52,3.04
+Statistics,3,90,26,31,3.46
+DBMS,4,88,16,48,3.42
+Web Development,1,50,27,76,2.66
+Web Development,4,61,19,94,3.61
+Software Engineering,4,68,23,80,3.28
+Maths,4,88,6,13,4.27
+Statistics,5,93,13,65,3.77
+Python,3,77,7,79,3.2
+Web Development,4,51,29,89,3.43
+AI,5,53,21,37,5.01
+Computer Networks,5,87,5,25,5.43
+Maths,4,48,26,19,4.68
+Data Structures,5,94,25,22,4.27
+Web Development,4,80,2,22,6.36
+Data Structures,5,82,29,71,3.96
+AI,4,89,22,61,3.35
+Computer Networks,4,91,14,5,3.89
+OS,5,39,4,38,6.76
+Computer Networks,3,94,13,74,2.65
+Computer Networks,3,55,28,62,3.27
+AI,5,47,22,92,4.09
+Maths,2,76,25,11,3.59
+DBMS,4,85,8,9,4.73
+Computer Networks,3,79,14,60,3.1
+Python,3,38,26,44,4.59
+AI,2,83,21,24,2.91
+Maths,4,49,4,71,4.6
+Statistics,3,84,2,88,4.0
+Computer Networks,4,40,4,49,5.66
+OS,4,37,8,66,4.83
+Statistics,2,83,14,59,3.21
+Computer Networks,5,51,29,50,4.49
+Maths,5,49,27,14,6.17
+DBMS,2,54,26,83,2.77
+Software Engineering,2,58,3,15,5.32
+OS,3,85,25,50,3.21
+OS,5,35,30,38,6.02
+Maths,4,48,21,87,3.71
+Web Development,2,74,2,32,4.58
+DBMS,4,78,10,77,3.87
+AI,3,71,28,38,3.69
+Data Structures,3,94,2,5,5.97
+Computer Networks,5,77,12,18,5.24
+Computer Networks,4,51,5,82,4.45
+Data Structures,4,78,18,5,4.54
+Maths,5,66,23,47,4.67
+Software Engineering,5,38,18,33,6.18
+Statistics,4,53,17,57,4.2
+DBMS,3,67,15,74,3.03
+OS,4,91,20,80,2.68
+Data Structures,4,82,20,75,3.39
+Python,3,50,14,6,4.68
+Software Engineering,3,82,29,89,1.94
+Statistics,3,43,26,69,3.94
+Computer Networks,5,78,26,49,4.58
+OS,4,88,19,43,3.6
+DBMS,2,93,27,24,2.9
+Web Development,3,58,13,62,3.98
+Software Engineering,3,74,1,92,5.05
+Statistics,4,73,25,84,3.19
+Maths,5,84,19,75,3.51
+Computer Networks,3,66,5,76,3.78
+AI,3,62,27,34,3.97
+Statistics,5,41,15,74,4.63
+AI,4,66,19,15,5.14
+Web Development,3,50,1,50,7.06
+Web Development,4,37,19,43,4.55
+Python,2,56,21,25,3.75
+Software Engineering,1,63,11,74,2.62
+AI,3,44,27,44,4.17
+Software Engineering,3,42,5,15,5.56
+OS,4,86,6,17,5.05
+Web Development,2,65,10,31,3.23
+DBMS,2,35,29,90,2.96
+Software Engineering,3,48,13,78,3.74
+DBMS,3,72,8,85,3.19
+Statistics,4,35,10,45,4.64
+Maths,4,50,21,15,5.14
+Data Structures,4,67,30,73,3.59
+Computer Networks,3,79,25,78,2.94
+Computer Networks,4,71,23,68,3.08
+Data Structures,2,62,26,28,3.35
+Statistics,3,95,20,70,3.26
+Computer Networks,4,68,26,18,5.24
+Data Structures,5,93,24,22,4.28
+AI,4,69,25,77,3.84
+Maths,4,70,12,43,4.22
+Python,2,76,29,19,3.79
+Statistics,4,74,15,79,3.17
+Data Structures,3,90,19,85,2.24
+AI,5,85,23,9,5.18
+Maths,5,49,10,66,4.76
+Data Structures,4,75,7,43,4.11
+DBMS,1,36,1,47,5.69
+Statistics,3,35,15,16,5.0
+Maths,4,77,25,47,3.68
+Web Development,2,64,19,70,2.87
+Web Development,4,38,12,45,5.18
+Computer Networks,5,77,28,34,4.45
+Data Structures,3,52,17,57,4.08
+Python,4,64,18,68,3.44
+DBMS,5,59,1,83,6.98
+Maths,3,70,9,56,4.08
+Python,3,79,16,17,4.08
+Data Structures,4,95,9,51,3.74
+Software Engineering,4,60,1,52,6.21
+Web Development,2,56,12,15,4.23
+Statistics,3,62,28,6,4.56
+Data Structures,3,41,22,23,4.96
+Python,2,77,29,64,3.12
+Web Development,3,56,9,74,3.29
+Python,3,51,25,79,3.11
+Statistics,4,42,24,43,4.73
+Data Structures,5,39,26,71,4.53
+Computer Networks,3,44,9,79,4.05
+Statistics,4,47,17,87,3.71
+Web Development,3,81,16,62,3.26
+OS,5,72,25,63,3.8
+Software Engineering,2,77,21,84,1.93
+Statistics,4,81,19,37,4.46
+Data Structures,3,56,5,29,5.36
+Software Engineering,3,93,29,42,3.15
+Maths,3,79,10,53,3.51
+Python,2,59,6,24,4.28
+Web Development,3,95,12,60,2.98
+DBMS,2,51,15,30,3.93
+Software Engineering,3,93,22,95,1.97
+Statistics,3,48,28,87,3.37
+Statistics,2,68,14,45,3.26
+DBMS,3,55,3,12,6.15
+AI,5,62,14,40,4.88
+OS,4,80,24,11,4.25
+Data Structures,5,70,16,50,4.7
+Data Structures,1,54,8,33,3.42
+AI,4,68,18,8,5.15
+Computer Networks,4,60,28,16,4.77
+Python,3,51,3,20,5.84
+OS,5,73,16,54,4.42
+Python,3,82,29,40,3.19
+Data Structures,3,70,19,87,3.03
+Maths,5,83,8,61,3.78
+Web Development,4,55,11,41,4.77
+Statistics,4,70,1,83,5.77
+OS,4,71,16,54,4.26
+Web Development,2,69,19,65,2.69
+AI,4,86,23,87,3.24
+OS,4,87,1,21,6.76
+Data Structures,3,95,6,16,3.72
+Web Development,3,42,12,59,4.23
+OS,3,54,9,13,4.71
+Maths,5,44,7,95,5.0
+Software Engineering,2,63,27,90,2.25
+Maths,4,63,4,63,4.39
+Maths,4,54,20,15,5.42
+Web Development,3,75,14,51,3.51
+AI,4,80,9,38,4.43
+Computer Networks,3,92,12,62,2.49
+Python,3,71,18,90,3.29
+Web Development,5,77,14,84,3.81
+Software Engineering,3,67,10,29,4.7
+OS,5,59,28,45,4.57
+Maths,3,94,16,90,1.95
+DBMS,5,41,28,34,5.05
+Web Development,4,36,29,67,4.91
+Python,3,49,18,18,4.93
+Software Engineering,3,89,14,30,3.7
+Web Development,5,54,16,80,3.97
+Statistics,4,41,13,22,6.08
+Software Engineering,2,94,17,58,2.39
+Statistics,4,80,16,90,2.58
+Statistics,3,91,15,21,3.61
+Statistics,4,36,15,48,4.74
+Statistics,3,76,8,12,4.69
+OS,2,84,5,30,3.74
+OS,3,88,4,91,3.76
+Data Structures,4,90,28,34,3.42
+Software Engineering,2,93,14,73,2.23
+DBMS,5,94,19,57,3.92
+Statistics,2,83,20,62,2.65
+OS,3,74,23,80,2.97
+Maths,4,68,4,43,5.04
+OS,4,71,1,7,7.6
+AI,5,89,2,16,6.64
+OS,4,63,5,73,4.17
+DBMS,5,67,7,36,5.71
+Software Engineering,2,49,30,70,3.0
+Web Development,4,36,3,7,6.36
+Computer Networks,3,68,6,91,3.13
+Software Engineering,4,65,2,13,5.88
+DBMS,3,35,7,5,5.75
+Maths,4,82,16,72,2.99
+Software Engineering,3,69,17,93,2.9
+Statistics,3,70,27,35,3.73
+Maths,4,68,17,65,3.7
+Maths,3,78,30,8,4.17
+DBMS,3,60,1,60,6.72
+Web Development,3,89,4,16,4.52
+Computer Networks,4,95,25,6,4.42
+DBMS,3,39,14,28,4.96
+Computer Networks,2,87,19,24,2.83
+Web Development,3,39,9,79,3.83
+Maths,4,79,3,54,4.12
+AI,3,69,10,45,4.39
+Maths,5,54,19,76,4.06
+Data Structures,4,60,30,43,4.65
+Data Structures,5,58,21,9,6.04
+OS,3,58,17,42,3.99
+Data Structures,3,72,22,33,4.09
+Computer Networks,3,50,19,31,4.65
+Statistics,3,82,2,41,5.33
+Software Engineering,3,88,15,55,2.6
+Computer Networks,3,73,7,43,3.82
+OS,4,93,23,72,2.66
+OS,5,83,16,8,5.06
+Statistics,4,61,9,6,5.48
+OS,4,84,29,35,3.73
+Python,2,64,10,24,4.11
+Statistics,5,88,21,37,4.21
+OS,5,57,7,11,5.8
+Web Development,3,87,17,22,4.03
+Maths,3,42,12,36,4.38
+OS,4,66,29,7,5.25
+AI,5,71,17,59,4.34
+Software Engineering,3,40,15,54,3.91
+AI,5,60,22,39,5.03
+Software Engineering,2,76,15,26,2.98
+Software Engineering,3,88,4,69,3.72
+DBMS,4,41,8,62,5.46
+AI,4,40,18,40,4.96
+Statistics,3,47,6,84,4.0
+Computer Networks,5,75,3,61,5.03
+Data Structures,4,71,29,86,3.84
+Computer Networks,4,38,6,80,4.79
+Web Development,3,37,11,9,5.53
+Data Structures,3,72,1,57,5.62
+Web Development,3,85,9,86,2.89
+Python,4,75,8,9,4.86
+AI,4,80,22,67,3.16
+AI,5,51,15,10,5.61
+Web Development,2,41,24,7,4.83
+DBMS,4,44,13,22,5.6
+DBMS,4,75,8,88,3.16
+Computer Networks,4,54,21,19,4.85
+DBMS,3,48,4,15,5.85
+Software Engineering,1,56,5,65,3.45
+OS,4,58,20,62,3.66
+Python,4,87,21,5,4.64
+Python,3,90,30,19,3.14
+OS,4,49,2,45,7.0
+Computer Networks,5,80,14,51,4.26
+Software Engineering,2,65,7,32,3.99
+Maths,5,89,17,57,4.41
+AI,5,93,24,40,3.73
+Web Development,4,38,20,80,4.07
+Data Structures,5,74,20,52,4.22
+Python,2,69,9,20,4.04
+Statistics,3,82,27,61,2.49
+OS,4,86,10,57,3.74
+Python,4,35,12,27,5.7
+Software Engineering,2,92,26,24,2.65
+OS,4,60,20,85,3.86
+Statistics,3,85,22,41,3.19
+OS,4,38,18,57,4.53
+Web Development,2,62,21,77,2.73
+Data Structures,5,77,11,31,4.71
+Web Development,1,95,6,45,1.81
+Software Engineering,3,94,26,38,3.41
+DBMS,2,92,7,24,3.35
+Web Development,2,38,22,81,3.12
+Python,3,77,23,75,2.7
+OS,4,75,25,88,2.88
+Web Development,2,57,11,9,4.58
+OS,2,72,11,58,3.26
+DBMS,4,40,30,93,3.52
+Computer Networks,4,45,25,88,3.96
+Statistics,2,77,27,85,2.27
+Computer Networks,5,91,6,71,3.83
+OS,5,54,2,12,7.53
+DBMS,2,91,19,34,2.6
+Maths,5,43,6,68,5.75
+Data Structures,3,46,2,49,5.66
+Maths,5,94,9,13,4.84
+Web Development,5,60,26,31,4.97
+OS,5,59,6,37,5.53
+DBMS,2,71,20,60,2.69
+Computer Networks,3,61,26,95,2.38
+Web Development,2,89,8,61,3.29
+Software Engineering,2,48,9,44,4.0
+DBMS,5,71,26,89,3.59
+Software Engineering,3,74,21,87,2.22
+AI,4,38,23,86,3.64
+Statistics,4,89,5,55,3.89
+Data Structures,3,35,2,27,6.75
+DBMS,3,92,6,30,3.68
+Web Development,3,92,6,21,4.29
+Software Engineering,2,63,8,20,4.12
+Computer Networks,3,95,13,71,3.18
+Python,3,38,21,24,5.04
+Computer Networks,4,83,5,68,3.82
+Web Development,3,95,25,46,2.93
+AI,4,71,18,8,4.31
+AI,4,91,24,33,4.07
+Data Structures,4,56,9,11,5.36
+Software Engineering,2,56,27,7,3.69
+Data Structures,4,35,19,83,4.18
+AI,3,88,1,89,4.26
+AI,4,59,25,51,4.08
+Computer Networks,4,47,7,10,5.86
+Web Development,1,75,19,88,1.72
+Data Structures,4,85,23,50,3.38
+Maths,5,52,7,58,5.34
+Maths,4,35,12,21,5.79
+Python,2,70,24,24,3.45
+DBMS,4,75,18,15,5.06
+Python,4,35,17,52,5.07
+DBMS,3,46,19,23,4.77
+Computer Networks,4,37,20,47,5.16
+Web Development,3,40,6,39,5.86
+Software Engineering,1,38,2,14,6.01
+Maths,5,67,25,63,4.22
+Web Development,2,75,17,13,3.19
+Software Engineering,3,53,30,41,4.4
+Maths,3,67,24,54,3.4
+Software Engineering,3,55,9,48,4.54
+Maths,5,44,14,30,5.04
+Maths,4,64,18,67,3.84
+Python,2,86,16,26,2.93
+Software Engineering,1,48,1,63,4.99
+OS,3,78,13,46,4.08
+Software Engineering,4,41,4,48,5.45
+Web Development,3,47,8,26,5.14
+Data Structures,2,81,22,52,2.75
+Data Structures,4,50,16,57,4.42
+Python,2,86,19,56,2.43
+Python,3,85,20,52,2.91
+OS,3,54,2,13,5.85
+Computer Networks,4,44,26,15,5.0
+AI,4,71,18,27,4.73
+OS,2,37,4,63,4.81
+Python,2,78,6,20,3.85
+Software Engineering,4,53,7,20,5.33
+Software Engineering,3,35,18,9,5.16
+Web Development,3,42,5,93,3.97
+DBMS,3,35,13,59,4.31
+Web Development,2,74,29,54,2.83
+Web Development,3,73,6,85,3.54
+Statistics,4,54,9,21,5.88
+Computer Networks,4,56,10,75,3.77
+Computer Networks,5,71,5,12,6.05
+OS,4,59,25,93,3.87
+Computer Networks,4,81,10,16,4.56
+Data Structures,4,88,28,45,3.02
+Web Development,4,54,27,18,4.82
+AI,3,80,12,22,3.65
+Computer Networks,4,91,27,70,2.99
+Data Structures,4,81,6,56,3.83
+Statistics,5,94,14,32,4.12
+Statistics,4,47,11,74,4.22
+Python,3,70,11,48,3.52
+Data Structures,3,82,29,71,2.52
+OS,5,65,21,37,5.26
+AI,5,56,8,67,4.66
+AI,5,39,4,9,6.78
+AI,4,81,18,22,3.86
+Statistics,5,74,22,59,3.75
+Python,3,80,11,56,3.14
+AI,5,95,8,64,3.83
+Maths,5,78,4,86,4.34
+Statistics,4,68,29,49,3.92
+Web Development,4,81,14,42,3.94
+OS,1,50,5,86,2.94
+OS,4,57,5,10,5.74
+Statistics,3,44,12,66,4.29
+Python,4,39,30,37,4.87
+DBMS,3,70,18,66,3.05
+Computer Networks,4,46,29,43,5.11
+Maths,4,35,20,37,5.01
+Computer Networks,5,62,27,48,4.49
+Web Development,4,44,3,26,6.11
+Data Structures,4,35,25,55,5.12
+OS,4,44,30,9,5.0
+Computer Networks,4,60,11,26,5.42
+Python,2,90,7,42,3.35
+Computer Networks,4,82,15,74,2.61
+Maths,5,78,8,87,4.28
+Web Development,4,41,6,51,5.34
+DBMS,3,82,12,53,3.0
+Maths,5,80,9,48,4.48
+Software Engineering,2,65,14,12,3.86
+Data Structures,1,49,2,76,4.08
+Data Structures,3,78,1,79,5.31
+Computer Networks,4,84,25,22,4.44
+Web Development,2,65,5,31,4.19
+AI,4,79,10,38,3.82
+OS,5,59,22,95,3.86
+Web Development,3,76,24,37,3.4
+Python,3,43,18,55,4.08
+Python,3,54,24,9,4.62
+Statistics,2,72,4,65,3.69
+Statistics,4,39,16,63,4.49
+Statistics,3,63,16,13,4.28
+AI,4,63,18,13,5.13
+Data Structures,2,64,7,47,3.46
+DBMS,4,57,9,31,4.32
+Computer Networks,4,90,10,35,3.91
+Maths,5,66,1,12,7.96
+AI,4,90,28,34,3.83
+Computer Networks,2,93,28,6,3.65
+OS,4,59,14,78,4.31
+Statistics,2,63,27,45,3.44
+Data Structures,2,57,6,85,2.97
+DBMS,4,57,6,45,4.61
+Python,3,64,4,13,5.09
+Software Engineering,3,78,15,6,3.92
+OS,5,57,5,82,4.39
+Computer Networks,4,61,5,87,4.19
+Web Development,4,61,20,53,4.18
+Maths,3,48,18,76,3.26
+Maths,4,42,16,60,4.18
+Web Development,3,37,21,48,4.11
+Statistics,2,35,22,66,3.89
+Python,2,75,27,79,1.92
+Maths,3,75,17,74,2.74
+Data Structures,3,56,28,66,3.52
+Web Development,3,65,3,46,4.46
+Data Structures,5,36,29,41,5.37
+Python,3,62,25,6,4.39
+DBMS,3,91,23,15,3.3
+Web Development,2,72,15,30,3.43
+Data Structures,5,51,6,24,6.05
+Python,3,43,3,11,6.09
+Computer Networks,4,53,1,82,5.99
+OS,3,88,7,10,4.01
+DBMS,2,61,15,81,2.78
+Computer Networks,4,39,1,54,7.25
+Maths,4,39,3,25,6.45
+Statistics,5,73,14,70,4.23
+OS,3,87,3,57,3.89
+Computer Networks,3,43,16,10,4.82
+DBMS,3,42,11,51,4.43
+AI,5,88,23,58,3.9
+Statistics,3,94,27,89,2.15
+AI,5,94,29,72,4.1
+AI,4,70,4,17,5.29
+Maths,5,57,2,32,6.7
+AI,5,76,26,52,4.06
+OS,4,51,24,94,3.89
+Web Development,5,74,29,73,3.83
+DBMS,4,90,10,9,4.77
+Statistics,2,89,27,12,3.27
+Statistics,4,95,21,59,3.13
+OS,4,81,21,46,4.21
+Maths,3,83,13,42,3.72
+DBMS,3,58,22,79,2.99
+Python,2,56,17,71,3.12
+Data Structures,4,63,2,90,5.38
+DBMS,4,47,18,61,3.96
+Statistics,5,82,16,71,4.17
+OS,4,79,12,95,3.17
+Computer Networks,4,44,17,56,4.32
+Data Structures,3,81,24,90,2.05
+Computer Networks,3,35,15,32,4.67
+Python,1,40,10,6,4.4
+Software Engineering,3,38,18,78,3.54
+AI,4,68,23,67,3.88
+Computer Networks,4,81,17,24,4.43
+Web Development,3,63,21,53,3.5
+Web Development,3,67,2,47,5.28
+Statistics,2,65,26,63,2.61
+Statistics,4,45,11,57,4.59
+Maths,5,69,20,47,4.98
+OS,4,36,1,35,8.0
+Maths,4,68,20,90,3.14
+DBMS,5,62,17,49,5.05
+Web Development,3,68,8,89,3.25
+Statistics,4,41,9,17,5.93
+Python,5,71,2,67,6.19
+Statistics,4,61,22,28,4.69
+AI,3,42,14,19,5.19
+Web Development,2,80,14,64,2.63
+AI,5,63,7,74,4.52
+Computer Networks,2,85,14,59,2.38
+Statistics,3,76,25,28,3.76
+OS,3,69,14,75,2.99
+Web Development,4,74,20,60,3.99
+Web Development,3,40,15,33,4.5
+Data Structures,4,85,11,78,3.45
+Python,1,73,25,77,1.57
+DBMS,3,59,2,54,5.29
+Web Development,3,53,9,46,4.61
+Statistics,4,68,21,35,4.44
+OS,4,53,16,30,4.85
+OS,4,38,23,42,4.91
+DBMS,4,43,13,32,5.22
+OS,5,57,9,9,5.94
+Computer Networks,3,85,22,57,3.14
+Web Development,3,73,1,32,6.63
+Statistics,3,40,23,72,3.85
+Software Engineering,4,85,8,11,4.88
+Data Structures,5,68,27,39,5.08
+AI,3,59,17,29,3.99
+DBMS,2,53,4,41,4.46
+Data Structures,5,65,28,94,3.59
+Computer Networks,5,72,8,34,4.35
+OS,4,41,27,14,5.3
+Data Structures,3,91,28,95,2.26
+Statistics,3,38,24,95,3.05
+Web Development,2,65,20,7,3.5
+OS,4,39,18,59,4.35
+Statistics,4,57,25,54,4.56
+OS,2,48,8,69,3.53
+DBMS,3,81,8,44,4.05
+Computer Networks,3,40,10,24,5.3
+Web Development,1,35,10,73,3.42
+Statistics,5,60,27,32,5.13
+AI,5,81,13,62,3.78
+Computer Networks,3,49,16,35,4.55
+Statistics,3,44,30,7,4.78
+Data Structures,4,41,23,53,4.79
+Software Engineering,2,82,28,66,2.25
+DBMS,4,53,22,52,4.28
+AI,3,77,24,55,3.43
+Maths,5,66,8,58,5.07
+Statistics,4,51,28,69,4.01
+Web Development,3,60,5,85,3.35
+Web Development,5,46,27,46,5.3
+DBMS,4,85,22,11,4.27
+Statistics,3,72,2,50,5.3
+Statistics,4,47,3,79,4.88
+OS,5,71,18,70,3.86
+Statistics,3,36,13,79,3.69
+Maths,3,48,28,75,3.4
+Computer Networks,4,73,1,89,5.27
+Data Structures,5,75,17,66,3.43
+OS,3,88,23,15,3.15
+Maths,5,46,8,18,6.0
+Statistics,3,53,8,9,5.03
+Software Engineering,4,57,23,79,3.79
+Web Development,3,54,9,10,5.6
+OS,3,85,8,41,3.72
+Web Development,3,70,20,23,4.11
+Statistics,2,78,19,32,2.7
+DBMS,4,39,30,67,4.42
+Web Development,3,42,28,49,3.7
+Computer Networks,4,69,1,31,7.12
+Python,2,91,2,60,3.94
+Software Engineering,3,92,11,27,3.7
+Computer Networks,2,88,24,63,2.2
+Maths,4,75,21,87,2.94
+Computer Networks,4,35,7,29,5.69
+Maths,5,56,11,20,6.02
+OS,5,80,17,16,4.94
+Python,4,46,2,57,6.56
+Data Structures,4,84,13,51,3.72
+Software Engineering,1,63,5,17,3.91
+Maths,5,87,16,32,4.63
+AI,4,73,16,52,4.33
+Computer Networks,5,57,9,30,5.22
+Web Development,5,35,28,84,4.89
+DBMS,4,80,13,13,4.88
+Data Structures,4,76,3,54,4.65
+Python,3,63,26,61,3.24
+Web Development,2,53,23,72,3.16
+AI,3,68,30,30,3.84
+DBMS,3,40,9,34,5.05
+DBMS,3,59,18,58,3.62
+Statistics,3,87,25,67,2.92
+Computer Networks,5,67,21,88,3.72
+DBMS,3,53,21,54,3.99
+AI,4,54,15,10,5.13
+Software Engineering,2,66,13,63,2.84
+Python,3,81,18,63,2.86
+AI,3,58,11,39,4.26
+Computer Networks,3,92,23,79,2.14
+Web Development,1,94,17,34,2.17
+Python,3,68,4,77,3.55
+OS,4,80,16,62,3.32
+DBMS,4,41,5,46,5.51
+OS,5,46,4,45,5.82
+Web Development,2,40,18,58,3.34
+Software Engineering,3,38,7,60,4.29
+Maths,4,50,14,10,5.6
+OS,4,69,21,23,4.43
+Python,3,46,18,55,3.55
+Data Structures,4,73,1,33,6.67
+OS,3,35,14,9,5.63
+Computer Networks,5,80,22,29,5.19
+Computer Networks,5,65,22,24,5.02
+AI,3,71,17,12,4.29
+AI,5,71,22,8,5.31
+Computer Networks,3,73,26,72,3.36
+Software Engineering,3,57,5,22,4.79
+Statistics,3,82,24,13,3.92
+Data Structures,3,64,27,31,3.69
+Python,3,41,29,22,4.39
+DBMS,3,53,16,53,3.4
+Software Engineering,3,37,17,60,3.64
+DBMS,3,45,28,6,4.8
+Maths,3,92,24,80,2.22
+Python,1,68,12,87,1.44
+Data Structures,5,81,28,24,4.87
+Data Structures,4,79,24,69,3.47
+Maths,2,42,18,69,3.7
+Maths,3,75,10,45,3.68
+Maths,4,78,2,71,4.68
+OS,5,61,4,43,5.77
+Computer Networks,4,46,23,54,4.41
+Maths,5,35,3,17,7.04
+AI,4,36,26,42,5.1
+Computer Networks,4,58,15,17,5.4
+Statistics,4,63,16,94,3.34
+Web Development,3,53,14,65,3.38
+Web Development,2,52,22,59,3.35
+OS,2,70,16,13,4.05
+Maths,5,92,11,41,4.77
+Computer Networks,3,91,19,83,2.1
+Computer Networks,2,36,12,22,4.65
+Web Development,3,47,23,57,3.46
+AI,5,58,29,43,5.36
+Maths,3,49,20,57,3.43
+Computer Networks,3,40,13,83,3.4
+Statistics,3,74,20,23,3.85
+Software Engineering,2,49,7,17,4.96
+Web Development,2,71,17,26,3.13
+Software Engineering,3,37,6,62,4.35
+Statistics,4,56,22,85,3.7
+DBMS,4,41,9,62,4.69
+Web Development,4,70,19,79,2.82
+DBMS,3,90,19,92,2.48
+Python,3,74,6,60,4.24
+Computer Networks,2,52,16,63,3.75
+OS,4,48,23,83,4.01
+Maths,5,90,13,24,5.15
+Maths,4,77,3,85,4.1
+Statistics,5,53,27,34,5.0
+AI,5,80,1,59,7.13
+Data Structures,4,65,19,42,4.53
+DBMS,4,35,8,54,5.41
+Data Structures,5,52,10,71,5.25
+Web Development,2,80,23,10,3.54
+Web Development,3,90,1,83,4.84
+DBMS,5,65,4,18,6.49
+Software Engineering,2,94,28,44,2.72
+OS,5,95,17,39,4.32
+Python,3,41,4,75,4.72
+Statistics,3,69,5,65,3.58
+Data Structures,5,89,28,57,3.95
+Software Engineering,3,47,10,64,4.0
+AI,4,59,25,25,4.95
+Software Engineering,3,68,4,73,4.0
+Statistics,3,50,25,83,3.13
+DBMS,3,44,5,91,4.01
+Software Engineering,3,67,14,49,3.91
+Data Structures,5,85,2,76,5.14
+AI,3,49,30,18,4.81
+Web Development,3,73,19,42,2.97
+OS,5,41,20,30,5.86
+Maths,5,93,25,21,4.69
+Software Engineering,1,41,27,48,3.16
+Maths,5,69,22,23,4.6
+Data Structures,3,42,19,79,3.91
+OS,3,72,5,70,3.48
+OS,4,44,23,33,5.44
+Data Structures,5,62,14,49,5.65
+OS,5,77,10,91,3.83
+Data Structures,5,44,27,65,4.96
+Computer Networks,4,37,29,47,4.89
+Data Structures,4,57,27,13,4.75
+Computer Networks,4,76,11,24,4.65
+Software Engineering,4,81,1,29,6.27
+DBMS,5,40,11,76,4.44
+DBMS,2,89,6,5,4.31
+Python,3,53,11,67,4.09
+Web Development,2,84,27,36,2.52
+Software Engineering,4,60,5,85,4.07
+Python,3,69,5,32,4.42
+Software Engineering,3,90,5,67,2.87
+DBMS,3,53,18,11,4.89
+Computer Networks,4,48,2,33,5.7
+Computer Networks,4,35,14,36,4.89
+Software Engineering,3,91,25,69,2.73
+AI,4,69,7,74,3.78
+Computer Networks,4,86,23,81,3.25
+Data Structures,4,66,21,26,4.31
+Software Engineering,3,63,15,62,3.35
+Software Engineering,1,78,20,63,2.48
+OS,4,64,12,67,3.84
+Data Structures,4,56,22,68,3.97
+AI,4,53,16,21,4.32
+DBMS,4,70,21,61,4.08
+AI,4,50,18,53,4.75
+Computer Networks,4,91,16,93,2.94
+Data Structures,4,39,5,91,4.68
+Statistics,4,53,4,66,5.78
+AI,5,37,23,45,5.61
+Software Engineering,3,54,10,87,3.25
+Software Engineering,3,56,9,29,4.68
+DBMS,4,49,12,5,5.81
+DBMS,3,86,11,90,1.96
+Software Engineering,2,51,15,86,2.81
+Software Engineering,2,47,3,57,3.58
+Software Engineering,3,52,7,78,3.91
+OS,5,81,12,57,3.92
+Software Engineering,3,70,17,28,4.36
+DBMS,3,37,12,65,4.14
+Statistics,4,67,12,54,4.75
+OS,4,68,21,90,3.55
+DBMS,4,41,2,51,6.13
+AI,4,71,7,46,4.86
+Web Development,3,68,15,33,3.59
+Maths,3,74,7,76,2.99
+AI,3,86,18,86,2.34
+DBMS,4,57,19,82,3.91
+Python,4,39,23,69,3.93
+Statistics,3,72,6,92,3.3
+Data Structures,2,71,25,43,3.03
+Python,4,50,23,73,4.29
+Data Structures,4,64,6,36,5.4
+Data Structures,5,78,23,45,4.52
+DBMS,5,65,9,29,5.37
+AI,4,69,4,68,4.43
+DBMS,4,70,27,60,3.37
+AI,4,61,26,26,4.55
+Web Development,2,74,6,86,2.9
+Computer Networks,5,65,28,51,4.39
+Web Development,4,85,6,30,4.79
+OS,3,90,9,73,2.64
+Data Structures,5,44,17,50,4.89
+Maths,3,54,23,33,4.13
+Computer Networks,4,90,8,81,3.21
+DBMS,2,55,5,16,4.82
+AI,5,74,27,31,4.81
+Web Development,2,54,12,86,3.13
+Maths,4,42,1,25,8.0
+Statistics,4,37,20,76,4.92
+Maths,5,75,16,43,4.21
+OS,4,38,26,28,5.56
+Web Development,3,78,28,33,4.13
+OS,3,36,13,62,4.44
+Maths,4,71,20,80,3.54
+Maths,4,73,30,88,2.59
+Web Development,3,84,16,76,2.56
+DBMS,3,52,21,69,2.86
+Python,4,43,27,91,4.19
+OS,3,61,1,42,6.47
+OS,3,70,8,68,3.73
+Software Engineering,2,88,30,59,2.51
+Computer Networks,3,38,24,90,3.73
+AI,3,59,27,30,4.41
+Computer Networks,3,48,28,12,4.45
+Software Engineering,4,84,16,44,3.4
+Computer Networks,4,70,7,75,4.35
+AI,5,63,20,63,4.44
+Data Structures,2,88,21,12,3.29
+Data Structures,5,60,14,86,4.22
+AI,5,47,12,84,4.8
+Web Development,1,52,1,85,4.72
+DBMS,4,84,14,76,3.13
+OS,4,85,13,72,3.1
+OS,4,59,26,82,3.88
+Software Engineering,2,58,8,67,3.3
+Statistics,4,74,19,25,4.28
+Web Development,4,78,11,43,4.62
+OS,3,45,23,28,4.8
+Computer Networks,3,40,6,36,5.07
+Computer Networks,4,63,2,73,4.82
+OS,3,47,10,89,3.12
+Maths,5,53,27,36,5.3
+DBMS,4,91,5,5,5.22
+Python,4,63,30,29,4.16
+Data Structures,1,95,6,29,2.46
+Web Development,4,53,23,49,4.51
+Maths,5,61,3,40,5.48
+Computer Networks,4,75,1,22,6.81
+Software Engineering,2,91,26,48,2.59
+Web Development,5,80,9,18,5.54
+Software Engineering,2,70,14,32,3.56
+Web Development,4,86,7,38,4.26
+Python,3,90,18,69,2.77
+Statistics,2,50,26,41,4.05
+Computer Networks,4,85,7,30,4.9
+Python,3,69,27,83,2.64
+Web Development,2,94,30,84,1.45
+Statistics,4,65,24,70,4.11
+OS,5,67,27,95,3.83
+AI,3,41,13,38,5.05
+DBMS,4,92,25,72,2.59
+Web Development,3,50,25,85,3.42
+Python,3,54,8,26,4.74
+AI,5,81,9,77,3.67
+Data Structures,5,86,6,81,4.2
+Statistics,4,71,5,36,4.43
+Computer Networks,3,70,25,34,3.86
+Statistics,4,38,6,95,4.05
+Computer Networks,4,87,18,75,3.02
+AI,3,58,13,23,4.54
+AI,3,76,30,45,2.94
+Web Development,4,84,17,63,3.41
+Statistics,3,53,6,51,4.43
+Data Structures,5,71,17,50,4.33
+Maths,4,79,28,32,4.14
+Software Engineering,3,66,25,86,2.91
+Maths,2,62,30,94,1.85
+Web Development,4,42,20,5,5.27
+AI,4,35,2,7,8.0
+Python,2,90,28,57,2.77
+Python,5,93,14,37,4.59
+Data Structures,4,86,6,69,3.91
+Statistics,4,94,25,67,2.76
+Computer Networks,4,59,1,65,6.5
+Computer Networks,4,37,8,94,3.98
+Software Engineering,2,61,5,19,4.63
+Python,4,37,6,22,5.84
+Web Development,2,70,7,85,2.43
+Software Engineering,2,43,14,93,3.27
+AI,4,83,2,26,5.94
+Statistics,5,74,7,59,4.97
+Software Engineering,2,71,17,86,2.57
+Data Structures,4,56,30,60,4.05
+Computer Networks,3,74,5,13,4.88
+Web Development,2,63,13,71,2.55
+Computer Networks,4,90,3,53,4.66
+Statistics,5,42,5,24,6.36
+Computer Networks,2,82,10,93,2.54
+AI,4,53,24,55,4.34
+Maths,5,53,20,49,5.03
+Data Structures,4,94,29,30,3.55
+Computer Networks,3,91,14,29,4.09
+Computer Networks,3,61,26,13,4.55
+Web Development,3,82,16,11,4.08
+Data Structures,3,81,9,61,3.59
+DBMS,4,92,11,36,3.84
+OS,3,72,22,93,2.75
+Data Structures,4,79,13,52,3.89
+Maths,5,92,12,22,4.33
+Python,2,36,17,46,3.97
+Software Engineering,2,41,24,39,3.68
+Maths,4,43,29,71,4.14
+Software Engineering,2,38,9,72,4.41
+Statistics,5,58,29,83,3.98
+DBMS,4,83,17,19,4.17
+Statistics,4,86,1,60,6.1
+Web Development,4,46,8,87,4.39
+OS,4,70,27,76,3.57
+Computer Networks,4,43,3,40,6.07
+DBMS,5,93,21,69,3.58
+Python,5,64,12,8,5.27
+OS,3,78,15,42,3.43
+OS,4,65,2,10,6.54
+Software Engineering,4,87,3,17,5.84
+OS,4,52,29,68,3.53
+Data Structures,3,67,13,86,3.02
+Web Development,3,75,21,10,4.04
+Web Development,3,87,14,54,3.25
+Python,3,83,3,17,4.72
+Web Development,4,59,30,41,4.85
+Computer Networks,3,37,27,48,4.77
+DBMS,3,87,5,27,4.51
+Computer Networks,3,84,27,5,3.72
+OS,5,58,17,44,4.95
+Statistics,4,86,4,85,3.72
+Software Engineering,1,69,18,35,3.52
+Computer Networks,5,77,25,81,3.48
+Computer Networks,4,64,2,34,6.18
+AI,2,77,3,79,3.13
+Software Engineering,4,78,23,74,3.07
+Maths,5,46,23,73,4.84
+Web Development,3,47,6,5,5.83
+Data Structures,5,93,3,86,4.68
+Statistics,3,77,3,80,3.72
+AI,4,94,3,69,3.89
+Computer Networks,5,91,16,15,4.92
+Python,2,60,19,71,2.98
+Data Structures,4,36,9,74,4.51
+OS,4,68,21,18,5.3
+Computer Networks,2,49,19,81,3.01
+DBMS,3,83,14,65,2.88
+DBMS,4,83,7,87,3.0
+AI,2,82,9,35,3.42
+AI,4,51,18,22,5.08
+AI,4,76,10,34,4.76
+OS,3,72,1,61,5.67
+DBMS,2,50,29,91,2.24
+Computer Networks,3,62,19,30,3.89
+Statistics,3,35,16,92,3.57
+Statistics,3,76,26,25,4.05
+OS,4,89,24,62,3.1
+Software Engineering,2,40,2,17,6.49
+Statistics,3,51,29,12,5.36
+Data Structures,4,42,17,82,4.01
+AI,4,48,9,18,5.55
+AI,3,68,20,6,4.48
+Computer Networks,5,64,2,14,7.32
+Computer Networks,3,66,9,70,3.37
+Data Structures,5,63,16,45,4.61
+Data Structures,3,71,26,95,2.65
+Computer Networks,3,82,1,27,5.81
+OS,4,87,2,52,5.51
+Software Engineering,2,46,21,70,3.81
+Web Development,4,86,8,82,3.61
+OS,5,84,11,18,4.32
+Web Development,4,83,10,22,4.08
+Computer Networks,4,84,4,75,4.38
+Maths,4,57,11,83,3.87
+Maths,3,50,3,90,4.82
+Maths,4,58,21,8,5.15
+Web Development,2,66,29,18,3.59
+DBMS,3,89,17,71,2.86
+Data Structures,5,89,27,35,4.53
+Statistics,3,38,9,5,5.04
+AI,5,63,2,78,5.58
+Data Structures,5,72,19,79,4.1
+Maths,4,54,4,34,5.32
+Software Engineering,3,83,23,28,3.26
+DBMS,4,64,8,76,4.09
+Data Structures,3,93,6,33,3.37
+Web Development,3,86,11,66,3.34
+DBMS,4,44,11,87,3.92
+Python,2,46,30,66,2.8
+DBMS,3,40,8,82,3.83
+Data Structures,4,71,8,43,4.59
+AI,5,77,8,30,5.38
+Computer Networks,4,83,1,46,6.27
+Maths,4,67,11,93,3.12
+OS,4,78,8,53,3.31
+Web Development,3,71,29,35,3.82
+Statistics,4,36,27,28,5.08
+Python,3,42,19,81,3.49
+Web Development,3,46,19,62,4.18
+OS,3,38,3,93,4.56
+Computer Networks,5,68,21,12,5.12
+OS,5,81,12,9,5.29
+DBMS,3,68,21,56,3.65
+Software Engineering,1,88,12,16,3.09
+OS,3,35,9,57,4.49
+OS,4,73,5,70,4.63
+OS,3,66,23,49,3.61
+Software Engineering,3,57,20,38,4.08
+Web Development,2,54,7,76,3.39
+DBMS,4,43,23,12,5.51
+AI,4,51,24,78,3.18
+Computer Networks,4,82,13,24,4.87
+DBMS,3,35,16,26,4.7
+DBMS,4,82,10,30,4.32
+Web Development,2,71,7,59,3.2
+Web Development,3,68,5,65,4.3
+OS,4,40,15,94,4.1
+Web Development,4,95,23,95,2.52
+Maths,2,80,18,88,2.25
+Python,3,89,6,21,4.2
+DBMS,3,41,10,17,5.13
+Software Engineering,3,71,14,67,3.14
+AI,5,41,21,7,5.8
+Statistics,2,50,15,95,2.57
+Python,4,90,6,13,4.65
+Maths,4,58,27,65,3.91
+Python,3,74,25,70,3.0
+Computer Networks,3,65,16,80,3.02
+Statistics,2,65,8,51,3.6
+Statistics,3,35,21,70,3.7
+Computer Networks,2,69,20,75,2.71
+Statistics,2,77,3,66,4.0
+Maths,5,53,17,57,4.57
+AI,5,35,9,12,6.71
+Computer Networks,4,58,28,30,4.85
+Statistics,3,47,28,88,3.08
+AI,5,79,26,71,3.21
+Software Engineering,3,56,9,23,5.28
+Web Development,3,56,25,38,4.1
+Web Development,2,73,16,84,2.45
+OS,4,70,11,81,3.4
+Software Engineering,2,48,20,54,3.87
+Computer Networks,3,77,6,88,3.56
+Software Engineering,2,63,26,61,2.94
+Statistics,4,55,28,59,3.99
+Data Structures,4,59,24,22,4.8
+Statistics,5,73,11,91,3.61
+OS,4,47,17,40,4.33
+Data Structures,3,56,24,54,3.79
+Statistics,4,71,24,93,2.85
+AI,3,35,17,33,4.19
+Maths,3,84,22,57,3.0
+AI,5,45,21,89,4.13
+Web Development,4,49,21,26,4.68
+Maths,5,90,21,41,4.62
+DBMS,4,91,26,5,3.76
+AI,4,56,11,17,4.93
+Web Development,3,49,20,76,3.36
+Maths,4,66,28,66,3.58
+Statistics,4,55,8,37,4.36
+Software Engineering,2,84,15,56,2.5
+OS,4,59,23,68,4.01
+OS,3,83,15,71,3.15
+Software Engineering,1,68,15,27,2.99
+OS,5,82,29,50,4.11
+Data Structures,5,89,12,31,5.14
+Software Engineering,3,53,27,54,3.94
+Software Engineering,3,63,22,21,4.61
+Web Development,4,72,14,33,4.64
+Computer Networks,2,39,5,94,3.52
+OS,2,80,10,36,3.34
+Maths,5,60,26,72,3.93
+Data Structures,5,72,16,41,4.52
+Statistics,4,65,8,14,4.56
+Data Structures,4,58,8,71,4.6
+OS,5,43,22,85,4.52
+Web Development,3,76,29,17,4.17
+DBMS,3,35,22,45,4.68
+DBMS,3,53,28,46,3.67
+OS,3,44,9,28,5.25
+Web Development,3,70,21,31,3.9
+Software Engineering,3,74,1,37,6.41
+AI,4,78,15,77,3.28
+DBMS,4,62,19,77,3.77
+Data Structures,3,67,25,15,4.18
+Web Development,4,77,10,92,3.44
+Statistics,3,83,15,75,2.94
+Python,2,63,8,91,3.15
+DBMS,2,58,25,74,2.76
+Maths,4,73,29,12,4.87
+Web Development,3,70,24,68,3.6
+Computer Networks,4,70,5,72,4.27
+OS,4,60,6,32,4.61
+Data Structures,5,37,21,38,5.57
+Maths,4,93,7,54,3.89
+Data Structures,5,45,25,51,5.16
+Data Structures,4,46,26,31,5.23
+DBMS,4,78,13,38,4.23
+DBMS,3,58,4,31,5.14
+Software Engineering,3,94,13,20,3.5
+Python,2,77,5,64,2.92
+DBMS,5,37,18,14,5.87
+Data Structures,3,85,14,21,3.5
+Python,2,72,8,54,3.72
+Web Development,3,85,14,82,2.51
+DBMS,5,88,15,44,3.8
+Software Engineering,4,49,2,65,6.67
+Statistics,3,38,12,81,4.23
+Software Engineering,4,77,23,41,3.59
+DBMS,2,74,15,83,2.02
+Python,4,37,5,32,6.02
+OS,3,45,13,88,3.61
+Statistics,4,77,17,22,4.61
+Software Engineering,3,56,21,22,4.44
+Software Engineering,2,63,8,63,3.66
+Software Engineering,3,69,28,80,3.5
+Python,3,81,23,84,2.47
+AI,3,40,21,35,5.3
+DBMS,4,42,13,88,3.89
+Maths,4,89,12,29,3.75
+OS,3,57,16,27,4.31
+Data Structures,5,95,20,20,4.68
+Web Development,2,81,30,34,3.35
+Maths,3,50,30,18,4.54
+Data Structures,5,39,22,6,6.32
+Python,2,67,21,72,3.45
+DBMS,4,83,17,79,3.2
+Maths,3,35,24,22,4.99
+Software Engineering,4,50,12,35,4.85
+Python,3,75,6,48,3.9
+Computer Networks,4,95,24,92,3.06
+OS,3,87,3,81,3.75
+DBMS,3,83,25,31,3.45
+Maths,4,35,2,81,5.36
+Software Engineering,3,81,17,73,2.33
+Software Engineering,3,83,16,87,2.45
+Data Structures,5,38,24,91,3.84
+Computer Networks,4,42,24,63,4.95
+OS,5,55,16,88,4.51
+Software Engineering,2,43,13,5,5.22
+Data Structures,4,78,5,76,4.31
+Computer Networks,3,80,5,6,5.17
+Data Structures,4,45,17,33,4.92
+Data Structures,3,73,21,7,3.82
+Statistics,4,88,16,22,4.29
+Data Structures,4,88,16,54,3.05
+Computer Networks,4,93,27,41,3.85
+Python,3,77,12,24,4.15
+Maths,4,39,8,25,5.62
+DBMS,4,77,26,9,4.87
+Python,5,76,28,95,3.16
+Data Structures,4,71,23,9,4.63
+DBMS,4,91,27,69,2.95
+Statistics,4,87,29,59,2.78
+OS,3,45,17,84,4.02
+Statistics,3,89,28,51,3.22
+Software Engineering,2,54,9,9,3.94
+DBMS,4,46,14,43,4.5
+Python,3,74,8,63,3.65
+DBMS,5,58,9,52,5.13
+Software Engineering,1,78,26,29,2.76
+OS,4,69,12,13,5.39
+OS,5,80,9,25,5.04
+Web Development,2,78,28,66,2.41
+Computer Networks,4,60,27,30,4.53
+AI,5,40,21,64,4.92
+AI,4,52,13,18,5.16
+AI,3,82,12,49,3.84
+DBMS,3,94,17,80,2.09
+Python,4,70,8,21,4.87
+Python,4,42,17,34,5.45
+OS,4,54,21,67,4.32
+Statistics,4,66,24,34,5.04
+Data Structures,5,40,4,67,5.75
+Web Development,3,70,23,5,4.1
+DBMS,4,81,10,64,3.63
+Maths,5,75,21,69,4.21
+Maths,3,90,18,13,3.89
+Maths,5,95,8,83,3.4
+Web Development,4,94,29,90,2.13
+AI,5,76,10,32,5.41
+AI,3,91,6,92,3.34
+Computer Networks,2,88,3,89,2.49
+DBMS,4,37,29,35,5.24
+Statistics,2,74,30,81,2.19
+AI,3,95,24,36,3.07
+Computer Networks,4,50,24,91,3.53
+OS,3,50,11,8,4.7
+Web Development,3,48,23,40,4.27
+Statistics,4,52,30,57,4.37
+OS,4,94,18,11,4.2
+Computer Networks,3,67,29,47,3.82
+Web Development,4,75,29,57,4.09
+Python,3,90,30,55,2.94
+Python,3,47,2,95,4.99
+OS,4,64,25,69,4.07
+Web Development,2,59,13,43,3.37
+Statistics,3,49,8,46,4.34
+Maths,5,83,30,78,3.58
+Maths,4,37,2,40,6.62
+Web Development,4,70,21,87,3.17
+OS,2,51,28,78,2.67
+Maths,4,51,8,53,4.53
+AI,4,77,27,68,2.96
+OS,4,82,10,94,3.18
+Data Structures,5,48,4,57,5.91
+Maths,5,49,22,72,5.05
+Web Development,2,66,15,25,4.11
+Python,2,58,15,94,2.53
+OS,4,50,24,33,5.14
+Maths,5,44,28,6,6.31
+Python,3,46,5,62,4.7
+Computer Networks,5,54,7,91,4.63
+Data Structures,3,51,14,67,4.03
+Computer Networks,3,83,8,47,3.67
+OS,3,56,22,64,2.96
+Maths,5,80,26,47,4.58
+Statistics,3,82,6,42,3.33
+Web Development,2,86,4,89,2.7
+Software Engineering,3,67,27,46,3.33
+Computer Networks,3,42,12,77,3.59
+Software Engineering,2,95,9,73,2.27
+Statistics,3,63,5,82,3.36
+OS,4,53,15,29,5.19
+Software Engineering,3,46,27,13,4.59
+Data Structures,5,42,23,83,4.4
+Statistics,3,46,7,89,3.44
+Statistics,4,51,3,84,5.22
+Statistics,5,58,16,54,5.25
+Statistics,3,78,14,48,3.71
+Statistics,5,41,9,49,5.86
+Computer Networks,4,51,23,23,4.93
+Statistics,4,40,11,14,5.65
+Statistics,4,84,7,86,2.65
+Statistics,4,68,16,41,4.34
+Data Structures,4,37,5,90,4.72
+OS,4,59,2,70,5.24
+DBMS,4,40,23,25,5.8
+DBMS,5,78,16,79,3.69
+Computer Networks,5,38,29,52,4.93
+Statistics,5,62,1,70,6.91
+Computer Networks,4,88,5,89,3.5
+OS,4,62,8,50,4.55
+DBMS,3,75,15,59,3.22
+Software Engineering,3,72,29,84,2.24
+AI,3,42,27,38,4.98
+Statistics,4,89,25,41,2.91
+DBMS,1,45,19,8,3.95
+Computer Networks,3,77,23,8,3.64
+Software Engineering,3,67,27,83,2.99
+Maths,5,95,10,56,4.33
+AI,4,54,27,69,3.78
+Computer Networks,4,81,15,49,3.76
+Software Engineering,2,42,26,49,3.71
+Software Engineering,4,69,10,16,4.88
+Python,4,87,24,20,4.36
+DBMS,5,58,24,78,4.29
+DBMS,4,55,5,53,4.92
+Software Engineering,2,53,17,56,3.05
+Data Structures,5,78,1,19,7.78
+Web Development,3,53,3,78,4.6
+Software Engineering,2,80,8,36,3.58
+Statistics,2,44,4,17,5.17
+Maths,3,42,25,60,3.9
+OS,4,70,21,89,3.18
+Computer Networks,2,39,28,51,4.19
+Statistics,2,38,5,61,4.2
+Software Engineering,2,90,15,32,2.99
+DBMS,4,62,13,78,3.89
+Software Engineering,2,49,30,38,3.53
+Web Development,3,44,28,66,4.35
+Software Engineering,2,66,24,15,3.16
+Statistics,4,44,20,91,4.01
+AI,4,76,3,81,4.43
+Data Structures,3,42,15,52,4.14
+AI,4,42,24,32,4.72
+DBMS,3,85,6,72,3.52
+OS,4,56,11,22,5.21
+Statistics,3,47,25,12,4.74
+Computer Networks,2,82,13,55,2.77
+Data Structures,4,87,4,44,4.98
+AI,5,52,22,91,4.0
+Maths,5,89,9,44,4.32
+AI,3,76,26,80,2.92
+Statistics,3,53,13,37,4.17
+Python,2,82,9,85,2.01
+Software Engineering,2,60,23,68,2.99
+AI,4,44,26,37,4.6
+Statistics,4,68,2,17,6.25
+Data Structures,5,39,9,39,5.9
+Computer Networks,3,49,3,37,5.38
+Web Development,5,46,26,40,5.27
+Maths,5,68,27,39,4.63
+Python,3,66,24,81,2.87
+Data Structures,3,89,17,52,3.49
+Web Development,3,70,25,47,4.43
+Data Structures,5,59,23,39,4.59
+Data Structures,4,91,27,17,4.32
+Data Structures,5,91,15,17,4.73
+OS,3,45,27,50,4.18
+AI,5,53,8,70,4.5
+Software Engineering,2,70,8,43,3.7
+Maths,3,94,5,92,2.64
+OS,3,61,28,77,3.38
+Maths,4,81,3,16,5.73
+Computer Networks,2,39,12,20,4.99
+AI,3,90,7,19,4.31
+Python,1,46,14,32,3.89
+OS,5,37,14,86,4.48
+Computer Networks,4,42,5,49,5.4
+Python,2,63,13,65,2.68
+Maths,4,83,28,46,4.03
+Computer Networks,5,68,8,27,5.44
+Web Development,2,88,20,63,2.25
+Data Structures,5,89,30,44,3.68
+Web Development,4,88,18,89,2.47
+Python,3,84,24,16,3.38
+Data Structures,4,94,14,90,2.78
+DBMS,4,71,21,63,3.66
+Data Structures,4,37,25,34,5.02
+Maths,5,88,5,90,3.46
+Software Engineering,2,45,5,29,4.76
+OS,5,82,28,34,4.58
+DBMS,4,56,1,9,8.0
+DBMS,3,44,19,75,3.34
+AI,5,76,25,89,3.59
+Maths,5,84,16,92,3.63
+Maths,4,88,28,55,3.14
+Python,2,44,26,63,3.5
+AI,3,78,22,50,3.0
+Maths,4,58,19,73,4.46
+Software Engineering,3,36,17,80,3.93
+Maths,4,76,3,23,5.54
+Statistics,5,60,13,90,4.34
+Web Development,3,78,21,45,3.3
+AI,4,41,25,37,4.27
+OS,3,84,13,28,3.72
+AI,5,78,21,20,4.93
+OS,3,83,10,73,3.25
+Python,3,51,12,80,3.62
+Web Development,3,90,24,26,3.19
+OS,4,50,24,41,4.25
+Web Development,3,65,20,78,2.97
+Data Structures,4,88,13,20,4.06
+Web Development,2,76,27,7,3.38
+OS,5,92,6,9,5.23
+Data Structures,5,94,1,63,6.47
+AI,5,93,11,62,4.29
+AI,5,54,12,75,4.65
+Web Development,3,54,25,89,3.18
+Software Engineering,1,50,5,70,3.87
+AI,3,85,19,6,3.91
+Computer Networks,4,51,9,64,4.82
+DBMS,1,86,21,92,1.27
+Statistics,4,78,22,39,4.15
+AI,4,81,7,27,4.47
+DBMS,4,46,4,39,5.42
+Software Engineering,2,40,30,62,3.44
+DBMS,3,81,16,53,2.79
+DBMS,3,78,23,58,3.3
+Statistics,4,59,29,64,4.02
+AI,4,92,2,94,4.23
+OS,2,93,24,75,1.42
+Software Engineering,5,37,6,7,7.15
+Statistics,4,62,8,64,4.41
+DBMS,3,45,4,47,4.93
+Web Development,3,38,29,27,4.68
+Statistics,4,92,13,46,3.99
+Maths,4,48,10,56,4.65
+Data Structures,4,44,15,5,6.39
+Computer Networks,2,78,2,32,4.7
+OS,2,39,6,59,3.76
+OS,5,48,7,16,6.11
+OS,4,91,26,14,4.12
+Software Engineering,3,54,8,12,4.75
+AI,5,62,26,27,4.42
+Computer Networks,3,47,11,57,4.1
+Data Structures,5,70,26,64,4.1
+Web Development,1,86,13,92,1.8
+Web Development,3,73,22,36,3.68
+Maths,4,68,24,25,4.74
+Python,4,38,24,87,3.97
+AI,4,80,15,91,3.49
+Python,5,88,25,86,3.08
+Python,1,92,2,43,3.79
+Software Engineering,4,84,1,78,5.65
+Web Development,1,77,13,42,2.6
+OS,5,67,12,50,4.81
+Statistics,4,85,16,46,3.98
+Data Structures,3,48,21,40,3.97
+OS,4,45,8,54,4.84
+Computer Networks,3,40,15,18,5.3
+Python,4,66,13,31,5.04
+Statistics,3,80,1,89,4.57
+Software Engineering,3,92,6,60,3.58
+AI,4,77,13,37,4.12
+Maths,5,54,19,51,4.96
+Python,3,42,23,64,3.65
+Computer Networks,4,45,7,90,4.89
+Computer Networks,4,84,14,51,3.4
+Software Engineering,3,71,9,87,3.03
+DBMS,4,67,28,88,3.08
+Computer Networks,4,91,6,39,4.42
+Statistics,4,41,20,57,4.7
+DBMS,3,38,25,91,3.49
+Computer Networks,4,56,24,70,4.07
+Computer Networks,3,80,4,66,3.45
+AI,4,80,12,30,4.78
+AI,4,88,28,75,3.41
+AI,5,91,28,79,3.44
+Maths,5,85,11,49,4.42
+Computer Networks,4,40,9,50,5.02
+Software Engineering,3,60,11,68,3.3
+Computer Networks,2,83,9,32,3.52
+Web Development,3,94,26,33,3.3
+OS,4,67,22,93,3.33
+Maths,5,91,20,46,3.92
+Data Structures,3,67,16,6,4.52
+Computer Networks,3,44,4,45,4.83
+Software Engineering,3,94,13,82,2.26
+Data Structures,3,74,5,60,3.81
+Statistics,4,78,2,41,5.84
+Software Engineering,4,54,1,24,7.11
+Statistics,3,61,22,81,2.97
+Computer Networks,2,53,22,42,3.89
+Maths,5,74,3,50,4.9
+Software Engineering,3,53,12,65,4.02
+Computer Networks,5,83,12,19,5.19
+Web Development,2,49,23,84,2.73
+Maths,5,44,21,28,5.87
+AI,4,78,19,5,4.93
+Statistics,3,54,11,25,4.32
+Python,3,57,8,76,3.99
+Data Structures,5,82,7,92,3.47
+AI,5,65,13,26,5.35
+Software Engineering,3,93,1,71,4.52
+Maths,4,76,27,41,3.94
+AI,3,66,16,23,4.25
+Maths,3,51,8,37,4.87
+DBMS,3,65,17,15,4.55
+Python,4,36,13,58,4.87
+Computer Networks,4,95,19,77,2.8
+OS,5,76,9,40,4.82
+DBMS,3,38,7,77,4.4
+Maths,3,58,27,20,4.76
+DBMS,4,47,14,54,4.38
+Software Engineering,3,36,2,13,6.51
+Data Structures,5,88,26,43,4.22
+AI,5,49,6,90,4.53
+Python,3,93,14,65,2.26
+Python,2,48,10,11,4.45
+Web Development,4,61,20,27,4.66
+Computer Networks,5,84,17,22,5.22
+Web Development,3,68,13,95,2.82
+DBMS,2,41,22,46,4.06
+AI,3,59,2,13,6.17
+Python,3,66,1,24,6.38
+OS,4,39,24,39,5.24
+OS,3,85,2,53,4.41
+Statistics,3,40,7,6,5.95
+Software Engineering,2,82,14,73,2.36
+Web Development,4,60,7,41,4.82
+AI,3,58,6,31,5.07
+Maths,4,46,19,5,5.38
+AI,5,91,21,13,4.86
+Maths,5,87,8,62,4.26
+Python,2,82,12,53,2.55
+Maths,4,73,8,50,3.93
+Web Development,5,40,26,79,4.55
+AI,5,85,13,90,3.52
+Software Engineering,2,91,8,39,2.92
+DBMS,3,54,21,93,2.98
+Data Structures,4,90,16,25,3.79
+Data Structures,3,90,26,83,2.22
+Statistics,3,84,18,37,3.46
+AI,4,35,22,25,5.36
+Computer Networks,2,80,29,72,1.53
+Software Engineering,3,88,23,11,3.75
+Statistics,4,43,13,6,5.57
+Web Development,3,48,18,63,3.92
+Software Engineering,4,65,21,35,4.1
+AI,4,89,14,86,2.74
+Software Engineering,3,43,26,36,4.58
+OS,2,60,4,46,4.34
+AI,1,50,5,38,3.44
+AI,3,93,8,8,3.9
+Software Engineering,3,73,17,5,4.6
+OS,4,55,12,39,5.1
+Computer Networks,3,82,22,39,4.13
+Data Structures,4,75,23,48,3.72
+DBMS,3,55,29,78,3.55
+Statistics,4,85,27,65,3.12
+AI,3,44,20,93,3.63
+AI,3,58,27,46,3.94
+DBMS,4,94,21,44,3.78
+Python,2,88,12,34,2.97
+Python,4,47,19,92,3.32
+Web Development,2,73,19,30,3.67
+AI,4,38,3,54,5.55
+Statistics,5,61,11,72,4.41
+Python,2,48,4,65,3.5
+Software Engineering,2,62,2,19,5.23
+DBMS,3,45,23,32,4.8
+OS,5,55,19,57,4.51
+AI,4,74,14,48,3.94
+Python,3,48,9,24,4.54
+DBMS,3,87,29,85,2.23
+Python,4,46,24,62,4.36
+AI,3,70,17,21,3.96
+Python,3,54,6,19,4.9
+Statistics,5,87,4,59,4.32
+AI,4,42,17,24,5.45
+Computer Networks,4,72,1,21,7.04
+Data Structures,3,38,12,35,4.62
+Computer Networks,3,41,23,90,3.43
+DBMS,4,69,13,10,5.17
+Statistics,4,57,30,39,4.15
+Web Development,2,35,22,92,3.38
+Data Structures,5,94,25,81,2.83
+DBMS,3,53,29,8,4.35
+Statistics,4,64,2,76,5.28
+Maths,4,52,10,21,5.4
+Computer Networks,5,43,30,8,5.18
+DBMS,3,72,11,50,3.3
+Python,2,40,10,22,5.0
+AI,5,73,25,10,5.11
+Computer Networks,2,73,19,95,2.19
+Software Engineering,2,85,7,23,3.89
+Python,3,87,26,24,3.22
+Software Engineering,4,92,20,23,4.11
+DBMS,4,76,27,49,3.67
+AI,4,50,2,8,7.01
+AI,5,90,19,65,3.32
+AI,4,70,19,44,4.68
+Statistics,3,59,30,92,3.23
+Data Structures,3,79,21,95,2.2
+OS,3,46,20,5,4.74
+Maths,4,37,22,91,4.07
+Software Engineering,3,61,28,80,2.88
+Python,3,71,26,39,3.66
+Python,3,70,4,92,3.47
+Maths,4,70,23,86,3.38
+AI,5,60,30,51,4.66
+Data Structures,4,48,23,55,4.17
+Data Structures,3,92,15,59,3.16
+Software Engineering,2,87,4,64,3.09
+AI,4,59,12,51,4.09
+Software Engineering,3,90,16,7,4.15
+Web Development,2,50,28,47,3.89
+Web Development,4,82,24,31,4.29
+OS,3,48,15,69,3.93
+Python,3,91,12,7,3.29
+Web Development,4,86,4,13,5.31
+OS,4,57,8,18,5.8
+DBMS,4,70,22,27,4.16
+OS,4,73,10,5,5.34
+AI,5,71,4,58,5.34
+DBMS,4,63,30,26,4.67
+DBMS,2,55,27,90,2.92
+Web Development,4,70,2,79,5.4
+Statistics,3,70,30,86,2.79
+OS,5,38,10,15,6.22
+Maths,5,52,20,43,5.71
+Web Development,5,71,20,71,4.02
+Data Structures,4,35,30,26,5.01
+OS,4,57,30,55,4.15
+OS,4,84,28,28,4.39
+Statistics,4,81,10,78,3.44
+Maths,5,75,14,28,4.91
+Python,3,76,2,33,5.33
+DBMS,5,61,4,31,6.16
+Computer Networks,4,55,10,36,4.67
+Data Structures,3,56,30,82,3.51
+Maths,4,73,29,62,3.28
+Python,3,63,6,90,3.27
+AI,4,80,4,44,4.88
+Statistics,3,92,30,65,2.92
+Software Engineering,4,82,1,69,5.86
+Software Engineering,2,47,15,82,3.83
+OS,5,77,2,76,5.17
+Software Engineering,4,80,14,24,4.96
+Maths,4,69,9,49,4.52
+AI,5,77,18,13,4.88
+DBMS,5,67,9,34,4.62
+Python,3,79,20,86,2.62
+Data Structures,5,93,6,76,3.53
+AI,3,58,4,78,3.69
+Statistics,3,48,30,89,3.29
+Software Engineering,3,40,1,90,5.92
+Python,1,65,2,22,5.02
+Maths,4,79,11,70,3.1
+Computer Networks,4,67,12,51,4.34
+Python,3,76,23,22,4.56
+Computer Networks,5,90,30,37,4.14
+Maths,5,92,20,8,4.28
+Maths,3,60,1,86,5.56
+AI,4,86,26,54,3.66
+Computer Networks,4,80,26,66,3.79
+Statistics,3,77,27,8,3.93
+Software Engineering,3,89,22,53,3.19
+Data Structures,3,59,15,48,3.92
+DBMS,3,62,23,94,3.14
+Python,5,75,12,64,4.16
+Python,2,88,6,76,2.03
+Web Development,3,64,29,22,4.05
+Maths,5,84,24,62,4.07
+Python,3,64,6,63,3.69
+Python,4,45,14,33,4.75
+Software Engineering,5,61,7,35,5.25
+Statistics,4,90,19,6,4.37
+Software Engineering,5,73,26,90,3.4
+OS,4,44,13,77,4.1
+AI,2,58,18,92,2.24
+Computer Networks,4,67,1,73,6.21
+Python,3,40,7,83,4.12
+Statistics,3,84,3,58,4.29
+AI,3,63,16,76,3.92
+Computer Networks,3,93,23,55,2.31
+OS,2,51,3,82,3.96
+Data Structures,4,35,5,89,4.48
+OS,3,60,10,15,4.87
+AI,5,95,17,50,3.98
+Web Development,4,58,6,74,4.74
+AI,4,50,11,64,4.78
+Maths,4,81,12,80,3.52
+Web Development,4,86,8,76,3.78
+Data Structures,5,94,17,83,3.22
+Data Structures,3,54,11,17,4.39
+Python,3,47,16,7,5.47
+OS,4,50,11,16,5.13
+Software Engineering,3,51,18,69,4.16
+Data Structures,5,51,26,41,5.17
+Software Engineering,2,39,13,17,4.39
+Python,1,47,11,95,2.35
+AI,5,84,14,62,3.96
+Data Structures,3,46,13,36,4.35
+Web Development,3,59,18,57,3.75
+Computer Networks,4,86,6,90,3.34
+DBMS,2,39,19,36,4.47
+Computer Networks,4,64,30,32,4.5
+Computer Networks,3,88,17,9,3.63
+AI,3,66,15,16,4.22
+AI,3,64,30,54,3.22
+Computer Networks,3,48,27,61,4.1
+AI,5,91,18,42,4.36
+Statistics,4,68,16,82,3.19
+Statistics,4,47,15,86,3.79
+Maths,4,79,11,6,4.68
+Software Engineering,2,63,18,28,3.44
+Maths,2,41,12,11,5.26
+Python,2,48,23,91,2.52
+DBMS,3,61,23,64,3.21
+Maths,4,70,17,49,3.72
+Web Development,4,85,18,86,2.48
+Maths,4,92,17,66,3.26
+Maths,4,73,6,11,4.48
+Maths,4,79,22,28,4.33
+Maths,4,91,26,89,2.28
+OS,4,56,18,29,5.54
+Python,2,49,12,12,4.46
+AI,4,68,20,31,4.34
+Statistics,4,51,29,42,4.52
+OS,3,45,18,14,4.47
+Python,2,70,9,59,3.27
+AI,5,63,5,84,4.48
+Python,4,95,2,29,5.38
+AI,4,69,8,60,4.42
+Maths,4,57,19,53,4.54
+Software Engineering,3,92,14,54,3.09
+DBMS,3,52,10,30,4.89
+Computer Networks,4,81,8,70,3.6
+Web Development,4,56,24,16,5.21
+Web Development,2,83,25,57,2.26
+AI,4,60,22,5,4.6
+Computer Networks,2,64,2,39,4.68
+Statistics,4,44,29,90,3.83
+OS,4,61,29,80,4.04
+Software Engineering,4,87,30,13,4.44
+Computer Networks,4,55,29,56,4.17
+Software Engineering,2,42,2,25,5.42
+Software Engineering,3,38,22,75,3.79
+Maths,4,75,19,26,4.84
+Statistics,3,52,18,69,3.28
+Python,3,43,30,48,3.71
+Python,5,47,10,38,5.97
+AI,4,79,3,18,5.4
+Software Engineering,1,67,9,11,3.45
+AI,4,37,25,64,4.49
+Web Development,3,75,16,19,3.92
+Statistics,4,48,25,31,4.57
+Maths,5,84,16,43,4.33
+AI,4,85,3,45,4.93
+Data Structures,5,64,28,81,3.78
+Software Engineering,2,86,23,62,2.34
+Maths,4,93,16,89,3.42
+Computer Networks,5,72,24,71,3.6
+Maths,3,62,14,47,4.06
+OS,3,81,3,8,4.94
+Python,3,78,29,70,2.9
+Python,4,65,4,65,4.51
+Computer Networks,3,40,4,42,5.28
+DBMS,4,91,5,70,3.62
+AI,3,48,29,18,4.31
+Maths,5,43,4,12,7.14
+OS,5,69,14,45,5.27
+Web Development,3,86,27,9,3.53
+OS,3,46,9,30,4.69
+Web Development,4,79,18,18,4.54
+Maths,5,82,10,30,4.49
+AI,5,92,9,13,4.88
+Web Development,4,61,13,6,5.53
+Python,3,40,27,41,4.52
+Maths,5,43,15,86,4.36
+Computer Networks,5,74,16,83,3.88
+Data Structures,4,81,12,22,4.42
+Python,4,62,20,14,4.81
+Software Engineering,2,84,14,43,2.92
+Software Engineering,4,36,3,60,6.3
+Statistics,4,39,19,73,4.09
+OS,3,76,26,28,3.83
+DBMS,4,51,26,66,4.29
+Python,2,71,3,32,4.61
+Maths,5,78,9,12,5.52
+Python,3,65,11,39,3.88
+Maths,4,83,27,21,4.2
+Statistics,4,69,6,71,4.16
+OS,3,43,5,72,4.54
+Data Structures,2,77,30,44,3.13
+Maths,4,92,13,69,3.51
+Maths,4,76,12,74,3.8
+Web Development,4,91,28,16,3.92
+OS,2,46,25,7,4.01
+Python,4,50,24,63,4.12
+Software Engineering,3,42,16,34,4.32
+AI,4,77,26,32,4.08
+DBMS,3,60,6,11,5.34
+Maths,4,82,20,47,4.23
+DBMS,3,90,26,24,3.43
+Maths,5,46,22,95,4.28
+AI,3,72,19,70,3.53
+Web Development,3,78,13,81,3.08
+Computer Networks,4,89,28,17,4.42
+DBMS,4,91,15,47,3.3
+Web Development,4,47,10,27,5.0
+AI,4,70,12,48,3.51
+DBMS,2,36,21,43,3.91
+Computer Networks,2,78,27,14,3.51
+Software Engineering,2,48,28,95,2.74
+AI,5,53,27,33,5.76
+AI,5,65,19,17,5.13
+Web Development,3,80,19,22,4.14
+Software Engineering,3,64,27,84,2.94
+DBMS,2,35,22,12,4.75
+Computer Networks,4,42,5,31,5.64
+Computer Networks,4,43,6,84,4.09
+AI,3,93,19,34,3.1
+OS,4,47,17,77,4.95
+AI,4,87,11,47,3.69
+AI,5,62,10,31,5.84
+Maths,5,57,2,42,6.75
+Computer Networks,5,75,23,46,3.91
+Data Structures,3,61,28,80,3.24
+AI,2,41,25,90,2.62
+Statistics,4,76,9,65,3.59
+Web Development,2,64,11,10,4.46
+AI,4,93,27,66,3.06
+Statistics,3,73,22,91,2.37
+Statistics,3,74,3,12,5.0
+Maths,4,63,23,56,4.36
+Python,4,54,6,58,4.56
+Python,3,73,13,5,4.35
+Computer Networks,4,60,1,52,7.25
+Web Development,2,83,4,51,3.54
+Web Development,2,58,1,80,5.06
+OS,4,43,23,93,3.73
+OS,3,54,6,7,4.88
+Data Structures,3,88,9,9,4.21
+Maths,5,91,22,11,4.62
+AI,4,85,24,5,4.54
+Python,3,62,9,31,3.97
+OS,5,47,25,38,5.37
+Web Development,2,80,23,93,1.16
+Maths,5,64,15,33,4.79
+Statistics,4,61,25,31,4.89
+Computer Networks,4,70,3,10,5.69
+Web Development,3,65,21,44,3.99
+Computer Networks,4,74,25,50,3.5
+Statistics,5,52,21,75,3.92
+Computer Networks,2,62,4,88,3.0
+Statistics,5,43,25,56,4.87
+Software Engineering,2,51,30,36,3.64
+Web Development,3,53,26,76,3.2
+Statistics,4,93,8,46,3.94
+AI,4,54,9,51,4.68
+DBMS,3,53,26,86,2.72
+Web Development,3,91,8,85,3.02
+Computer Networks,3,51,2,6,6.87
+AI,5,81,22,83,3.67
+OS,2,65,19,34,3.19
+Computer Networks,3,64,24,8,4.41
+OS,5,73,27,87,3.41
+Software Engineering,3,69,25,59,3.08
+Software Engineering,2,81,27,91,2.11
+Maths,4,95,24,74,2.77
+Data Structures,3,79,21,23,3.84
+Python,4,44,2,40,6.66
+Python,3,58,20,14,4.44
+Computer Networks,3,65,30,28,4.1
+DBMS,4,47,27,74,4.39
+Python,3,71,27,51,3.4
+Web Development,2,43,1,26,6.94
+Maths,4,43,24,74,4.4
+Software Engineering,2,68,2,75,4.75
+AI,3,49,3,94,4.1
+Computer Networks,4,38,1,13,8.0
+Computer Networks,3,55,29,71,2.84
+Web Development,2,87,29,24,2.99
+Computer Networks,4,49,15,82,4.28
+DBMS,2,86,27,89,1.88
+OS,3,64,30,48,3.75
+OS,3,90,4,20,4.62
+Maths,5,43,5,68,5.64
+Python,3,78,12,73,3.43
+OS,4,92,9,7,4.32
+Web Development,3,63,13,12,4.72
+DBMS,2,36,16,22,4.63
+AI,4,69,20,84,3.14
+Python,4,73,5,40,4.99
+Maths,5,47,15,66,4.52
+Statistics,4,86,11,79,2.83
+Statistics,4,53,25,24,4.13
+Data Structures,5,68,1,86,6.17
+DBMS,4,55,30,81,3.75
+Software Engineering,5,51,13,83,4.7
+Web Development,5,66,8,13,5.34
+Computer Networks,5,36,16,81,5.31
+Python,2,84,11,20,3.01
+Computer Networks,3,78,8,65,4.22
+Software Engineering,3,92,8,66,2.92
+DBMS,4,51,8,74,3.8
+AI,2,81,23,45,3.08
+OS,4,79,8,86,3.06
+Web Development,5,81,12,11,5.85
+Python,4,42,15,51,4.67
+Statistics,4,89,27,62,2.93
+Python,3,83,25,21,3.12
+Web Development,3,56,14,31,4.5
+Computer Networks,4,61,27,93,3.28
+OS,3,67,11,33,3.38
+Web Development,3,63,14,74,3.44
+Statistics,4,91,21,27,3.05
+Software Engineering,5,72,9,28,4.99
+Software Engineering,3,87,28,47,2.98
+Data Structures,4,84,3,12,5.66
+Computer Networks,5,58,4,36,6.06
+Computer Networks,5,64,25,10,5.73
+Maths,5,84,22,63,4.06
+Software Engineering,2,87,8,43,3.72
+Web Development,5,54,27,46,4.8
+Python,4,85,1,56,5.93
+Statistics,3,62,6,31,4.76
+Data Structures,4,56,28,40,4.58
+Computer Networks,2,95,20,86,2.01
+OS,3,41,6,54,4.86
+OS,4,91,17,20,4.25
+Statistics,4,78,10,34,4.36
+Statistics,3,95,4,28,3.97
+Python,3,62,4,39,4.84
+AI,4,72,11,86,3.93
+Maths,5,36,2,91,5.99
+OS,4,47,29,83,4.18
+Computer Networks,4,53,12,59,4.75
+Statistics,5,60,15,11,5.1
+DBMS,4,92,23,31,3.78
+Computer Networks,3,87,29,36,2.92
+Data Structures,2,81,1,73,5.3
+AI,4,48,28,35,5.19
+Software Engineering,1,88,9,50,3.0
+Data Structures,5,45,22,82,4.73
+Maths,5,45,21,51,5.39
+Statistics,5,76,8,12,5.75
+AI,5,37,16,48,5.17
+Statistics,5,50,17,11,5.76
+DBMS,3,79,14,61,3.26
+OS,3,36,27,54,4.08
+Python,1,90,19,37,1.6
+Maths,4,41,29,52,4.68
+OS,4,42,7,23,5.95
+Maths,5,93,16,36,4.34
+DBMS,3,48,13,91,4.12
+Maths,5,57,16,21,5.73
+DBMS,4,75,8,66,4.18
+DBMS,2,55,23,16,4.37
+Maths,3,56,24,65,4.02
+OS,5,71,9,7,5.38
+Statistics,4,77,9,73,3.81
+Web Development,2,72,21,53,2.75
+Computer Networks,5,68,26,48,4.11
+Data Structures,4,95,29,52,3.3
+Computer Networks,5,63,16,61,4.79
+Maths,4,54,15,20,5.74
+Web Development,4,89,23,33,3.93
+Software Engineering,3,71,3,71,4.26
+Data Structures,4,35,21,36,5.29
+Python,2,53,27,16,4.12
+Statistics,5,48,18,35,5.1
+DBMS,4,95,10,68,3.52
+Computer Networks,3,62,6,94,3.42
+Computer Networks,3,69,6,33,4.45
+Python,2,90,8,76,2.15
+AI,4,53,17,80,4.47
+DBMS,2,40,2,86,4.59
+AI,5,95,11,61,3.95
+Python,2,76,20,6,3.47
+Web Development,2,77,13,77,2.06
+Data Structures,2,95,20,77,1.76
+OS,4,74,30,54,4.29
+Computer Networks,3,35,25,64,3.28
+Computer Networks,4,68,6,45,4.67
+Data Structures,4,41,22,16,5.26
+Python,3,85,5,61,3.29
+Computer Networks,3,93,23,35,3.15
+Statistics,4,93,5,27,4.66
+OS,3,91,22,20,3.6
+AI,3,74,12,6,4.7
+Software Engineering,3,74,23,46,3.6
+Statistics,5,95,16,84,3.65
+Statistics,5,75,11,49,4.22
+Computer Networks,3,93,18,90,2.86
+Data Structures,3,78,30,27,3.89
+Statistics,4,45,3,38,5.6
+Data Structures,5,80,18,12,5.47
+DBMS,4,81,16,64,3.82
+Python,2,85,5,91,2.29
+Maths,5,90,25,34,4.18
+DBMS,2,93,27,78,1.36
+DBMS,3,42,25,82,3.53
+DBMS,3,68,29,17,4.28
+Statistics,3,46,2,90,4.64
+Software Engineering,1,63,13,73,2.19
+Maths,4,45,25,53,4.08
+Maths,4,49,22,84,3.62
+Maths,3,67,19,81,2.28
+Maths,3,85,7,53,3.71
+Data Structures,3,39,2,73,5.31
+Computer Networks,4,84,26,88,2.75
+Software Engineering,2,46,23,34,3.88
+Software Engineering,3,36,7,54,4.56
+Data Structures,4,51,9,89,4.06
+Maths,5,50,17,24,5.57
+AI,2,80,22,28,2.81
+Maths,3,92,2,44,4.52
+OS,4,48,18,94,4.1
+Maths,5,85,5,13,5.74
+Computer Networks,3,91,12,16,3.61
+Computer Networks,2,78,10,62,3.22
+Python,3,41,25,25,3.93
+Data Structures,5,85,8,93,3.49
+Maths,4,73,17,29,4.53
+Maths,4,45,2,94,5.59
+OS,3,64,28,9,4.78
+Python,4,52,10,14,5.24
+Python,5,43,30,43,5.18
+Statistics,5,95,10,19,5.09
+AI,5,55,17,92,3.93
+Python,3,56,2,70,4.63
+Computer Networks,4,77,20,23,4.9
+AI,4,47,7,13,5.39
+Software Engineering,3,70,17,6,4.42
+Python,1,36,13,92,2.45
+DBMS,1,50,3,17,4.71
+Statistics,4,78,30,56,3.05
+Web Development,3,65,25,89,3.16
+OS,3,35,12,82,3.95
+OS,4,43,11,29,4.99
+AI,4,69,10,55,4.23
+Maths,3,44,7,75,4.12
+AI,3,64,21,79,2.92
+Data Structures,5,54,14,29,5.18
+Maths,3,91,23,5,3.83
+DBMS,4,50,3,35,5.36
+OS,4,39,6,76,4.54
+OS,3,55,10,54,4.03
+Software Engineering,2,79,20,24,3.39
+Software Engineering,3,80,20,49,3.24
+Web Development,3,44,6,52,4.94
+Python,2,36,1,31,7.1
+Computer Networks,3,88,17,39,3.25
+Statistics,4,74,14,71,3.66
+OS,5,63,6,26,5.65
+Maths,5,41,21,77,4.31
+Maths,2,39,2,24,5.78
+Maths,5,95,5,42,4.26
+DBMS,3,58,15,54,3.91
+Data Structures,3,40,25,31,5.07
+Maths,4,48,11,51,4.91
+Software Engineering,4,70,14,31,4.45
+Computer Networks,4,92,20,72,2.61
+Web Development,3,81,13,31,3.98
+OS,3,81,4,31,3.92
+Maths,4,39,28,26,5.33
+Computer Networks,3,36,11,28,4.95
+DBMS,3,55,20,33,3.98
+DBMS,2,63,24,90,2.33
+OS,3,68,2,51,5.1
+Python,3,81,6,67,3.35
+Python,1,86,4,6,3.59
+Statistics,3,40,8,85,3.96
+DBMS,5,61,1,24,7.27
+Statistics,4,92,4,18,5.2
+DBMS,5,49,4,61,5.51
+Software Engineering,4,71,7,86,3.63
+Web Development,4,78,13,6,4.26
+Software Engineering,3,95,10,78,2.65
+OS,3,36,30,49,4.19
+Computer Networks,4,64,26,7,5.46
+Statistics,5,78,13,77,3.88
+OS,4,62,17,60,4.03
+Data Structures,4,44,10,34,5.07
+Software Engineering,3,91,17,65,2.47
+AI,5,64,17,66,4.44
+Computer Networks,2,61,15,27,3.69
+Web Development,5,58,11,39,4.94
+AI,4,60,2,86,5.4
+DBMS,3,54,16,67,3.48
+Statistics,3,55,17,47,4.81
+Python,3,70,11,77,3.54
+Python,3,40,17,45,4.41
+Python,3,64,30,10,4.75
+Maths,4,74,12,84,3.12
+AI,3,87,10,33,3.57
+OS,3,91,24,27,3.15
+Statistics,3,75,30,85,2.45
+Web Development,2,73,10,49,3.45
+Maths,5,61,13,10,5.43
+AI,4,37,12,87,4.18
+Computer Networks,2,39,10,50,4.15
+Computer Networks,2,59,30,95,1.33
+Maths,5,36,13,80,4.76
+Data Structures,4,73,11,66,3.8
+Data Structures,5,41,28,13,6.23
+OS,3,86,4,52,4.09
+Software Engineering,1,86,17,74,1.44
+Software Engineering,1,45,25,55,3.47
+DBMS,4,51,9,50,5.1
+DBMS,2,69,29,78,2.37
+Python,4,68,30,90,2.8
+Data Structures,4,75,10,13,4.53
+Data Structures,4,66,28,22,4.77
+Python,3,64,21,24,3.63
+DBMS,4,58,15,18,5.45
+Python,3,49,29,82,2.86
+Data Structures,4,69,15,28,4.44
+Software Engineering,1,77,28,48,2.08
+Statistics,3,85,27,9,3.74
+OS,4,66,16,70,3.51
+Software Engineering,3,73,10,50,3.33
+AI,4,85,22,27,4.34
+Data Structures,3,75,29,6,3.77
+OS,4,68,13,85,3.94
+Maths,4,93,4,20,4.6
+OS,3,62,18,70,3.29
+DBMS,5,70,14,72,4.5
+Python,2,54,24,5,4.67
+Software Engineering,2,53,29,11,4.54
+AI,5,83,2,48,5.72
+Web Development,2,35,22,35,4.57
+Python,2,59,23,29,3.52
+Web Development,3,51,30,68,3.01
+Data Structures,5,80,29,7,5.05
+Python,2,69,15,61,2.46
+Maths,2,92,15,42,2.92
+AI,5,88,12,33,4.64
+Computer Networks,4,47,13,42,4.77
+Data Structures,5,40,6,50,5.29
+Python,3,61,18,83,3.22
+Data Structures,5,44,27,68,4.65
+AI,4,82,23,77,2.31
+AI,2,59,29,78,2.37
+Software Engineering,3,35,27,5,5.37
+OS,5,53,8,10,6.28
+OS,5,60,5,60,4.8
+Computer Networks,5,56,30,13,6.1
+Computer Networks,4,95,23,26,3.27
+DBMS,2,61,14,29,3.51
+Data Structures,5,53,11,32,5.11
+Maths,3,76,6,36,4.5
+Python,3,64,21,19,4.15
+Maths,4,47,9,80,4.11
+Computer Networks,4,48,22,26,4.87
+Web Development,4,79,28,64,3.36
+OS,5,48,29,85,3.98
+OS,5,67,11,75,3.95
+Python,3,36,8,35,4.44
+Computer Networks,3,38,9,15,5.0
+Maths,3,84,25,55,3.34
+OS,4,89,7,65,4.11
+Computer Networks,2,62,28,52,3.19
+Python,1,58,16,39,2.39
+Data Structures,4,74,12,85,3.32
+DBMS,4,80,20,45,3.38
+Web Development,3,58,27,82,3.06
+Python,3,75,2,22,5.47
+AI,4,63,11,39,4.98
+Statistics,5,51,15,29,5.14
+OS,4,46,9,95,4.07
+Web Development,3,77,25,56,3.46
+Data Structures,3,36,16,63,4.21
+Computer Networks,5,39,29,20,5.88
+OS,3,53,25,15,3.91
+Software Engineering,1,48,8,26,3.84
+Statistics,4,61,14,75,4.3
+AI,3,90,27,26,3.04
+Statistics,5,58,11,64,4.47
+Web Development,3,41,2,66,5.33
+DBMS,2,84,14,36,3.1
+Web Development,2,78,7,6,3.89
+DBMS,2,39,20,81,3.33
+Computer Networks,4,87,7,68,3.48
+Maths,5,79,5,17,5.42
+Statistics,4,62,19,10,5.01
+OS,4,36,24,23,5.33
+AI,3,38,18,33,4.68
+Statistics,4,60,2,12,6.66
+AI,3,87,4,90,3.8
+Statistics,3,86,24,69,2.61
+Statistics,3,79,9,58,3.15
+DBMS,5,82,24,66,4.34
+Python,4,68,17,11,4.51
+DBMS,5,93,18,95,3.39
+Statistics,5,45,16,48,5.36
+Maths,4,49,20,68,4.63
+Python,5,80,29,53,4.4
+Software Engineering,4,77,27,19,4.61
+Python,3,81,15,44,3.55
+Software Engineering,4,41,4,10,6.13
+Software Engineering,4,49,10,31,4.52
+Python,4,35,16,28,5.2
+Python,1,40,29,41,3.19
+OS,3,48,28,14,5.05
+DBMS,2,83,30,38,2.56
+Computer Networks,4,72,17,74,3.59
+Python,3,89,30,26,2.94
+Web Development,2,39,28,50,3.87
+Maths,4,65,9,18,5.23
+Python,3,53,16,24,4.33
+Statistics,4,43,15,19,5.59
+Statistics,4,39,26,45,4.51
+Software Engineering,2,74,29,51,2.82
+Computer Networks,2,51,21,64,3.0
+DBMS,4,63,23,54,4.05
+Data Structures,3,60,27,88,2.79
+OS,5,66,8,82,4.09
+Maths,4,53,18,17,5.4
+Software Engineering,4,59,6,45,5.05
+Data Structures,5,65,13,10,5.83
+AI,3,38,16,12,5.0
+AI,3,93,29,80,2.22
+AI,2,58,2,15,5.22
+Data Structures,3,41,21,45,4.08
+DBMS,2,53,28,49,3.64
+OS,5,70,11,85,3.76
+Statistics,4,82,4,6,4.92
+Maths,3,44,15,38,4.22
+Python,3,91,26,20,3.29
+OS,3,51,6,26,4.64
+DBMS,4,57,11,14,5.17
+Web Development,3,55,20,9,4.75
+Maths,4,78,27,35,3.78
+Web Development,4,75,22,50,3.93
+DBMS,2,50,13,63,3.46
+Computer Networks,4,86,15,74,3.76
+Data Structures,5,42,7,16,6.11
+Web Development,3,65,14,38,4.09
+Maths,4,37,6,57,5.29
+Computer Networks,3,62,30,89,2.85
+Computer Networks,4,66,23,11,5.33
+Web Development,3,79,2,72,4.27
+Statistics,4,87,1,81,5.55
+Statistics,2,72,16,54,2.92
+Computer Networks,5,53,11,42,5.66
+Computer Networks,4,68,15,90,3.38
+Maths,4,83,9,12,4.25
+AI,4,68,23,7,5.06
+DBMS,2,77,14,17,3.59
+Software Engineering,3,40,16,21,4.87
+Maths,4,72,13,74,3.29
+AI,4,46,24,69,4.51
+Python,2,71,6,39,3.9
+AI,4,90,3,70,3.75
+Maths,5,49,14,22,5.9
+Maths,4,84,24,77,3.31
+AI,4,88,24,73,3.29
+AI,4,39,30,21,5.14
+Web Development,4,72,2,29,5.73
+Computer Networks,4,73,23,55,4.14
+Data Structures,4,95,9,66,3.23
+Computer Networks,5,72,22,42,4.63
+Web Development,3,74,23,69,2.23
+Statistics,3,74,8,45,3.69
+OS,5,44,21,45,5.31
+Software Engineering,2,45,12,85,3.16
+Maths,4,74,22,69,3.09
+Python,2,35,5,22,5.44
+Computer Networks,3,45,26,53,3.95
+Computer Networks,4,49,19,86,3.52
+Python,1,61,4,83,2.98
+Data Structures,4,84,16,70,3.57
+Maths,3,61,14,85,2.97
+Web Development,4,85,23,45,3.26
+Software Engineering,3,45,22,17,4.87
+Data Structures,5,36,17,50,5.54
+Statistics,4,86,17,73,3.34
+OS,2,63,10,16,4.31
+Web Development,3,43,15,69,4.32
+Python,5,79,2,68,5.05
+Software Engineering,3,80,15,45,3.54
+Statistics,5,78,19,80,4.08
+Data Structures,3,66,29,19,4.66
+Software Engineering,2,82,19,21,3.15
+Maths,5,78,23,77,3.29
+OS,5,67,10,95,4.01
+Software Engineering,4,64,2,31,5.93
+Computer Networks,3,81,17,29,3.85
+Web Development,1,44,4,61,4.24
+Web Development,2,58,3,49,4.31
+DBMS,3,72,16,95,2.46
+Maths,4,87,16,22,3.79
+Statistics,4,71,5,45,4.6
+Data Structures,2,51,13,57,3.75
+Statistics,2,58,16,24,3.56
+AI,4,38,27,49,4.81
+OS,4,49,3,86,4.99
+Computer Networks,3,53,27,9,4.42
+Python,4,49,24,51,4.95
+Software Engineering,2,46,10,90,2.61
+Python,4,39,22,58,4.65
+Web Development,3,75,10,38,3.89
+Data Structures,4,59,9,80,4.12
+Software Engineering,2,78,2,27,5.22
+Maths,3,89,24,69,3.54
+Web Development,2,82,12,21,3.77
+DBMS,3,72,29,94,2.42
+OS,3,60,30,23,3.99
+Statistics,3,38,28,17,5.3
+AI,4,35,10,82,4.77
+Computer Networks,5,67,5,20,5.46
+Maths,5,58,6,67,4.39
+Statistics,4,95,7,84,3.07
+Python,2,93,18,85,1.3
+Computer Networks,3,72,20,70,3.7
+Statistics,4,91,19,82,3.79
+OS,3,52,16,61,3.96
+Computer Networks,4,74,19,92,3.3
+Software Engineering,3,43,4,80,4.57
+Computer Networks,4,55,29,54,4.5
+Maths,5,75,30,18,4.44
+Python,3,47,20,28,4.88
+Statistics,4,42,26,79,4.33
+AI,4,85,3,31,5.0
+OS,4,42,17,73,4.62
+OS,3,56,27,31,4.26
+Python,3,53,30,24,4.38
+DBMS,2,75,26,19,3.52
+Computer Networks,5,52,28,24,5.44
+DBMS,4,68,1,43,6.4
+OS,3,93,6,17,4.02
+Python,4,65,14,31,4.61
+Python,3,75,30,40,3.17
+DBMS,4,58,8,23,4.91
+OS,4,57,9,31,5.26
+Computer Networks,3,50,7,56,4.45
+AI,5,92,14,72,3.56
+Software Engineering,2,78,21,60,2.42
+Data Structures,3,86,24,53,3.98
+Web Development,4,74,23,68,3.75
+Data Structures,4,94,2,57,5.46
+Statistics,4,53,3,67,5.2
+OS,4,80,29,68,3.32
+AI,5,90,24,11,4.83
+OS,2,41,25,46,3.66
+Web Development,4,71,3,49,5.22
+AI,4,68,30,39,4.07
+Data Structures,3,88,21,86,2.1
+OS,4,59,28,75,3.55
+Web Development,4,51,10,11,5.4
+Web Development,3,81,9,23,3.91
+DBMS,4,78,28,55,3.61
+Python,2,35,13,44,4.52
+Python,2,58,25,50,3.5
+DBMS,2,79,14,34,3.54
+AI,4,86,23,17,4.08
+DBMS,4,89,1,34,6.64
+Maths,3,43,16,5,5.76
+Python,3,90,21,10,3.87
+Python,4,67,13,36,4.95
+Python,5,55,1,26,7.92
+Software Engineering,3,72,7,72,3.07
+Python,4,48,9,31,5.44
+DBMS,2,88,21,8,3.42
+Data Structures,5,83,14,11,5.09
+Statistics,5,51,16,93,4.18
+OS,4,82,6,7,4.88
+AI,5,54,1,78,6.78
+OS,2,63,24,85,2.43
+Computer Networks,4,89,19,85,3.41
+OS,4,80,18,95,2.32
+Data Structures,4,87,12,43,3.67
+Computer Networks,4,78,18,94,3.13
+AI,5,53,21,89,4.42
+AI,3,38,19,63,4.41
+Computer Networks,4,86,23,46,3.7
+Web Development,2,89,15,22,3.22
+OS,5,61,4,69,4.65
+Software Engineering,3,55,19,67,3.27
+Web Development,4,40,10,81,4.79
+OS,5,36,19,34,5.76
+DBMS,5,85,5,38,5.16
+AI,2,78,7,37,3.66
+Maths,3,92,29,23,3.81
+Web Development,3,87,5,44,3.89
+Computer Networks,4,49,17,53,4.28
+Computer Networks,4,79,14,48,4.03
+OS,4,62,10,65,4.0
+Web Development,4,95,28,5,3.92
+AI,3,43,24,34,4.73
+DBMS,4,80,30,62,3.17
+Python,2,60,11,22,3.77
+Data Structures,5,59,29,91,3.99
+Computer Networks,4,92,5,91,3.64
+OS,3,66,30,58,3.7
+DBMS,3,62,16,56,3.35
+AI,5,38,6,61,5.72
+Software Engineering,3,48,13,15,5.04
+Computer Networks,4,85,6,71,3.71
+Maths,4,58,5,32,5.18
+Data Structures,4,60,14,77,3.35
+Statistics,2,50,16,76,3.66
+Software Engineering,3,61,24,59,3.14
+Computer Networks,4,59,3,37,6.4
+OS,5,74,3,78,4.47
+DBMS,5,40,13,44,5.32
+Python,3,57,22,63,4.24
+Maths,5,75,22,39,4.26
+Maths,5,71,11,23,5.45
+Computer Networks,3,43,27,61,3.82
+Python,4,88,5,59,4.08
+Data Structures,2,53,10,49,3.64
+Python,3,52,28,36,4.07
+AI,4,90,1,37,5.98
+AI,4,71,21,38,4.0
+OS,3,84,28,42,3.36
+Statistics,3,49,27,21,4.58
+Software Engineering,2,60,19,52,3.21
+Software Engineering,3,72,5,95,3.31
+Statistics,3,68,5,36,4.34
+Software Engineering,1,91,13,60,1.83
+Software Engineering,5,83,15,14,4.8
+Python,3,59,25,26,4.53
+DBMS,3,52,18,17,4.75
+OS,3,36,10,8,5.03
+Maths,4,83,3,44,4.97
+Web Development,3,48,30,80,3.68
+Data Structures,3,50,24,62,3.64
+Statistics,3,67,24,37,3.74
+Maths,5,40,21,18,5.44
+Web Development,5,56,20,46,5.08
+DBMS,4,77,4,66,4.6
+AI,4,67,22,37,4.72
+Computer Networks,2,47,16,76,3.01
+Software Engineering,3,74,28,8,4.05
+Software Engineering,2,57,8,25,3.62
+Python,4,43,14,36,4.74
+Python,3,88,6,54,3.85
+AI,3,50,2,62,5.91
+AI,5,42,2,41,6.76
+Maths,4,68,23,89,3.15
+Statistics,3,82,9,52,3.67
+Statistics,4,43,14,35,5.09
+Statistics,5,74,22,44,4.18
+Python,3,79,24,87,3.13
+Data Structures,4,80,7,22,4.97
+Web Development,1,66,29,57,2.67
+Computer Networks,5,65,1,26,7.9
+Python,2,74,20,44,3.65
+OS,4,39,18,75,4.1
+AI,4,44,17,38,5.09
+Maths,4,82,6,26,5.01
+Computer Networks,4,92,4,6,5.12
+DBMS,2,47,1,59,5.85
+Maths,4,94,30,31,3.94
+Web Development,2,48,8,13,4.45
+DBMS,2,74,15,18,3.58
+Computer Networks,3,61,4,70,3.63
+Computer Networks,5,57,22,93,4.32
+Computer Networks,4,87,17,32,3.88
+Computer Networks,3,78,3,79,3.68
+Software Engineering,4,53,4,42,5.49
+Maths,5,55,22,22,5.08
+Data Structures,3,78,22,68,2.89
+AI,3,75,15,78,3.24
+OS,5,81,15,63,4.19
+Software Engineering,2,60,20,87,2.78
+Software Engineering,3,60,21,89,3.37
+Computer Networks,3,74,9,66,3.12
+Statistics,4,48,22,66,4.44
+DBMS,4,90,5,13,5.05
+DBMS,2,66,20,45,3.74
+Web Development,4,50,19,83,3.17
+Computer Networks,3,70,21,23,4.06
+OS,4,67,29,30,4.33
+Python,2,57,28,90,2.32
+Web Development,3,54,10,11,4.84
+Web Development,3,66,26,84,3.0
+Software Engineering,2,90,26,33,2.95
+AI,5,35,25,43,5.17
+DBMS,3,92,6,93,3.01
+OS,4,95,16,79,3.74
+Python,3,54,19,35,4.26
+DBMS,3,66,5,51,4.63
+Web Development,3,79,29,53,2.92
+Python,4,59,8,90,3.66
+Statistics,2,49,23,62,3.33
+Statistics,3,86,15,94,2.89
+Computer Networks,5,65,28,72,4.09
+Software Engineering,2,51,16,31,3.92
+Computer Networks,5,75,18,82,3.57
+DBMS,5,45,26,6,5.68
+Statistics,5,79,30,82,3.6
+Computer Networks,5,58,15,17,5.98
+DBMS,3,92,19,58,3.04
+Data Structures,4,52,9,63,4.53
+Computer Networks,5,65,21,9,5.35
+OS,2,79,14,95,2.28
+Web Development,4,61,15,88,2.99
+Software Engineering,2,58,11,36,3.73
+OS,5,74,27,72,3.93
+Python,4,76,24,46,4.51
+Data Structures,5,61,3,58,5.51
+Computer Networks,5,77,14,7,5.62
+Python,2,91,10,36,3.2
+Data Structures,5,62,20,75,3.65
+AI,4,84,1,38,6.31
+Python,4,52,29,60,4.29
+OS,5,63,21,51,4.08
+Maths,4,83,5,37,4.6
+AI,3,71,26,16,4.11
+Web Development,3,43,5,62,4.08
+Web Development,3,45,19,61,4.2
+Web Development,3,35,23,92,3.24
+Software Engineering,3,72,6,33,4.97
+Statistics,4,35,16,50,4.45
+DBMS,3,91,29,9,3.86
+Web Development,4,94,1,8,6.77
+Software Engineering,2,82,17,24,3.08
+Data Structures,5,41,11,13,6.25
+Maths,5,69,16,20,4.55
+OS,3,89,16,60,3.25
+AI,5,92,19,9,4.68
+Software Engineering,1,53,6,64,2.86
+OS,4,73,24,13,4.57
+AI,4,55,1,36,6.83
+Python,3,83,16,88,2.27
+Computer Networks,4,67,6,75,3.9
+Software Engineering,2,91,4,35,3.03
+DBMS,2,65,29,11,3.94
+Data Structures,3,47,29,72,4.16
+Python,3,64,27,83,2.96
+AI,2,81,5,45,2.87
+Computer Networks,3,38,15,49,4.59
+Maths,5,71,15,8,5.45
+Maths,4,72,29,87,3.28
+Web Development,2,89,11,91,2.66
+Web Development,4,61,30,8,5.0
+Python,2,88,18,9,3.52
+Computer Networks,3,77,6,61,3.81
+Computer Networks,3,89,5,17,4.89
+Statistics,5,58,11,24,5.42
+DBMS,4,35,24,43,5.06
+AI,4,36,16,8,6.18
+Data Structures,5,45,22,15,5.48
+OS,4,82,24,67,2.8
+OS,4,81,4,19,5.64
+Computer Networks,3,91,1,63,5.63
+AI,4,40,3,67,5.49
+Python,2,87,24,62,2.3
+OS,4,85,4,65,3.92
+Software Engineering,1,87,14,31,2.36
+Data Structures,4,36,20,40,4.7
+Statistics,5,86,13,94,3.45
+Data Structures,4,64,26,54,4.72
+AI,4,87,22,57,2.72
+OS,4,84,19,72,3.19
+Python,3,87,2,16,5.46
+Python,1,88,29,25,2.57
+AI,5,49,24,33,5.61
+OS,4,59,22,17,4.99
+Maths,3,90,2,33,4.73
+Python,3,95,11,22,3.35
+OS,5,63,2,51,5.85
+Web Development,2,71,14,63,3.05
+Computer Networks,4,61,13,32,4.82
+Computer Networks,4,91,25,43,3.62
+Computer Networks,3,61,20,66,3.22
+Python,3,57,25,72,3.0
+OS,3,54,25,9,4.69
+DBMS,5,59,23,9,5.25
+OS,3,89,11,30,3.59
+Maths,3,53,19,53,4.09
+Python,3,93,6,53,4.25
+Web Development,1,77,21,26,2.81
+Statistics,4,64,27,47,3.88
+Maths,4,40,6,36,6.36
+OS,5,77,1,95,5.4
+Computer Networks,4,60,4,30,5.18
+Statistics,5,56,27,85,4.59
+DBMS,3,86,9,50,3.73
+Python,2,56,27,87,2.02
+DBMS,2,52,4,43,4.27
+OS,4,66,22,25,4.68
+Software Engineering,2,60,21,75,2.22
+Python,2,67,20,40,3.16
+Computer Networks,5,59,16,18,5.6
+Python,4,39,19,16,5.22
+DBMS,3,42,19,21,4.53
+Data Structures,4,83,22,17,3.87
+Statistics,4,49,14,75,4.17
+Software Engineering,2,44,19,57,3.86
+Software Engineering,2,94,13,18,2.84
+DBMS,4,41,18,42,5.23
+Data Structures,4,57,13,91,3.98
+AI,3,69,22,66,3.23
+OS,5,45,30,42,4.61
+Data Structures,5,85,15,58,4.41
+Maths,3,45,16,11,4.75
+Statistics,3,83,28,26,3.49
+OS,2,73,17,54,3.11
+Computer Networks,5,53,17,71,4.3
+Computer Networks,2,60,1,5,6.65
+OS,4,49,30,52,4.83
+Maths,5,37,21,25,6.01
+AI,5,35,26,77,4.93
+Web Development,2,75,18,32,3.36
+Maths,3,78,18,78,2.95
+Statistics,3,73,3,31,5.06
+Python,1,91,15,53,1.97
+Web Development,2,91,27,58,2.29
+DBMS,4,77,5,87,3.97
+AI,5,55,9,62,4.75
+Statistics,2,35,20,76,3.21
+Maths,3,76,22,14,3.97
+AI,3,69,27,66,2.64
+DBMS,5,37,18,20,5.87
+Software Engineering,2,59,1,59,5.52
+Data Structures,4,68,30,27,4.87
+Computer Networks,5,56,27,49,4.73
+Maths,5,86,26,30,4.39
+Software Engineering,3,47,22,7,4.98
+OS,5,42,27,13,5.98
+AI,2,59,30,49,3.12
+AI,4,94,6,82,4.11
+Web Development,3,36,10,68,3.97
+Computer Networks,3,65,23,58,3.6
+DBMS,4,50,13,37,5.06
+Computer Networks,5,42,28,50,5.25
+Web Development,2,69,2,80,3.73
+Data Structures,3,68,30,22,4.09
+Computer Networks,1,61,6,95,2.31
+DBMS,5,49,24,18,4.99
+Software Engineering,2,54,23,86,2.83
+Web Development,3,77,6,34,4.66
+DBMS,4,77,13,44,3.8
+Statistics,5,49,16,47,5.55
+Statistics,2,70,17,65,2.09
+Statistics,3,93,2,55,4.39
+OS,3,38,29,72,3.56
+Statistics,3,82,18,22,3.65
+Data Structures,3,81,29,32,3.59
+Software Engineering,2,87,2,80,3.93
+Software Engineering,3,54,12,13,5.01
+Web Development,3,68,13,41,3.78
+AI,3,58,8,24,4.34
+DBMS,3,90,19,83,2.22
+Web Development,2,39,23,20,4.16
+Statistics,4,43,24,65,4.44
+DBMS,4,45,19,83,3.95
+Maths,5,48,2,87,5.91
+DBMS,3,40,20,7,5.32
+OS,3,51,3,92,4.35
+Computer Networks,4,61,15,61,3.89
+Statistics,3,77,4,14,4.88
+Maths,4,69,1,68,5.93
+Statistics,3,48,5,95,4.28
+Python,2,69,27,81,2.58
+OS,4,59,1,48,6.43
+Web Development,4,91,11,43,3.27
+Statistics,4,73,13,73,3.41
+Maths,3,58,7,84,3.41
+DBMS,5,40,12,78,5.05
+OS,2,68,1,85,5.62
+Maths,4,54,2,74,5.37
+Maths,4,86,1,53,5.87
+AI,4,70,24,56,3.7
+Maths,4,76,8,60,3.87
+Computer Networks,3,76,23,91,2.07
+Software Engineering,2,75,4,83,2.99
+AI,5,43,17,31,5.58
+AI,5,51,19,82,4.43
+Data Structures,4,77,3,55,5.5
+Web Development,2,51,16,12,4.46
+Python,3,64,28,5,4.55
+Web Development,4,51,23,50,4.64
+OS,4,83,9,33,4.28
+DBMS,3,43,13,95,3.4
+Web Development,3,73,15,80,2.53
+Software Engineering,4,65,25,80,3.7
+Computer Networks,4,79,20,83,3.28
+Software Engineering,2,92,25,69,2.0
+OS,5,38,12,38,5.56
+Computer Networks,3,92,18,28,3.01
+Maths,5,74,13,17,5.56
+Python,5,90,25,79,3.56
+Software Engineering,4,46,18,69,4.42
+Python,4,93,28,51,3.46
+Computer Networks,4,81,5,79,4.03
+Statistics,2,92,18,80,2.15
+Statistics,3,41,15,55,3.69
+Data Structures,3,89,21,89,2.04
+DBMS,3,76,12,47,3.35
+Maths,5,46,1,8,8.0
+Statistics,3,95,10,34,3.24
+Statistics,5,63,13,71,4.61
+Statistics,3,42,6,11,5.37
+DBMS,4,38,24,65,4.74
+Statistics,5,35,11,19,6.33
+Data Structures,3,80,6,95,2.69
+Python,3,79,16,80,2.68
+Data Structures,3,94,21,75,2.87
+Web Development,2,44,16,55,3.95
+Computer Networks,4,36,4,37,6.17
+Python,3,56,12,88,3.3
+DBMS,4,47,9,61,4.79
+Software Engineering,2,53,5,55,3.95
+OS,4,44,10,24,5.37
+Maths,5,35,24,30,5.83
+DBMS,3,53,20,33,4.58
+Web Development,3,85,3,22,4.75
+Computer Networks,2,40,15,25,4.53
+DBMS,3,84,24,93,2.14
+Web Development,4,81,18,53,3.18
+Maths,3,74,14,88,2.41
+Computer Networks,2,59,25,67,2.76
+Python,3,51,11,26,4.9
+Data Structures,3,49,25,22,4.74
+DBMS,5,88,30,18,4.58
+Maths,5,78,26,87,3.51
+Maths,4,60,29,70,4.02
+Python,3,81,15,38,3.32
+Web Development,2,59,5,75,3.38
+Python,1,52,28,39,3.06
+Web Development,3,84,25,77,2.07
+Python,1,91,1,81,4.15
+Software Engineering,3,53,14,50,4.42
+AI,5,56,17,20,5.66
+Statistics,4,64,28,36,4.66
+DBMS,5,90,13,80,3.83
+Maths,4,92,23,15,4.44
+Web Development,4,68,11,56,4.19
+Web Development,4,46,15,47,4.79
+Computer Networks,3,58,28,84,2.48
+DBMS,4,35,15,15,5.91
+DBMS,4,63,7,86,3.74
+Computer Networks,2,84,19,21,2.76
+Computer Networks,3,63,12,79,3.13
+AI,3,40,5,31,5.41
+OS,3,37,5,89,4.32
+AI,3,45,3,48,5.24
+Software Engineering,4,45,26,25,5.09
+Software Engineering,2,52,25,89,1.94
+DBMS,4,84,29,6,4.91
+Web Development,5,38,22,60,4.23
+AI,4,95,15,56,3.14
+Maths,4,68,24,20,5.05
+Web Development,3,88,11,66,2.95
+Web Development,1,88,22,72,1.39
+Software Engineering,2,52,12,38,3.93
+OS,4,49,27,64,4.01
+Data Structures,2,73,15,47,3.38
+Data Structures,5,62,27,93,3.65
+OS,4,47,18,89,3.91
+Web Development,4,95,8,37,4.05
+Python,2,37,21,80,2.8
+DBMS,3,94,15,52,2.62
+Python,4,51,17,56,4.41
+OS,5,41,28,10,5.53
+Software Engineering,4,60,11,32,4.87
+OS,4,78,15,73,2.94
+Statistics,5,48,16,68,4.6
+Computer Networks,4,89,26,41,3.25
+Python,1,53,24,87,1.47
+Maths,4,72,15,92,3.55
+Statistics,4,67,13,33,4.05
+Computer Networks,4,91,4,45,4.08
+Software Engineering,3,70,8,21,4.47
+Web Development,3,94,21,18,3.91
+Python,3,88,12,10,3.77
+Maths,3,89,15,24,3.96
+Python,3,43,16,91,3.05
+OS,4,90,20,7,4.62
+OS,4,57,28,46,4.57
+AI,5,80,19,69,3.67
+Data Structures,5,67,15,10,5.53
+Data Structures,5,58,2,65,5.81
+AI,4,39,14,67,4.21
+Data Structures,4,40,7,83,4.32
+Python,3,46,7,66,4.18
+Computer Networks,4,67,19,31,4.5
+Statistics,4,46,24,5,4.86
+Data Structures,4,66,12,17,4.76
+Software Engineering,3,68,13,39,3.9
+Software Engineering,4,48,9,74,5.06
+DBMS,3,78,21,37,3.81
+Software Engineering,2,80,30,32,3.07
+DBMS,1,60,29,66,2.3
+DBMS,4,91,4,57,3.83
+DBMS,2,61,24,89,2.04
+Data Structures,2,64,19,94,2.56
+AI,4,59,1,25,7.53
+Computer Networks,3,88,20,60,3.44
+Computer Networks,4,86,7,79,3.34
+Python,4,74,30,48,4.25
+AI,5,70,12,88,3.91
+Maths,4,95,11,5,4.35
+Data Structures,3,69,27,92,2.92
+DBMS,3,71,20,43,3.61
+Computer Networks,3,91,10,50,3.09
+Web Development,3,85,29,84,2.86
+Web Development,3,91,12,82,2.36
+AI,5,55,2,43,6.94
+Python,4,57,25,32,5.06
+Data Structures,5,43,15,19,6.0
+OS,4,73,25,71,3.25
+Statistics,3,58,13,15,4.37
+OS,3,46,25,67,3.25
+Web Development,3,76,11,77,3.36
+Computer Networks,4,37,17,81,4.1
+DBMS,5,62,6,13,5.77
+AI,3,55,22,9,4.75
+Software Engineering,2,74,9,22,3.81
+Maths,4,54,14,55,4.21
+Computer Networks,5,65,6,37,5.39
+Python,2,89,20,41,2.89
+Web Development,3,95,26,17,4.21
+Data Structures,3,91,16,30,3.31
+Maths,5,43,7,55,5.59
+DBMS,4,66,14,34,4.58
+Statistics,4,43,17,88,4.26
+Computer Networks,5,41,4,13,7.28
+Computer Networks,4,39,23,33,4.92
+Data Structures,5,85,21,74,3.21
+Maths,3,59,3,68,4.88
+Maths,3,35,11,73,4.59
+OS,4,79,6,49,4.39
+Statistics,3,84,4,16,4.53
+DBMS,5,83,16,51,3.85
+Python,3,89,18,85,2.23
+AI,5,66,13,18,5.28
+DBMS,4,82,20,51,3.34
+AI,5,46,1,50,7.37
+Web Development,3,65,18,57,3.08
+DBMS,4,38,14,59,4.31
+DBMS,3,81,24,78,2.5
+Software Engineering,2,56,5,11,4.73
+Web Development,1,44,26,56,3.3
+Computer Networks,4,68,4,15,5.73
+Statistics,5,76,26,72,4.18
+Python,3,46,8,81,3.9
+Data Structures,4,70,23,40,4.38
+Data Structures,4,61,28,86,3.66
+Software Engineering,1,74,11,46,2.85
+Statistics,3,60,13,65,3.21
+Maths,4,90,5,25,5.0
+OS,4,71,19,39,4.32
+Computer Networks,5,40,14,49,5.07
+Python,4,75,20,46,3.67
+DBMS,3,38,10,77,4.23
+DBMS,3,63,25,95,2.92
+AI,3,90,26,71,2.63
+DBMS,2,52,8,34,3.74
+Web Development,2,61,26,42,3.44
+AI,3,60,10,63,4.42
+Web Development,2,89,4,94,2.69
+Data Structures,5,69,26,9,5.83
+Statistics,5,88,14,25,4.33
+Data Structures,3,59,22,94,2.13
+Statistics,5,37,19,31,5.28
+Data Structures,2,77,20,91,2.38
+Software Engineering,3,39,22,14,5.53
+Web Development,4,61,17,93,3.17
+Computer Networks,2,59,3,28,4.82
+DBMS,4,49,22,75,4.11
+Data Structures,4,40,24,20,5.26
+Data Structures,4,71,24,68,3.66
+Maths,5,75,30,11,5.16
+Statistics,4,59,24,88,3.52
+DBMS,3,89,22,19,3.5
+Computer Networks,4,94,30,49,3.67
+Python,4,95,2,8,6.13
+Web Development,1,37,28,70,2.7
+Computer Networks,4,89,9,33,4.32
+Data Structures,5,35,8,71,5.58
+Python,5,60,8,28,5.64
+DBMS,5,70,25,28,4.9
+Statistics,2,55,13,93,2.96
+Statistics,4,65,9,48,4.44
+Software Engineering,3,74,27,15,3.97
+OS,5,54,2,47,6.98
+Computer Networks,5,90,5,81,4.14
+DBMS,4,55,21,8,5.31
+Python,3,69,20,74,2.72
+Data Structures,4,40,27,95,3.83
+AI,5,79,14,80,4.19
+DBMS,3,59,22,64,3.86
+Software Engineering,3,88,15,48,3.35
+OS,4,61,24,67,3.55
+Web Development,1,48,14,65,3.61
+Data Structures,4,77,15,74,3.57
+OS,3,43,17,63,4.17
+AI,5,95,17,41,3.78
+DBMS,3,80,7,18,4.29
+Software Engineering,4,40,6,10,6.22
+Web Development,3,85,12,41,3.17
+Maths,3,52,30,68,3.6
+Data Structures,4,95,5,78,3.26
+Data Structures,3,38,30,30,5.24
+Computer Networks,3,70,8,94,2.73
+Computer Networks,5,61,29,19,5.44
+Computer Networks,3,49,11,8,5.5
+Python,5,95,9,12,4.75
+Computer Networks,5,91,4,82,3.96
+Statistics,2,44,14,38,3.87
+DBMS,5,85,20,89,3.76
+Web Development,5,87,4,61,4.67
+Python,1,88,7,71,2.22
+Computer Networks,3,68,6,77,3.99
+Python,4,82,28,15,4.45
+Data Structures,4,44,17,40,4.68
+Computer Networks,4,70,9,26,4.28
+Web Development,2,56,16,9,4.19
+Python,3,46,7,62,4.42
+AI,4,42,2,80,5.9
+AI,5,94,6,88,3.16
+Software Engineering,2,65,20,14,3.5
+Software Engineering,3,94,16,67,2.6
+OS,5,58,17,84,4.74
+Statistics,4,68,1,88,5.65
+AI,3,89,22,15,4.06
+Software Engineering,3,58,29,66,3.88
+OS,4,68,13,37,4.62
+Maths,3,91,2,85,4.27
+OS,5,54,5,9,5.92
+Web Development,2,73,13,87,2.97
+Statistics,5,43,17,83,4.39
+DBMS,4,70,10,91,3.46
+Maths,5,43,18,93,4.5
+Maths,3,39,16,49,5.08
+OS,3,60,15,32,4.92
+Maths,4,40,18,63,4.65
+Software Engineering,2,53,1,40,6.32
+Software Engineering,2,77,8,76,2.83
+Software Engineering,2,82,3,28,4.57
+Statistics,3,89,3,33,4.52
+Python,3,84,12,61,3.0
+Web Development,2,35,3,61,4.58
+Software Engineering,1,50,1,8,6.31
+Python,4,88,4,60,3.91
+AI,4,86,25,26,3.56
+Software Engineering,3,45,6,18,5.09
+Web Development,1,37,30,46,3.56
+Software Engineering,2,81,13,67,2.8
+AI,4,41,29,65,4.71
+Statistics,5,83,3,70,4.65
+DBMS,4,57,24,40,4.72
+Computer Networks,3,83,14,32,3.79
+Statistics,4,41,26,51,4.12
+Statistics,2,83,30,32,3.37
+Statistics,3,81,1,57,5.64
+Statistics,4,62,5,66,5.07
+Computer Networks,4,84,10,50,3.8
+Computer Networks,4,57,14,94,3.58
+Python,4,94,14,31,4.09
+Python,3,56,19,89,2.96
+Software Engineering,1,76,15,73,1.6
+Python,4,36,17,82,4.26
+Python,3,44,2,93,4.87
+Maths,5,74,18,42,5.2
+Data Structures,3,91,26,24,3.77
+Statistics,4,71,10,8,5.0
+DBMS,5,78,24,22,4.37
+Computer Networks,3,41,2,38,5.96
+Data Structures,5,76,8,43,4.65
+Web Development,4,47,16,36,4.51
+DBMS,5,53,9,56,5.17
+AI,3,55,24,19,4.16
+OS,3,53,10,11,4.65
+Data Structures,3,54,24,15,4.52
+Maths,4,71,4,31,4.73
+Data Structures,4,89,25,92,2.84
+Web Development,3,84,2,26,5.49
+AI,4,46,24,21,5.13
+Computer Networks,3,62,16,58,4.0
+OS,4,80,30,8,4.61
+Software Engineering,2,50,4,91,3.41
+Statistics,4,58,9,61,4.25
+Software Engineering,1,56,20,18,4.19
+DBMS,5,65,19,47,4.39
+DBMS,1,50,1,47,5.01
+Software Engineering,2,45,6,39,4.18
+Statistics,2,88,10,72,2.59
+Maths,5,73,24,43,4.4
+Software Engineering,3,93,10,58,2.97
+Data Structures,4,61,8,93,3.37
+OS,3,62,1,41,6.09
+AI,3,79,7,20,4.32
+Data Structures,3,67,11,76,2.53
+Computer Networks,4,57,3,74,4.31
+AI,5,48,18,25,5.76
+OS,4,54,14,59,4.52
+Maths,5,69,20,19,5.19
+DBMS,3,55,16,45,4.73
+OS,4,69,21,94,3.18
+AI,4,76,26,85,3.26
+Data Structures,4,41,19,81,4.41
+Software Engineering,2,65,27,70,2.17
+AI,5,90,19,95,3.05
+Web Development,3,44,23,47,4.12
+Statistics,3,41,27,89,3.48
+DBMS,4,89,24,64,2.78
+Statistics,3,59,21,45,3.94
+Statistics,4,70,21,81,3.32
+OS,3,38,4,80,4.79
+AI,4,54,30,88,3.67
+Software Engineering,3,43,22,80,3.65
+AI,3,94,16,23,4.44
+Data Structures,4,64,27,84,3.98
+OS,4,85,19,42,3.93
+Maths,4,36,9,89,4.66
+Python,2,93,29,63,2.1
+Data Structures,5,93,13,59,4.05
+DBMS,3,81,6,73,3.22
+DBMS,4,79,11,56,4.29
+Statistics,4,84,9,84,3.6
+Computer Networks,5,36,24,50,4.93
+Web Development,4,95,10,22,3.69
+Software Engineering,4,81,9,46,4.0
+DBMS,4,91,21,41,3.9
+AI,5,87,12,42,4.32
+Python,3,81,17,31,3.59
+AI,5,42,1,88,6.81
+Maths,5,35,22,84,4.87
+Maths,4,79,2,21,6.16
+DBMS,4,92,29,81,2.39
+DBMS,4,68,16,80,3.82
+Statistics,4,78,22,83,2.58
+AI,4,80,1,42,6.86
+Maths,4,86,16,58,3.52
+Web Development,4,56,21,90,3.13
+Maths,3,70,20,23,4.5
+Maths,5,80,30,75,4.02
+OS,3,63,2,18,5.93
+Web Development,1,53,5,93,2.96
+Software Engineering,1,94,25,37,2.52
+Maths,4,78,4,35,5.47
+Software Engineering,3,92,22,54,3.08
+Python,2,74,6,23,3.87
+Web Development,3,62,12,38,3.85
+Web Development,3,60,23,54,3.56
+Python,3,74,20,67,3.11
+Statistics,4,55,18,37,5.59
+AI,5,76,22,53,3.95
+Python,4,68,10,12,5.38
+Maths,4,83,22,44,3.48
+OS,3,95,9,50,2.78
+OS,5,75,12,92,3.73
+Computer Networks,5,44,12,88,4.66
+Web Development,4,86,29,7,4.48
+Maths,5,53,8,85,4.81
+OS,3,60,21,80,3.48
+Maths,5,45,1,8,7.84
+Software Engineering,2,63,14,47,3.88
+DBMS,3,64,1,36,7.0
+Statistics,4,80,4,92,3.88
+Maths,4,47,22,77,4.38
+Web Development,2,80,23,60,2.67
+Data Structures,5,47,1,10,8.0
+AI,4,67,17,39,4.41
+Computer Networks,4,95,23,48,2.96
+Python,3,59,6,48,4.75
+Statistics,4,40,23,9,5.67
+OS,3,75,5,74,3.26
+Maths,5,75,6,40,5.05
+OS,5,76,2,12,6.65
+Web Development,2,64,17,64,2.89
+AI,4,55,2,69,5.43
+Computer Networks,5,92,24,19,4.52
+OS,3,71,11,9,4.27
+Statistics,5,82,2,25,5.85
+Python,4,71,9,93,3.26
+Statistics,3,48,30,17,4.56
+Statistics,5,43,30,33,5.3
+Python,3,93,14,17,3.96
+Maths,4,49,21,56,4.26
+Python,3,55,19,13,4.89
+Maths,5,79,24,36,4.99
+Software Engineering,2,35,15,15,5.1
+Statistics,4,92,14,55,3.2
+AI,4,74,17,8,5.16
+OS,4,70,29,25,4.49
+Web Development,3,87,5,5,5.14
+Software Engineering,2,49,28,43,3.46
+Software Engineering,3,95,28,12,3.55
+Python,3,92,3,82,3.16
+Software Engineering,2,37,4,79,4.42
+Web Development,3,51,21,44,4.35
+AI,3,90,26,67,3.0
+Software Engineering,3,51,18,29,4.34
+Computer Networks,4,46,5,56,5.38
+Statistics,4,66,8,39,5.27
+Python,1,82,30,16,2.39
+Maths,3,45,29,60,4.81
+AI,4,71,11,76,3.73
+DBMS,1,58,29,61,2.62
+Web Development,3,65,14,61,3.92
+Computer Networks,3,89,26,39,3.84
+Python,3,44,23,53,3.68
+Computer Networks,2,87,3,87,2.74
+Data Structures,4,54,28,60,4.0
+OS,4,68,14,64,3.9
+OS,2,43,7,73,4.08
+DBMS,4,89,10,64,4.34
+Maths,5,94,14,34,4.22
+Statistics,4,66,5,23,5.35
+Software Engineering,2,43,13,95,2.87
+Python,3,41,30,80,3.46
+Software Engineering,3,61,1,22,6.4
+Maths,5,35,28,95,4.13
+DBMS,4,37,8,23,5.58
+DBMS,3,36,16,46,3.75
+Data Structures,4,70,22,20,4.99
+Web Development,4,43,29,21,5.2
+DBMS,3,87,16,46,3.17
+Statistics,4,47,5,84,4.66
+DBMS,4,79,20,42,3.73
+DBMS,4,47,15,73,4.82
+DBMS,3,42,4,69,4.65
+Computer Networks,3,72,11,95,2.8
+Web Development,1,51,7,40,4.32
+Maths,2,80,26,94,0.95
+Web Development,2,85,15,50,2.49
+DBMS,4,71,5,18,5.13
+Python,2,88,9,33,2.79
+OS,3,44,26,69,3.52
+DBMS,4,67,20,70,3.83
+Web Development,1,70,15,48,2.7
+AI,4,35,23,65,4.23
+AI,5,38,12,41,5.66
+AI,4,81,3,29,5.52
+AI,3,81,17,69,2.36
+Statistics,3,36,17,94,3.61
+Maths,3,36,12,51,4.48
+OS,4,39,24,82,3.99
+Computer Networks,5,72,6,54,5.31
+DBMS,5,77,19,12,5.07
+Maths,2,73,22,55,2.96
+Statistics,3,68,8,30,3.77
+Statistics,4,63,1,21,7.35
+Statistics,3,47,7,66,4.64
+Maths,5,78,24,65,4.24
+Python,2,55,20,94,3.27
+Data Structures,5,94,7,72,4.67
+OS,4,76,13,22,4.48
+AI,3,93,1,90,4.59
+Maths,2,89,26,32,2.94
+AI,4,74,28,34,4.54
+Data Structures,5,71,26,41,4.73
+Statistics,4,94,15,5,4.99
+Maths,5,53,8,7,6.27
+AI,4,37,4,89,4.84
+Maths,4,64,6,87,3.46
+Computer Networks,5,50,27,81,3.79
+Statistics,2,91,4,37,3.97
+Statistics,5,66,25,50,4.29
+AI,4,94,8,60,3.19
+DBMS,2,41,4,81,4.23
+DBMS,4,78,27,38,3.97
+OS,2,95,25,11,3.64
+AI,5,84,23,75,3.03
+Python,3,57,17,71,3.18
+AI,3,59,14,70,3.79
+Statistics,5,69,5,79,4.74
+AI,2,60,1,73,5.52
+Data Structures,5,67,19,92,3.72
+Statistics,5,84,25,35,4.33
+Data Structures,3,60,28,43,3.45
+Statistics,3,50,18,34,4.82
+OS,3,66,5,23,5.07
+Statistics,3,56,21,95,3.24
+AI,5,83,16,64,3.84
+OS,3,66,19,9,4.25
+Computer Networks,4,36,7,69,4.89
+Statistics,5,58,3,36,5.96
+Software Engineering,2,83,4,74,3.46
+Statistics,3,90,19,93,2.07
+Python,3,88,16,18,3.98
+OS,4,93,10,9,4.3
+Software Engineering,2,83,7,33,3.71
+Data Structures,4,76,28,74,3.22
+AI,3,68,24,95,2.61
+Computer Networks,3,94,27,24,3.07
+Computer Networks,4,82,15,30,4.4
+DBMS,4,64,16,48,4.43
+Data Structures,3,38,13,28,4.99
+Web Development,2,77,6,6,4.67
+Computer Networks,3,92,7,30,3.44
+Computer Networks,4,86,4,41,4.36
+AI,5,64,23,69,4.15
+OS,4,94,24,9,4.55
+Computer Networks,3,41,1,60,6.11
+Web Development,2,86,21,64,1.81
+Computer Networks,2,72,23,11,3.76
+Python,3,72,29,14,4.45
+Software Engineering,2,58,14,53,3.19
+DBMS,3,92,22,59,2.97
+OS,5,58,5,11,6.26
+Python,2,94,23,63,1.64
+Statistics,4,92,23,69,3.2
+DBMS,4,67,1,95,5.77
+Data Structures,3,55,10,31,4.18
+Python,2,54,9,52,3.5
+Maths,5,84,2,79,4.71
+Maths,3,75,22,65,3.25
+Python,4,71,28,74,3.47
+AI,4,55,30,58,3.81
+Data Structures,5,79,13,81,3.65
+DBMS,3,46,29,20,4.6
+Web Development,2,89,22,25,3.43
+DBMS,4,77,4,62,4.07
+DBMS,5,58,29,46,5.12
+Web Development,4,60,30,33,4.17
+Web Development,2,72,4,51,4.08
+Software Engineering,1,90,15,26,2.21
+Maths,4,69,12,14,4.78
+Maths,4,95,17,49,3.27
+Maths,3,64,20,5,4.41
+Python,2,47,26,74,3.2
+Statistics,5,66,2,17,6.97
+Software Engineering,2,54,6,69,3.36
+Statistics,4,50,10,73,4.23
+OS,5,57,6,93,4.73
+Statistics,5,37,20,55,5.38
+Computer Networks,4,57,23,11,5.08
+Software Engineering,2,72,30,60,3.02
+Web Development,3,67,30,25,4.5
+Web Development,1,77,21,74,1.51
+Data Structures,3,95,28,20,3.25
+Statistics,4,77,16,42,4.1
+Statistics,4,60,22,18,5.09
+Computer Networks,4,60,16,34,4.65
+AI,4,48,20,8,5.92
+OS,4,72,6,12,5.55
+DBMS,3,49,12,8,5.27
+Statistics,3,40,5,60,4.74
+Statistics,4,77,9,45,4.65
+DBMS,5,42,27,60,5.11
+Data Structures,5,38,4,52,6.61
+Data Structures,4,64,20,69,3.87
+OS,3,84,14,54,3.2
+Python,3,60,13,79,3.45
+Statistics,4,79,9,21,4.71
+DBMS,3,71,8,54,3.59
+Statistics,4,46,28,58,4.69
+Python,2,64,26,31,3.65
+Software Engineering,2,57,22,82,3.07
+Statistics,4,63,24,76,3.58
+AI,3,50,11,20,4.4
+OS,5,88,10,71,4.11
+Python,2,82,10,48,2.55
+Maths,4,58,11,33,4.38
+Software Engineering,4,68,13,87,3.36
+Maths,4,68,13,55,3.93
+Python,3,93,6,79,2.87
+Web Development,4,77,28,62,3.67
+Computer Networks,4,73,29,90,2.68
+AI,5,86,13,82,3.32
+Software Engineering,3,43,9,86,3.43
+Statistics,4,42,17,66,4.34
+Computer Networks,3,47,26,17,4.96
+Data Structures,4,37,1,84,7.03
+Maths,5,53,23,91,4.63
+AI,4,46,4,69,5.18
+Web Development,2,69,27,38,3.3
+Maths,4,71,12,45,4.46
+Statistics,3,90,10,63,2.76
+Python,3,59,17,30,4.41
+Python,3,75,14,25,4.64
+Maths,4,69,29,92,3.35
+OS,3,90,22,28,3.42
+Statistics,3,83,18,34,3.58
+Computer Networks,4,46,25,23,5.25
+Data Structures,5,61,3,83,5.36
+Maths,4,52,18,59,4.52
+OS,5,57,2,39,6.21
+OS,2,71,7,39,4.02
+Web Development,4,36,27,8,5.4
+OS,2,42,22,38,5.03
+Python,2,90,27,95,1.54
+Software Engineering,3,74,30,85,2.8
+Maths,4,77,24,91,3.23
+Web Development,5,89,10,81,3.43
+Maths,4,80,16,5,4.55
+Software Engineering,4,85,2,50,5.14
+OS,1,39,17,32,3.29
+AI,2,77,15,91,2.37
+Python,3,90,1,90,4.74
+DBMS,2,77,24,18,3.47
+Python,1,58,5,17,4.05
+Statistics,3,63,25,31,4.41
+OS,3,87,9,5,4.73
+Data Structures,3,37,30,71,4.09
+OS,3,52,23,73,3.12
+Statistics,4,84,13,46,4.27
+Python,3,94,15,19,3.06
+OS,4,62,30,93,2.74
+Maths,4,48,26,94,3.76
+Maths,3,64,26,66,2.81
+Python,2,54,25,69,2.98
+Computer Networks,3,61,27,38,3.9
+Software Engineering,3,83,4,28,4.73
+Maths,3,65,14,75,2.85
+Maths,5,56,10,9,6.01
+Maths,3,74,11,88,3.22
+Python,3,78,18,56,3.15
+Python,2,65,17,20,4.06
+DBMS,4,73,29,54,3.38
+Web Development,4,61,1,62,6.43
+Data Structures,4,95,13,60,3.96
+Data Structures,3,67,20,43,3.96
+AI,5,70,18,29,5.43
+Data Structures,3,58,6,18,5.11
+Data Structures,4,73,24,12,4.62
+Python,3,83,7,21,4.18
+Maths,4,95,4,13,4.74
+Statistics,3,85,12,61,2.39
+Computer Networks,4,95,15,76,2.98
+Statistics,4,41,15,53,4.68
+Computer Networks,3,92,28,17,3.47
+Data Structures,3,72,22,42,3.64
+Maths,5,44,26,20,6.07
+Data Structures,5,45,17,20,6.02
+Data Structures,4,87,15,71,2.87
+AI,4,44,23,41,4.97
+Python,4,49,12,15,4.88
+Web Development,2,53,14,37,3.26
+DBMS,2,80,27,50,2.29
+Web Development,4,59,9,37,5.12
+Statistics,4,48,10,89,3.83
+AI,5,36,20,28,5.77
+Statistics,4,47,28,74,4.18
+DBMS,4,49,6,50,5.33
+OS,3,81,23,51,3.63
+AI,4,40,10,90,4.01
+Software Engineering,2,89,2,11,5.04
+Python,4,44,22,29,4.8
+Python,4,57,29,81,3.49
+Data Structures,4,55,17,66,4.21
+Data Structures,4,86,26,69,3.16
+AI,2,67,4,12,4.42
+DBMS,5,65,20,84,3.82
+Statistics,5,88,22,45,4.77
+Data Structures,5,57,29,16,5.6
+AI,3,88,18,31,3.88
+DBMS,3,51,29,20,4.89
+DBMS,3,94,30,55,3.04
+Maths,4,76,20,88,2.7
+Web Development,3,85,10,35,3.41
+DBMS,3,63,3,75,4.34
+Computer Networks,2,37,5,39,5.13
+Computer Networks,4,62,19,51,4.51
+Software Engineering,4,91,15,26,4.17
+Computer Networks,3,41,22,41,4.77
+Statistics,3,59,8,87,3.51
+DBMS,3,93,5,20,4.6
+Statistics,3,88,21,6,3.87
+Python,2,50,1,80,5.05
+Computer Networks,3,88,29,92,1.7
+OS,5,53,4,47,5.43
+Data Structures,3,36,15,48,4.31
+Data Structures,4,42,6,72,4.64
+AI,5,65,3,5,6.84
+DBMS,4,66,28,54,3.44
+Python,2,89,24,39,2.57
+Statistics,3,82,18,92,2.2
+Maths,4,76,20,24,3.94
+DBMS,4,89,7,54,3.57
+AI,3,65,9,30,4.28
+Statistics,4,50,26,26,4.76
+Computer Networks,4,38,19,65,5.03
+Web Development,2,74,29,78,2.65
+AI,4,79,25,57,3.69
+Python,3,50,21,33,4.73
+Computer Networks,3,49,18,41,4.05
+Statistics,2,69,3,37,4.41
+Statistics,3,89,5,33,4.33
+Statistics,5,39,17,59,5.18
+Python,2,61,17,54,3.66
+Python,3,93,4,34,4.33
+Computer Networks,5,51,2,87,5.27
+Statistics,3,69,25,67,3.32
+AI,3,93,12,14,3.58
+Python,2,59,12,5,4.14
+OS,4,77,17,86,3.28
+Statistics,3,70,2,58,5.56
+DBMS,4,44,7,29,6.3
+Maths,5,87,19,36,4.26
+Maths,5,52,21,81,4.22
+DBMS,5,87,21,89,2.92
+AI,4,52,19,6,4.99
+Python,1,69,25,94,1.51
+Python,2,40,20,58,3.82
+AI,5,80,21,56,4.04
+Web Development,3,57,8,56,4.43
+OS,4,72,10,60,4.08
+Web Development,2,46,10,80,3.57
+Software Engineering,4,88,16,31,3.78
+Statistics,4,81,21,31,3.87
+Web Development,2,79,16,52,2.56
+Statistics,5,49,27,23,5.78
+Python,3,67,22,58,3.52
+Web Development,1,95,1,61,3.5
+Software Engineering,3,73,18,54,3.27
+Web Development,3,60,27,33,4.09
+Data Structures,3,42,26,8,5.26
+Data Structures,4,54,11,53,4.24
+Web Development,2,47,29,67,3.36
+AI,5,92,20,36,4.28
+Statistics,4,64,30,78,3.64
+Web Development,3,85,5,69,3.09
+Statistics,4,39,22,44,4.74
+Computer Networks,4,66,5,33,5.08
+Computer Networks,4,56,10,22,5.3
+Statistics,5,54,1,91,7.08
+Python,4,73,10,50,4.27
+DBMS,3,93,3,87,3.52
+Python,2,73,19,52,2.79
+Statistics,4,61,29,27,4.6
+Maths,4,49,15,8,5.45
+DBMS,4,73,11,84,3.68
+Data Structures,3,80,1,85,4.93
+AI,4,45,13,81,3.8
+Computer Networks,3,65,4,62,4.22
+Computer Networks,4,86,26,48,3.45
+OS,5,38,18,49,5.34
+OS,3,57,19,16,4.74
+DBMS,3,81,2,84,3.76
+Data Structures,5,85,12,79,3.44
+AI,5,75,29,65,3.84
+OS,4,49,15,56,4.91
+AI,5,37,22,37,5.48
+DBMS,4,44,21,11,5.37
+Maths,4,69,28,9,4.8
+Software Engineering,2,48,21,36,4.33
+Python,3,85,1,50,5.51
+Software Engineering,4,91,4,69,4.5
+Software Engineering,4,80,14,61,3.76
+Maths,4,71,28,55,3.66
+DBMS,2,50,28,51,3.38
+OS,2,67,24,92,2.13
+Computer Networks,3,82,3,11,4.87
+Web Development,4,46,9,84,3.81
+Software Engineering,3,86,24,87,2.12
+Python,3,91,27,10,3.62
+Python,2,52,19,67,3.7
+Web Development,5,84,2,80,5.59
+Web Development,3,87,28,59,2.92
+Statistics,4,66,21,64,3.93
+Web Development,4,74,28,20,4.31
+Software Engineering,4,77,12,35,4.6
+Python,3,49,24,32,4.66
+Data Structures,3,41,11,36,4.8
+Maths,5,74,7,25,5.06
+Web Development,4,84,25,56,3.62
+Computer Networks,3,65,5,42,4.67
+DBMS,5,78,17,67,3.43
+Python,2,61,21,61,2.9
+Software Engineering,3,42,3,42,5.43
+Web Development,2,69,10,31,3.77
+Maths,4,64,29,68,3.36
+Software Engineering,3,58,21,72,2.87
+Python,4,93,21,82,2.95
+Computer Networks,2,44,8,73,3.83
+Computer Networks,5,61,18,32,5.74
+DBMS,4,56,29,73,3.86
+OS,2,90,10,78,2.19
+Statistics,3,60,10,47,4.73
+Software Engineering,4,79,26,33,4.04
+AI,2,73,18,79,2.43
+Data Structures,3,82,22,82,3.33
+Web Development,4,82,19,73,3.02
+Statistics,5,94,22,79,2.62
+Data Structures,3,85,8,12,4.44
+Maths,5,85,16,61,3.67
+Software Engineering,4,83,1,25,6.92
+Web Development,3,82,18,94,2.3
+Statistics,3,92,2,48,4.63
+DBMS,3,71,14,73,2.84
+Python,3,40,14,12,4.72
+DBMS,4,89,15,5,4.5
+AI,4,36,11,85,4.18
+Data Structures,3,35,28,18,4.59
+Computer Networks,5,50,17,50,4.97
+Statistics,3,52,28,74,3.32
+Python,3,63,12,32,4.46
+Python,2,50,9,70,3.75
+Data Structures,5,43,29,81,4.37
+Data Structures,5,83,26,39,4.26
+OS,4,83,25,21,3.92
+Statistics,4,35,27,54,4.4
+Software Engineering,2,55,4,14,5.05
+Maths,5,94,27,79,3.28
+Statistics,3,61,6,36,4.63
+Software Engineering,5,48,7,24,6.27
+Computer Networks,2,82,14,82,2.5
+Web Development,3,67,28,57,3.36
+Web Development,3,66,21,51,3.82
+Computer Networks,3,39,3,77,4.5
+Data Structures,2,36,10,82,4.06
+OS,5,43,15,29,5.87
+AI,4,95,25,57,2.66
+Software Engineering,4,51,20,27,4.9
+Python,2,42,16,12,4.15
+Statistics,4,77,7,62,3.95
+Statistics,5,54,24,34,4.8
+OS,3,37,23,29,4.9
+Software Engineering,4,42,9,65,4.58
+Python,3,82,10,92,2.56
+Python,3,57,3,79,4.32
+Web Development,5,61,1,17,7.79
+Statistics,5,36,19,34,5.29
+Data Structures,5,61,20,44,5.43
+Software Engineering,3,84,22,36,3.04
+Maths,3,60,1,69,5.8
+OS,2,61,14,67,3.45
+Software Engineering,3,37,20,47,3.95
+Statistics,3,71,8,37,3.99
+Computer Networks,4,63,6,6,5.67
+Maths,4,63,29,43,4.23
+Python,1,91,29,65,1.77
+Data Structures,4,76,19,27,4.56
+Python,4,74,22,87,3.44
+Data Structures,4,90,30,59,3.14
+Computer Networks,3,69,20,74,2.87
+DBMS,2,91,4,25,4.37
+OS,4,71,1,63,6.18
+Web Development,3,42,23,65,3.96
+Computer Networks,4,57,12,88,4.34
+DBMS,4,85,25,76,3.66
+DBMS,5,41,11,20,6.06
+Data Structures,5,36,13,65,5.01
+OS,1,75,30,35,2.53
+OS,5,62,16,10,5.03
+Software Engineering,3,45,28,32,4.8
+Computer Networks,2,37,8,57,4.22
+DBMS,4,89,5,36,4.1
+AI,3,85,4,15,4.33
+Web Development,2,87,19,65,2.22
+Software Engineering,3,84,12,36,3.65
+Web Development,4,40,29,31,5.31
+Web Development,4,73,22,50,3.66
+Web Development,3,43,10,86,3.74
+Data Structures,4,43,21,57,4.63
+AI,4,81,27,22,4.58
+OS,3,44,7,61,4.02
+Software Engineering,1,84,1,38,4.89
+Python,4,92,5,46,4.49
+Maths,4,93,8,81,2.52
+Computer Networks,4,84,9,44,4.1
+DBMS,3,80,16,13,4.17
+DBMS,4,93,17,82,2.49
+DBMS,3,63,2,92,4.28
+Software Engineering,4,50,12,67,4.44
+Data Structures,5,54,1,41,7.67
+Maths,5,50,24,66,4.22
+Web Development,2,43,28,52,3.51
+AI,5,53,18,45,5.05
+Computer Networks,3,51,18,75,3.2
+Python,2,80,9,41,2.87
+Statistics,4,84,3,32,5.71
+Data Structures,4,77,26,42,4.01
+OS,2,93,5,51,3.4
+Computer Networks,4,39,16,65,4.72
+DBMS,4,70,11,76,4.26
+Data Structures,4,89,28,46,3.24
+Maths,4,55,8,67,3.96
+Maths,3,78,7,9,4.63
+DBMS,4,40,6,73,4.92
+Python,4,85,27,51,3.12
+Web Development,2,82,6,23,2.97
+DBMS,3,74,16,14,4.37
+Web Development,2,40,17,44,3.91
+Computer Networks,3,36,23,81,3.83
+Python,3,52,9,38,4.05
+Software Engineering,4,50,1,56,7.26
+Maths,5,50,18,56,5.24
+AI,3,91,2,55,4.69
+Python,3,66,11,42,4.14
+AI,4,92,1,70,5.83
+Computer Networks,5,40,5,62,5.58
+DBMS,5,79,8,58,4.13
+DBMS,3,49,27,6,4.27
+Statistics,2,47,24,36,3.98
+Data Structures,5,92,16,67,3.87
+Data Structures,4,82,20,14,4.85
+Maths,5,85,29,39,4.27
+Data Structures,4,82,7,55,3.58
+Web Development,3,49,4,88,4.45
+Data Structures,3,88,3,16,4.64
+Data Structures,3,87,20,85,2.66
+OS,4,84,16,85,3.04
+Python,2,37,21,51,3.37
+DBMS,4,95,5,65,3.6
+Data Structures,4,90,26,85,3.31
+OS,3,78,30,81,2.69
+OS,2,77,13,60,2.76
+OS,4,66,15,92,3.77
+Software Engineering,4,52,10,34,5.13
+Software Engineering,1,83,4,6,4.11
+AI,5,47,23,42,4.97
+Computer Networks,1,57,6,38,4.01
+Maths,5,60,9,57,4.81
+Maths,4,73,20,13,4.32
+OS,4,54,12,95,3.66
+OS,3,59,28,51,3.73
+DBMS,5,91,9,11,5.19
+Computer Networks,3,95,24,69,2.2
+Computer Networks,2,65,19,69,3.07
+Statistics,4,76,26,76,2.92
+AI,5,58,24,45,4.84
+AI,3,83,6,84,2.53
+Computer Networks,5,79,18,70,3.97
+Python,1,37,17,64,2.78
+Web Development,4,54,8,94,4.25
+Data Structures,3,64,21,73,2.82
+Maths,5,65,23,50,4.66
+AI,5,44,4,75,5.66
+Maths,5,80,24,76,3.88
+AI,5,44,9,67,4.88
+Python,4,54,16,11,4.95
+OS,3,44,3,47,5.26
+OS,3,53,22,85,3.61
+Software Engineering,2,72,5,25,3.69
+Maths,4,76,19,20,4.68
+Software Engineering,2,83,19,17,3.69
+Computer Networks,3,65,20,49,3.47
+Computer Networks,4,46,6,56,5.45
+Maths,5,55,15,81,3.98
+Software Engineering,2,95,8,53,2.59
+Computer Networks,4,81,27,5,4.58
+Web Development,3,48,9,36,4.32
+OS,4,43,1,88,6.68
+DBMS,4,76,28,7,4.8
+Software Engineering,3,47,11,93,3.52
+DBMS,4,76,28,16,4.29
+Statistics,4,56,26,14,4.79
+Software Engineering,1,40,1,10,6.39
+Web Development,3,77,3,44,4.9
+Python,3,76,15,95,2.38
+OS,3,42,7,63,3.84
+Data Structures,5,82,19,25,5.21
+Computer Networks,3,52,7,38,4.83
+Maths,4,64,10,31,5.2
+Web Development,3,68,5,24,5.18
+Web Development,1,37,1,7,6.0
+OS,3,35,5,55,4.77
+Software Engineering,2,55,23,33,3.74
+Data Structures,4,74,9,40,4.25
+Maths,5,36,23,83,4.29
+DBMS,2,60,26,24,3.37
+Python,2,43,10,34,3.55
+Python,3,79,6,84,3.35
+Software Engineering,4,75,12,29,4.87
+Python,4,84,15,80,3.51
+Data Structures,4,86,11,43,3.76
+Maths,4,86,4,33,4.92
+Software Engineering,3,40,1,50,7.1
+Maths,5,76,14,5,5.27
+Python,4,46,16,74,4.04
+DBMS,2,56,12,52,3.61
+Web Development,3,95,8,32,3.67
+AI,4,61,12,34,4.29
+Maths,5,77,13,12,5.04
+AI,2,93,11,88,1.93
+Maths,4,88,22,70,3.46
+DBMS,4,64,3,70,4.31
+Data Structures,5,47,15,36,5.26
+Statistics,5,83,24,51,3.83
+Data Structures,2,62,21,46,3.01
+DBMS,3,67,22,78,2.75
+Maths,5,85,21,27,4.75
+OS,3,75,8,12,4.58
+Python,2,88,21,59,2.67
+Statistics,3,74,8,92,2.58
+OS,4,62,24,61,3.93
+Python,3,59,17,74,3.5
+Computer Networks,3,50,16,39,4.12
+Software Engineering,2,56,30,36,3.85
+AI,5,48,6,65,4.94
+Maths,3,78,1,60,5.34
+Web Development,4,66,9,15,4.8
+Statistics,3,42,10,8,5.36
+Maths,5,66,26,51,4.66
+Python,2,87,11,5,3.88
+Maths,5,48,6,44,5.46
+Computer Networks,5,38,23,29,6.05
