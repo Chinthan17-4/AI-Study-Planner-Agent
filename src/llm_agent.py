@@ -103,9 +103,9 @@ message = response.choices[0].message
 print("\n--- LLM RESPONSE ---")
 print(message)
 
-if message.tool_calls:
+while message.tool_calls:
 
-    # Add the assistant's tool request to the conversation
+    # Add the LLM's tool request to the conversation
     messages.append(message)
 
     for tool_call in message.tool_calls:
@@ -117,7 +117,6 @@ if message.tool_calls:
         print("Tool:", tool_name)
         print("Arguments:", arguments)
 
-        # Execute the requested tool
         if tool_name == "prioritize_subject":
 
             result = prioritize_subject(
@@ -136,6 +135,7 @@ if message.tool_calls:
             )
 
         else:
+
             result = {
                 "error": f"Unknown tool: {tool_name}"
             }
@@ -143,19 +143,22 @@ if message.tool_calls:
         print("\n--- TOOL RESULT ---")
         print(result)
 
-        # Send the tool result back to the LLM
         messages.append({
             "role": "tool",
             "tool_call_id": tool_call.id,
             "content": json.dumps(result)
         })
 
-    # Ask the LLM to continue after receiving tool results
-    final_response = client.chat.completions.create(
+    # Ask the LLM what to do next
+    response = client.chat.completions.create(
         model="openai/gpt-oss-20b",
         messages=messages,
-        tools=tools
+        tools=tools,
+        tool_choice="auto"
     )
 
-    print("\n--- FINAL LLM RESPONSE ---")
-    print(final_response.choices[0].message.content)
+    message = response.choices[0].message
+
+
+print("\n--- FINAL LLM RESPONSE ---")
+print(message.content)
