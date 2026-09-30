@@ -1,8 +1,10 @@
 import joblib
 import pandas as pd
+from pathlib import Path
 
 
-MODEL_PATH = "models/study_hours_model.pkl"
+# Resolve model path relative to the project root (parent of src/).
+MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "study_hours_model.pkl"
 
 
 def recommend_study_time(
